@@ -1,3 +1,5 @@
-# 01.gitHub 
+## 1주차
 
-http://sunone22.tistory.com/28
+### 01.gitHub 
+
+- http://sunone22.tistory.com/28
