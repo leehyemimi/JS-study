@@ -6,12 +6,10 @@
 
 
 
-```
-
-	c
-		void f()
-		    printf(%s,“이것은 c 코드 입니다”);
-		}
-
-```
+~~~javascript
+function syntaxHighlight(code, lang) {
+   var foo = 'rhio';
+   var bar = 33;
+}
+~~~
 
