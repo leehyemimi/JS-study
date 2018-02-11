@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>함수방식</title>
+	<script>
+		//클래스 정의
+		function User() {
+			this.name = "leehyewon";
+			this.age = 20;
+			this.showInfo =function () {
+				document.write("name = " +this.name +" , age =  " + this.age);
+			}
+		}
+		
+		//인스턴스 생성
+		var user = new User();
+		
+		//메서드 호출
+		user.showInfo();
+	</script>
+</head>
+<body>
+
+</body>
+</html>
