@@ -5,19 +5,21 @@
 	<title>함수방식</title>
 	<script>
 		//클래스 정의
-		function User() {
-			this.name = "leehyewon";
-			this.age = 20;
+		function User(obj) {
+			this.name = obj.name;
+			this.age = obj.age;
 			this.showInfo =function () {
-				document.write("name = " +this.name +" , age =  " + this.age);
+				console.log("name = " +this.name +" , age =  " + this.age);
 			}
 		}
 		
 		//인스턴스 생성
-		var user = new User();
+		var user = new User({name:"이혜원", age:33});
+		var user1 = new User({name:"김지혜", age:33});
 		
 		//메서드 호출
 		user.showInfo();
+		user1.showInfo();
 	</script>
 </head>
 <body>
