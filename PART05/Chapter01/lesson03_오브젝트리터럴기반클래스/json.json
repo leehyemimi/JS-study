@@ -1,0 +1,2269 @@
+[
+  {
+	"depth1": [
+	  {
+		"no": "1",
+		"label": "1",
+		"depth2": [
+		  {
+			"no": "1",
+			"label": "TEST 01",
+			"depth3": [
+			  {
+				"no": "1",
+				"label": "Part 1",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 01_2-D_amg.mp3",
+					  "TEST 01_2-D_eug.mp3"
+					],
+					"eng": "(One of the women is pointing to a notepad.)",
+					"kor": "\uc5ec\uc790\ub4e4 \uc911 \ud55c \uba85\uc774 \uba54\ubaa8\uc9c0\ub97c \uac00\ub9ac\ud0a4\uace0 \uc788\ub2e4."
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 01_3-B_amg.mp3"
+					],
+					"eng": "(The woman is facing away from a screen.)",
+					"kor": "\uc5ec\uc790\ub294 \ud654\uba74\uc5d0\uc11c \uace0\uac1c\ub97c \ub3cc\ub9ac\uace0 \uc788\ub2e4."
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 01_4-D_amg.mp3"
+					],
+					"eng": "(All of the seats have been occupied.)",
+					"kor": "\ubaa8\ub4e0 \uc790\ub9ac\ub4e4\uc774 \ub2e4 \ucc28 \uc788\ub2e4."
+				  }
+				]
+			  },
+			  {
+				"no": "2",
+				"label": "Part 2",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 01_8_amg.mp3",
+					  "TEST 01_8_eug.mp3"
+					],
+					"eng": [
+					  "Q : (What did Thomas need help with?)",
+					  "A : (Assembling a new desk.)"
+					],
+					"kor": [
+					  "Q : Thomas\uac00 \ub3c4\uc6c0\uc774 \ud544\uc694\ud55c \uac83\uc774 \ubb34\uc5c7\uc774\uc5c8\ub098\uc694?",
+					  "A : \uc0c8 \ucc45\uc0c1\uc744 \uc870\ub9bd\ud558\ub294 \uac83\uc774\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 01_9_amg.mp3",
+					  "TEST 01_9_eug.mp3"
+					],
+					"eng": [
+					  "Q : (When did you purchase this painting?)",
+					  "A : (I\u2019ve had it for three years now.)"
+					],
+					"kor": [
+					  "Q : \ub2f9\uc2e0\uc740 \uc5b8\uc81c \uc774 \uadf8\ub9bc\uc744 \uad6c\ub9e4\ud588\ub098\uc694?",
+					  "A : \uc800\ub294 \ud604\uc7ac 3\ub144\uc9f8 \uadf8\uac83\uc744 \uc18c\uc720\ud558\uace0 \uc788\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 01_11_amg.mp3"
+					],
+					"eng": [
+					  "Q : (Who approved the new budget?)",
+					  "A : (You\u2019ll have to ask the manager.)"
+					],
+					"kor": [
+					  "Q : \ub204\uac00 \uc0c8\ub85c\uc6b4 \uc608\uc0b0\uc548\uc744 \uc2b9\uc778\ud588\ub098\uc694?",
+					  "A : \ub2f9\uc2e0\uc740 \uad00\ub9ac\uc790\uc5d0\uac8c \ubb3c\uc5b4\ubd10\uc57c \ud560 \uac70\uc608\uc694."
+					]
+				  },
+				  {
+					"no": "4",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 01_15_amg.mp3"
+					],
+					"eng": [
+					  "Q : (Aren\u2019t there additional decorations in some of those boxes?)",
+					  "A : (I think they\u2019re all empty.)"
+					],
+					"kor": [
+					  "Q : \uc800 \uba87\uba87 \uc0c1\uc790\ub4e4 \uc548\uc5d0 \ucd94\uac00 \uc7a5\uc2dd\ud488\ub4e4\uc774 \ub4e4\uc5b4 \uc788\uc9c0 \uc54a\ub098\uc694?",
+					  "A : \uadf8\uac83\ub4e4\uc740 \ubaa8\ub450 \ube44\uc5b4 \uc788\ub294 \uac83 \uac19\uc544\uc694."
+					]
+				  },
+				  {
+					"no": "5",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 01_16_amg.mp3",
+					  "TEST 01_16_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Does the supervisor plan to extend our deadline?)",
+					  "A : (She hasn\u2019t informed anyone about that.)"
+					],
+					"kor": [
+					  "Q : \uc0c1\uc0ac\uac00 \uc6b0\ub9ac\uc758 \ub9c8\uac10 \uae30\ud55c\uc744 \uc5f0\uc7a5\ud574\uc904 \uacc4\ud68d\uc778\uac00\uc694?",
+					  "A : \uadf8\ub140\ub294 \uc544\ubb34\uc5d0\uac8c\ub3c4 \uadf8\uac83\uc744 \uc54c\ub9ac\uc9c0 \uc54a\uc558\uc5b4\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "3",
+				"label": "Part 3",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 01_32-34_amg.mp3",
+					  "TEST 01_32-34_eug.mp3"
+					],
+					"eng": [
+					  "W: Sam, (our company is going to expand its product offerings) this fall with a special seasonal collection of greeting cards. I\u2019d like you to design them.",
+					  "M: OK. Do you currently have an opinion about how you\u2019d like the cards to look? Or (will I have the final say over their appearance)?",
+					  "W: Aside from wanting them to incorporate the colors of autumn, such as red, orange, and yellow, I don\u2019t have a preference. Please (show me your drafts next Friday)."
+					],
+					"kor": [
+					  "W: Sam, \uc6b0\ub9ac \ud68c\uc0ac\ub294 \uc774\ubc88 \uac00\uc744\uc5d0 \uacf5\uae09 \uc81c\ud488\uc744 \ud655\ub300\ud558\uace0 \ud2b9\ubcc4 \uc2dc\uc98c \uc0c1\ud488\uc758 \uc778\uc0ac \uce74\ub4dc\ub97c \ud568\uaed8 \ubcf4\ub0bc \uc608\uc815\uc774\uc5d0\uc694. \ub2f9\uc2e0\uc774 \uadf8\uac83\ub4e4\uc744 \ub514\uc790\uc778\ud574\uc8fc\uc5c8\uc73c\uba74 \ud569\ub2c8\ub2e4.",
+					  "M: \uc54c\uaca0\uc2b5\ub2c8\ub2e4. \uc6d0\ud558\ub294 \uce74\ub4dc \uc678\uad00\uc5d0 \ub300\ud55c \uc758\uacac\uc774 \uc9c0\uae08 \uc788\uc73c \uc2e0\uac00\uc694? \uc544\ub2c8\uba74 \uce74\ub4dc \uc678\uad00\uc5d0 \ub300\ud55c \ucd5c\uc885 \uacb0\uc815\uad8c\uc774 \uc81c\uac8c \uc788\ub098\uc694?",
+					  "W: \ube68\uac04\uc0c9, \uc8fc\ud669\uc0c9, \uadf8\ub9ac\uace0 \ub178\ub780\uc0c9 \uac19\uc740 \uac00\uc744\uc758 \uc0c9\uc744 \ud3ec\ud568\ud588\uc73c\uba74 \ud558\ub294 \uac83 \uc774\uc678\uc5d0\ub294, \ud2b9\ubcc4\ud788 \ud76c\ub9dd\ud558\ub294 \uac83\uc740 \uc5c6\uc2b5\ub2c8\ub2e4. \ub2e4\uc74c \uc8fc \uae08\uc694\uc77c\uc5d0 \uc81c\uac8c \ucd08\uc548\uc744 \ubcf4\uc5ec\uc8fc\uc138\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 01_38-40_amg.mp3"
+					],
+					"eng": [
+					  "W: Mr. Abdul, this is Amari Nadia, a staff writer for Current Affairs Magazine. I\u2019m working on an article, and I\u2019d like to interview you for the piece. (Would you be willing to answer a few questions) about the organization you direct, Mediterranean Aid?",
+					  "M: Certainly. But right now is not a good time for me. I\u2019m about to (hold a video conference with some donors). I should be available to contact you tomorrow if that would work.",
+					  "W: (I\u2019ll be attending appointments throughout the morning), but I should be back at my office by 1:30 p.m. Why don\u2019t I call you back then?",
+					  "M: Yes, that would be convenient for me."
+					],
+					"kor": [
+					  "W: Mr. Abdul, Current Affairs\uc9c0\uc758 \uc804\uc18d \uae30\uc790 Amari Nadia\uc785\ub2c8\ub2e4. \uc81c\uac00 \uae30\uc0ac\ub97c \ud558\ub098 \uc4f0\uace0 \uc788\ub294\ub370, \uc774 \uae30\uc0ac\ub97c \uc704\ud574 \ub2f9\uc2e0\uc744 \uc778\ud130\ubdf0\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc774 \uad00\ub9ac\ud558\ub294 \ub2e8\uccb4\uc778 Mediterranean Aid\uc5d0 \ub300\ud55c \uba87 \uac00\uc9c0 \uc9c8\ubb38\uc5d0 \uae30\uaebc\uc774 \ub300\ub2f5\ud574\uc8fc\uc2e4 \uc218 \uc788\ub098\uc694?",
+					  "M: \ubb3c\ub860\uc785\ub2c8\ub2e4. \ud558\uc9c0\ub9cc \uc9c0\uae08 \ub2f9\uc7a5\uc740 \ud798\ub4e4\uc5b4\uc694. \uae30\ubd80\uc790\ub4e4\uacfc\uc758 \ud654\uc0c1 \ud68c\uc758\ub97c \ub9c9 \uc5f4\ub824\ub294 \ucc38\uc774\uac70\ub4e0\uc694. \uad1c\ucc2e\uc73c\uc2dc\ub2e4\uba74 \uc81c\uac00 \ub0b4\uc77c \uc5f0\ub77d\ub4dc\ub9b4 \uc218 \uc788\uc744 \uac83 \uac19\uc740\ub370\uc694.",
+					  "W: \uc624\uc804 \ub0b4\ub0b4 \uc57d\uc18d\uc5d0 \ucc38\uc11d\ud560 \uc608\uc815\uc774\uc9c0\ub9cc, \uc624\ud6c4 1\uc2dc 30\ubd84\uae4c\uc9c0\ub294 \uc0ac\ubb34\uc2e4\uc5d0 \ub3cc\uc544\uc640 \uc788\uc744 \uac81\ub2c8\ub2e4. \uadf8\ub54c \uc81c\uac00 \ub2f9\uc2e0\uaed8 \ub2e4\uc2dc \uc804\ud654 \ub4dc\ub9ac\ub294 \uac83\uc774 \uc5b4\ub5a8\uae4c\uc694?",
+					  "M: \ub124, \uc81c\uac8c\ub3c4 \uadf8\uac8c \ud3b8\ud558\uaca0\ub124\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "4",
+				"label": "Part 4",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 01_74-76_amg.mp3"
+					],
+					"eng": [
+					  "Attention all shoppers. Please note that tomorrow is the final day of the Cedar Market Charity Drive.",
+					  "(Any customers can participate in the drive), which is aimed at supplying items to the Merriam Park Food Shelf.",
+					  "To contribute, simply buy canned or boxed foods and place them in the bin next to the front door.",
+					  "And remember, Cedar Market will (give out a small complimentary gift to anyone who donates).",
+					  "So, please (take part in this good cause) today."
+					],
+					"kor": [
+					  "\ubaa8\ub4e0 \uc1fc\ud551\uac1d\ub4e4\uaed8 \uc54c\ub824\ub4dc\ub9bd\ub2c8\ub2e4. \ub0b4\uc77c\uc774 Cedar \uc288\ud37c\ub9c8\ucf13 \uc790 \uc120 \uc6b4\ub3d9\uc758 \ub9c8\uc9c0\ub9c9 \ub0a0\uc784\uc5d0 \uc8fc\ubaa9\ud574\uc8fc\uc2ed\uc2dc\uc624.",
+					  "\ubaa8\ub4e0 \uace0\uac1d\ub2d8\ub4e4\uaed8\uc11c \uc774 \uc6b4\ub3d9\uc5d0 \ucc38\uc5ec\ud558\uc2e4 \uc218 \uc788\uc73c\uba70, \uc774\ub294 Merriam Park Food Shelf\uc5d0 \ubb3c\ud488\uc744 \uacf5\uae09\ud558\ub294 \uac83\uc744 \ubaa9\ud45c\ub85c \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "\uae30\ubd80\ud558 \uc2dc\ub824\uba74, \uce94\uc774\ub098 \ubc15\uc2a4\uc5d0 \ub4e4\uc5b4 \uc788\ub294 \uc2dd\ud488\uc744 \uad6c\ub9e4\ud558\uc5ec \uc815\ubb38 \uc606\uc5d0 \uc788\ub294 \ud1b5\uc5d0 \ub123\uc73c\uc2dc\uae30\ub9cc \ud558\uba74 \ub429\ub2c8\ub2e4. ",
+					  "\uadf8\ub9ac\uace0, Cedar \uc288\ud37c\ub9c8\ucf13\uc740 \uae30\ubd80\ud558\ub294 \ubaa8\ub4e0 \ubd84\ub4e4\uaed8 \uc791\uc740 \ubb34\ub8cc \uacbd\ud488\uc744 \ub098\ub220\ub4dc\ub9b4 \uc608\uc815\uc774\ub77c\ub294 \uac83\uc744 \uae30\uc5b5\ud574\uc8fc\uc138\uc694.",
+					  "\uadf8\ub7ec\ub2c8, \uc624\ub298 \uc774 \uc88b\uc740 \uc6b4\ub3d9\uc5d0 \ucc38\uc5ec\ud574\uc8fc\uc138\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 01_83-85_amg.mp3",
+					  "TEST 01_83-85_eug.mp3"
+					],
+					"eng": [
+					  "Can I have everyone\u2019s attention for a moment? There will be a (mandatory departmental meeting this afternoon).",
+					  "It will be held from 3 p.m. to 4 p.m. in . . . uhm . . . in Conference Room 1.",
+					  "During that time, we are going to (have an informational session regarding your pension plans).",
+					  "As was noted in a memo earlier this week, our company will soon (restructure its policy for employee retirement benefits).",
+					  "Since I\u2019m the director of the personnel department, (it\u2019s my duty to explain the changes) for you all in detail.",
+					  "You\u2019ll also have a chance to bring forth any questions or concerns you may have.",
+					  "Also, can you all be sure to arrive promptly at 3 o\u2019clock? Thanks."
+					],
+					"kor": [
+					  "\ubaa8\ub450 \uc7a0\uc2dc\ub9cc \uc8fc\ubaa9\ud574\uc8fc\uc2dc\uaca0\uc2b5\ub2c8\uae4c? \uc624\ub298 \uc624\ud6c4\uc5d0 \ubd80\uc11c \ud544\uc218 \ud68c\uc758\uac00 \uc788\uc744 \uc608\uc815\uc785\ub2c8\ub2e4.",
+					  "\uc624\ud6c4 3\uc2dc\uc5d0\uc11c \uc624\ud6c4 4\uc2dc\uc5d0... \uc74c... \uc81c1 \ud68c\uc758\uc2e4\uc5d0\uc11c \uc5f4\ub9b4 \uac83\uc785\ub2c8\ub2e4.",
+					  "\uadf8 \uc2dc\uac04 \ub3d9\uc548, \uc6b0\ub9ac\ub294 \uc5ec\ub7ec\ubd84\uc758 \ud1f4\uc9c1 \uc5f0\uae08 \uc801\ub9bd \uc81c\ub3c4\uc5d0 \uad00\ud55c \uc815\ubcf4 \uc81c\uacf5 \uc2dc\uac04\uc744 \uac00\uc9c8 \uc608\uc815\uc785\ub2c8\ub2e4.",
+					  "\uc774\ubc88 \uc8fc \ucd08\uc5d0 \uba54\ubaa8\uc5d0 \uc801\ud600 \uc788\uc5c8\ub4ef\uc774, \uc6b0\ub9ac \ud68c\uc0ac\ub294 \uace7 \uc9c1\uc6d0\ub4e4\uc758 \ud1f4\uc9c1 \uc218\ub2f9 \uc81c\ub3c4\ub97c \uac1c\ud3b8\ud560 \uac83\uc785\ub2c8\ub2e4.",
+					  "\uc800\ub294 \uc778\uc0ac\ubd80 \ubd80\uc7a5\uc774\uae30 \ub54c\ubb38\uc5d0, \uc5ec\ub7ec\ubd84 \ubaa8\ub450\uc5d0\uac8c \ubcc0\uacbd \uc0ac\ud56d\uc744 \uc790\uc138\ud788 \uc124\uba85\ud558\ub294 \uac83\uc774 \uc800\uc758 \uc758\ubb34\uc785\ub2c8\ub2e4.",
+					  "\uc5ec\ub7ec\ubd84\ub4e4\uc774 \uac00\uc9c0\uace0 \uc788\uc744 \uc5b4\ub5a4 \uc9c8\ubb38\uc774\ub098 \uc6b0\ub824\ub97c \uc81c\uc2dc\ud560 \uae30\ud68c\ub3c4 \uc788\uc744 \uac83\uc785\ub2c8\ub2e4.",
+					  "\uadf8\ub9ac\uace0, \ubaa8\ub450 \uc815\ud655\ud788 3\uc2dc\uc5d0 \ub3c4\ucc29\ud574\uc8fc\uc2dc\uaca0\uc2b5\ub2c8\uae4c? \uac10\uc0ac\ud569\ub2c8\ub2e4."
+					]
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"no": "2",
+			"label": "TEST 02",
+			"depth3": [
+			  {
+				"no": "1",
+				"label": "Part 1",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 02_1-C_amg.mp3"
+					],
+					"eng": "(He\u2019s leaning over on top of a roof.)",
+					"kor": "\uadf8\ub294 \uc9c0\ubd95 \uc704\uc5d0\uc11c \ubab8\uc744 \uad6c\ubd80\ub9ac\uace0 \uc788\ub2e4"
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 02_4-A_amg.mp3",
+					  "TEST 02_4-A_eug.mp3"
+					],
+					"eng": "(Some bushes are being trimmed.)",
+					"kor": "\uba87\uba87 \uad00\ubaa9\ub4e4\uc774 \uc190\uc9c8\ub418\uace0 \uc788\ub2e4."
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 02_5-B_amg.mp3"
+					],
+					"eng": "(Some people are passing by a statue.)",
+					"kor": "\uba87\uba87 \uc0ac\ub78c\ub4e4\uc774 \uc870\uac01\uc0c1 \uc606\uc744 \uc9c0\ub098\uac00\uace0 \uc788\ub2e4."
+				  }
+				]
+			  },
+			  {
+				"no": "2",
+				"label": "Part 2",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 02_7_amg.mp3"
+					],
+					"eng": [
+					  "Q : (Why was Francis sent to Germany last week?)",
+					  "A : (He attended a conference.)"
+					],
+					"kor": [
+					  "Q : Francis\ub294 \uc65c \uc9c0\ub09c\uc8fc\uc5d0 \ub3c5\uc77c\ub85c \ubcf4\ub0b4\uc84c\ub098\uc694?",
+					  "A : He attended a conference."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 02_11_amg.mp3",
+					  "TEST 02_11_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Do you want me to review the product report?)",
+					  "A : (That\u2019s OK. It should be fine.)"
+					],
+					"kor": [
+					  "Q : \uc81c\uac00 \uc81c\ud488 \ubcf4\uace0\uc11c\ub97c \uac80\ud1a0\ud560\uae4c\uc694?",
+					  "A : \uad1c\ucc2e\uc544\uc694. \uadf8\uac83\uc740 \uad1c\ucc2e\uc744 \uac70\uc608\uc694."
+					]
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 02_16_amg.mp3"
+					],
+					"eng": [
+					  "Q : (What type of articles do you write for the newspaper?)",
+					  "A : (I focus on business topics.)"
+					],
+					"kor": [
+					  "Q : \ub2f9\uc2e0\uc740 \uc2e0\ubb38\uc5d0 \uc5b4\ub5a4 \uc885\ub958\uc758 \uae30\uc0ac\ub4e4\uc744 \uc4f0\ub098\uc694?",
+					  "A : \uc800\ub294 \ube44\uc988\ub2c8\uc2a4 \uc8fc\uc81c\ub4e4\uc5d0 \ucd08\uc810\uc744 \ub9de\ucdb0\uc694."
+					]
+				  },
+				  {
+					"no": "4",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 02_23_amg.mp3",
+					  "TEST 02_23_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Should I hand out the applications now or wait until later?)",
+					  "A : (Whichever you prefer.)"
+					],
+					"kor": [
+					  "Q : \uc2e0\uccad\uc11c\ub4e4\uc744 \uc9c0\uae08 \ub098\ub204\uc5b4\uc8fc\ub294 \uac8c \uc88b\uc744\uae4c\uc694, \uc544\ub2c8\uba74 \ub098\uc911\uae4c\uc9c0 \uae30\ub2e4\ub9ac\ub294 \uac8c \uc88b\uc744\uae4c\uc694?",
+					  "A : \ub2f9\uc2e0\uc774 \uc6d0\ud558\ub294 \ub300\ub85c\uc694."
+					]
+				  },
+				  {
+					"no": "5",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd\/\n\uc601\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 02_25_amg.mp3",
+					  "TEST 02_25_eug.mp3"
+					],
+					"eng": [
+					  "Q : (We will start the product demonstration in a few minutes.)",
+					  "A : (OK, and shall I inform the staff?)"
+					],
+					"kor": [
+					  "Q : \uc6b0\ub9ac\ub294 \uba87 \ubd84 \ud6c4\uc5d0 \uc81c\ud488 \uc124\uba85\uc744 \uc2dc\uc791\ud560 \uac70\uc608\uc694.",
+					  "A : \uc54c\uaca0\uc5b4\uc694, \uadf8\ub9ac\uace0 \uc81c\uac00 \uc9c1\uc6d0\ub4e4\uc5d0\uac8c \uc54c\ub9b4\uae4c\uc694?"
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "3",
+				"label": "Part 3",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 02_35-37_amg.mp3"
+					],
+					"eng": [
+					  "M: Wow, the line at the taxi stand looks really long. I wonder how much time it will (take us to get a ride to the convention center).",
+					  "W: Well, the convention doesn\u2019t start for another hour. (Maybe we could take the bus instead).",
+					  "M: That could work. I just want to be sure that we\u2019re there for the lecture on international finance.",
+					  "W: I\u2019m looking forward to that lecture as well. I know there will be (introductory speeches and messages from the sponsors before it begins). So, the bus should get us there in time."
+					],
+					"kor": [
+					  "M: \uc640, \ud0dd\uc2dc \uc2b9\ucc28\uc7a5\uc758 \uc904\uc774 \uc815\ub9d0 \uae38\uc5b4 \ubcf4\uc774\ub124\uc694. \ucee8\ubca4\uc158 \uc13c\ud130\ub85c \uac00\ub294 \ucc28\ub97c \ud0c0\uae30\uae4c\uc9c0 \uc2dc\uac04\uc774 \uc5bc\ub9c8\ub098 \uac78\ub9b4\uc9c0 \ubaa8\ub974\uaca0\uc5b4\uc694.",
+					  "W: \uc74c, \ud68c\uc758\uac00 \ud55c \uc2dc\uac04 \ub0b4\ub85c\ub294 \uc2dc\uc791\ud558\uc9c0 \uc54a\uc744 \uac70\uc608\uc694. \uc544\ub9c8 \uc6b0\ub9ac\ub294 \ub300\uc2e0\uc5d0 \ubc84\uc2a4\ub97c \ud0c0\ub3c4 \ub420 \uac70\uc608\uc694.",
+					  "M: \uadf8\uac83\ub3c4 \uad1c\ucc2e\uaca0\ub124\uc694. \ub2e4\ub9cc \uc800\ub294 \uc6b0\ub9ac\uac00 \uad6d\uc81c \uae08\uc735\uc5d0 \ub300\ud55c \uac15\uc758\uc5d0 \ubc18\ub4dc\uc2dc \ucc38\uc11d\ud560 \uc218 \uc788\uc73c\uba74 \uc88b\uaca0\uc5b4\uc694.",
+					  "W: \uc800\ub3c4 \uadf8 \uac15\uc758\ub97c \uae30\ub300\ud558\uace0 \uc788\uc5b4\uc694. \uac15\uc758\uac00 \uc2dc\uc791\ub418\uae30 \uc804\uc5d0 \uac1c\ud68c\uc0ac\uc640 \ud6c4\uc6d0\uc790\ub4e4\ub85c\ubd80\ud130\uc758 \uba54\uc2dc\uc9c0\uac00 \uc788\uc744 \uac83\uc73c\ub85c \uc54c\uace0 \uc788\uc5b4\uc694. \uadf8\ub7ec\ub2c8, \ubc84\uc2a4\ub294 \uc6b0\ub9ac\ub97c \uc81c\uc2dc\uac04\uc5d0 \uadf8\uacf3\uc73c\ub85c \ub370\ub824\ub2e4\uc904 \uc218 \uc788\uc744 \uac70\uc608\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 02_59-61_amg.mp3",
+					  "TEST 02_59-61_eug.mp3"
+					],
+					"eng": [
+					  "W: Thank you for calling Diamond Bank. This is Carly Simon speaking. How can I assist you?",
+					  "M: I\u2019m (having trouble logging on to your online banking service). Could you help with that?",
+					  "W: Our site is undergoing maintenance work. You can use Web services from 5 p.m. today.",
+					  "M: But I (have to make a wire transfer) before noon. Is there any other way for me to do that?",
+					  "W: Our (mobile application will allow you to do that).",
+					  "M: Really? How can I download it?",
+					  "W: Simply search for Diamond Bank in the Orpheus Application Store and click Install."
+					],
+					"kor": [
+					  "W: Diamond \uc740\ud589\uc5d0 \uc804\ud654 \uc8fc\uc154\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4. \uc800\ub294 Carly Simon\uc785\ub2c8\ub2e4. \uc5b4\ub5bb\uac8c \ub3c4\uc640\ub4dc\ub9b4\uae4c\uc694?",
+					  "M: \uc800\ub294 \uadc0\uc0ac\uc758 \uc628\ub77c\uc778 \uc740\ud589 \uc5c5\ubb34 \uc11c\ube44\uc2a4\uc5d0 \ub85c\uadf8\uc778\ud558\ub294 \ub370 \ubb38\uc81c\ub97c \uacaa\uace0 \uc788\uc5b4\uc694. \ub3c4\uc640\uc8fc\uc2e4 \uc218 \uc788\ub098\uc694?",
+					  "W: \uc800\ud76c \uc0ac\uc774\ud2b8\ub294 \uc815\ube44 \uc791\uc5c5 \uc911\uc785\ub2c8\ub2e4. \uc624\ub298 \uc624\ud6c4 5\uc2dc\ubd80\ud130 \uc800\ud76c \uc6f9 \uc11c\ube44\uc2a4\ub97c \uc774\uc6a9\ud558\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "M: \ud558\uc9c0\ub9cc \uc81c\uac00 \uc815\uc624 \uc804\uc5d0 \uc1a1\uae08\uc744 \ud574\uc57c \ud574\uc11c\uc694. \uc81c\uac00 \uadf8\uac78 \ud560 \uc218 \uc788\ub294 \ub2e4\ub978 \ubc29\ubc95\uc774 \uc788\ub098\uc694?",
+					  "W: \uc800\ud76c\uc758 \ud734\ub300 \uc804\ud654 \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uc73c\ub85c \ud558\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "M: \uadf8\ub798\uc694? \uc5b4\ub5bb\uac8c \uadf8\uac78 \ub0b4\ub824 \ubc1b\uc744 \uc218 \uc788\ub098\uc694?",
+					  "W: \uadf8\ub0e5 Orpheus \uc571\uc2a4\ud1a0\uc5b4\uc5d0\uc11c Diamond \uc740\ud589\uc744 \uac80\uc0c9\ud558\uc2dc\uace0, \uc124\uce58 \ubc84\ud2bc\uc744 \ub204\ub974\uc2dc\uba74 \ub429\ub2c8\ub2e4."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "4",
+				"label": "Part 4",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 02_71-73_amg.mp3"
+					],
+					"eng": [
+					  "This is the Carrington Art Gallery. Our facility is (currently closed for the weekend and is open) from 11 a.m. to 7 p.m. Monday through Friday.",
+					  "On Tuesday, April 19, we will be (hosting our Regional Exhibit to showcase the work of local artists).",
+					  "If you are interested in participating, drop by the gallery at 776 Moncton Avenue (in order to pick up an application form).",
+					  "If you have any other questions, please leave a message and we will get back to you."
+					],
+					"kor": [
+					  "\uc774\uacf3\uc740 Carrington \ubbf8\uc220\uad00\uc785\ub2c8\ub2e4. \uc800\ud76c \uc2dc\uc124\uc740 \ud604\uc7ac \uc8fc\ub9d0 \ub3d9\uc548 \ubb38\uc744 \ub2eb\uace0 \uc6d4\uc694\uc77c\uc5d0\uc11c \uae08\uc694\uc77c \uc624\uc804 11\uc2dc\ubd80\ud130 \uc624\ud6c4 7\uc2dc\uae4c\uc9c0 \uc6b4\uc601\ud569\ub2c8\ub2e4.",
+					  "4\uc6d4 19\uc77c \ud654\uc694\uc77c\uc5d0\ub294, \uc9c0\uc5ed \uc608\uc220\uac00\ub4e4\uc758 \uc791\ud488\uc744 \uc804\uc2dc\ud558\ub294 \uc9c0\uc5ed \ubc15\ub78c\ud68c\ub97c \uc8fc\ucd5c\ud560 \uac83\uc785\ub2c8\ub2e4",
+					  "\ucc38\uc5ec\uc5d0 \uad00\uc2ec\uc774 \uc788\uc73c\uc2e0 \ubd84\ub4e4\uc740, Moncton\uac00 776\ubc88\uc9c0\uc5d0 \uc704\uce58\ud55c \ubbf8\uc220\uad00\uc5d0 \ub4e4\ub7ec\uc11c \uc2e0\uccad\uc11c\ub97c \uac00\uc838\uac00\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.",
+					  "\ub2e4\ub978 \ubb38\uc758 \uc0ac\ud56d\uc774 \uc788\uc73c\uc2e0\ubd84\ub4e4\uc740, \uba54\uc2dc\uc9c0\ub97c \ub0a8\uaca8\uc8fc\uc2dc\uba74 \uc800\ud76c\uac00 \ub098\uc911\uc5d0 \ub2e4\uc2dc \uc5f0\ub77d \ub4dc\ub9ac\uaca0\uc2b5\ub2c8\ub2e4."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 02_80-82_amg.mp3",
+					  "TEST 02_80-82_eug.mp3"
+					],
+					"eng": [
+					  "Attention shoppers. We\u2019re happy to (announce the opening of our new store) on Monday, February 8.",
+					  "If you\u2019re looking for unusual gift items for your loved ones and friends, Eclectic Unlimited is the best shop for you.",
+					  "At Eclectic, we (sell innovative, elegant, and unique products for all ages) and occasions.",
+					  "On our opening day, we will be (offering a 50 percent discount on selected items) and the first 30 visitors will receive free Eclectic T-shirts.",
+					  "Don\u2019t miss this big event! See you all on Monday."
+					],
+					"kor": [
+					  "\uace0\uac1d\ub2d8\ub4e4\uaed8 \uc54c\ub824\ub4dc\ub9bd\ub2c8\ub2e4. 2\uc6d4 8\uc77c, \uc6d4\uc694\uc77c\uc5d0 \uc788\uc744 \uc0c8\ub85c\uc6b4 \ub9e4\uc7a5\uc758 \uac1c\uc810\uc744 \uc54c\ub9ac\uac8c \ub418\uc5b4 \uae30\uc069\ub2c8\ub2e4.",
+					  "\uc0ac\ub791\ud558\ub294 \uc0ac\ub78c\ub4e4\uacfc \uce5c\uad6c\ub4e4\uc744 \uc704\ud574 \uc0c9\ub2e4\ub978 \uc120\ubb3c \uc0c1\ud488\ub4e4\uc744 \ucc3e\uace0 \uacc4\uc2e0\ub2e4\uba74, Eclectic\uc0ac\uac00 \ub2f9\uc2e0\uc5d0\uac8c \ucd5c\uace0\uc758 \ub9e4\uc7a5\uc785\ub2c8\ub2e4.",
+					  "Eclectic\uc5d0\uc11c\ub294, \ubaa8\ub4e0 \uc5f0\ub839\uacfc \uacbd\uc6b0\uc5d0 \ub9de\ub294 \ud68d\uae30\uc801\uc774\uace0, \ud488\uaca9 \uc788\uace0, \ub3c5\ud2b9\ud55c \uc81c\ud488\ub4e4\uc744 \ud310\ub9e4\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "\uac1c\uc810\uc77c\uc5d0, \ud2b9\uc815 \uc0c1\ud488\ub4e4\uc5d0 \ud55c\ud574 50\ud37c\uc13c\ud2b8 \ud560\uc778\uc744 \ud574\ub4dc\ub9ac\uace0 \uc120\ucc29\uc21c 30\uba85\uc740 \ubb34\ub8cc Eclectic \ud2f0\uc154\uce20\ub97c \ubc1b\uc73c\uc2dc\uac8c \ub429\ub2c8\ub2e4.",
+					  "\uc774 \ud070 \ud589\uc0ac\ub97c \ub193\uce58\uc9c0 \ub9c8\uc138\uc694! \ubaa8\ub450 \uc6d4\uc694\uc77c\uc5d0 \ubd59\uaca0\uc2b5\ub2c8\ub2e4."
+					]
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"no": "3",
+			"label": "TEST 03",
+			"depth3": [
+			  {
+				"no": "1",
+				"label": "Part 1",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 03_1-B_amg.mp3"
+					],
+					"eng": "(He is handing a watch to a trainer.)",
+					"kor": "\uadf8\ub294 \ud2b8\ub808\uc774\ub108\uc5d0\uac8c \uc2dc\uacc4\ub97c \uac74\ub124\uace0 \uc788\ub2e4."
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 03_2-A_amg.mp3"
+					],
+					"eng": "(A woman is sitting beside a man.)",
+					"kor": "\ud55c \uc5ec\uc790\uac00 \ub0a8\uc790 \uc606\uc5d0 \uc549\uc544 \uc788\ub2e4."
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 03_4-C_amg.mp3",
+					  "TEST 03_4-C_eug.mp3"
+					],
+					"eng": "(Some plants have been placed in pots.)",
+					"kor": "\uba87\uba87 \uc2dd\ubb3c\ub4e4\uc774 \ud654\ubd84\uc5d0 \uc788\ub2e4."
+				  }
+				]
+			  },
+			  {
+				"no": "2",
+				"label": "Part 2",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 03_7-C_amg.mp3",
+					  "TEST 03_7-C_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Where can I get a cup of coffee?)",
+					  "A : (I\u2019ll show you.)"
+					],
+					"kor": [
+					  "Q : \uc5b4\ub514\uc5d0\uc11c \ucee4\ud53c \ud55c\uc794\uc744 \ud560 \uc218 \uc788\ub098\uc694?",
+					  "A : \uc81c\uac00 \uc548\ub0b4\ud574\ub4dc\ub9ac\uaca0\uc2b5\ub2c8\ub2e4."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 03_10-B_amg.mp3",
+					  "TEST 03_10-B_eug.mp3"
+					],
+					"eng": [
+					  "Q : (How do you feel about opening your own business?)",
+					  "A : (Oh, it\u2019ll be very exciting.)"
+					],
+					"kor": [
+					  "Q : \ub2f9\uc2e0\uc758 \uac00\uac8c\ub97c \uac1c\uc5c5\ud558\ub294 \uac83\uc5d0 \ub300\ud574 \uae30\ubd84\uc774 \uc5b4\ub5a4\uac00\uc694?",
+					  "A : \uc624, \uc815\ub9d0 \ud765\ubbf8\uc9c4\uc9c4\ud560 \uac70\uc608\uc694."
+					]
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 03_15-C_amg.mp3",
+					  "TEST 03_15-C_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Can you meet out for a meal around 7 o\u2019clock?)",
+					  "A : (Sure, I\u2019ll see you then.)"
+					],
+					"kor": [
+					  "Q : 7\uc2dc \uc815\ub3c4\uc5d0 \uc2dd\uc0ac\ud558\ub7ec \ubc16\uc5d0\uc11c \ub9cc\ub0a0 \uc218 \uc788\ub098\uc694?",
+					  "A : \ubb3c\ub860\uc774\uc8e0, \uadf8\ub54c \ubd10\uc694."
+					]
+				  },
+				  {
+					"no": "4",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 03_19-A_amg.mp3"
+					],
+					"eng": [
+					  "Q : (What was discussed during the seminar?)",
+					  "A : (A variety of topics.)"
+					],
+					"kor": [
+					  "Q : \uc138\ubbf8\ub098 \uc911\uc5d0 \ubb34\uc5c7\uc774 \ub17c\uc758\ub418\uc5c8\ub098\uc694?",
+					  "A : \uc5ec\ub7ec \uac00\uc9c0 \ub17c\uc81c\ub4e4\uc774\uc694."
+					]
+				  },
+				  {
+					"no": "5",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 03_24-B_amg.mp3",
+					  "TEST 03_24-B_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Would you mind distributing these flyers this weekend?)",
+					  "A : (To whom should I give them?)"
+					],
+					"kor": [
+					  "Q : \uc774\ubc88 \uc8fc\ub9d0\uc5d0 \uc774 \uc804\ub2e8\uc9c0\ub4e4\uc744 \ub098\ub220\uc904\ub798\uc694?",
+					  "A : \ub204\uad6c\uc5d0\uac8c \uadf8\uac83\ub4e4\uc744 \uc918\uc57c \ud558\ub098\uc694?"
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "3",
+				"label": "Part 3",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 03_44-46_amg.mp3",
+					  "TEST 03_44-46_eug.mp3"
+					],
+					"eng": [
+					  "W: Tom, I\u2019m going to take a break before we (begin our next presentation to the trade show guests). I need to make a phone call, and I don\u2019t want to disturb the other people in the lecture hall.",
+					  "M: Actually, we\u2019re starting in about five minutes, so you won\u2019t have that much time. Is it something that can\u2019t wait?",
+					  "W: Well, I just received a text message from an agent at the chauffeur company saying that our driver will be a bit late picking us up this evening.",
+					  "M: Hmm . . . (We\u2019re supposed to review today\u2019s events with our director) back at the hotel tonight, and we don\u2019t want to miss that. So, (you\u2019d better go into the corridor and place the call) after all."
+					],
+					"kor": [
+					  "W: Tom, \ubb34\uc5ed \ubc15\ub78c\ud68c \ub0b4\ube48 \ubd84\ub4e4\uaed8 \ub2e4\uc74c \ubc1c\ud45c\ub97c \ud558\uae30 \uc804\uc5d0, \uc800\ub294 \uc7a0\uc2dc \uc26c\ub294 \uc2dc\uac04\uc744 \uac00\uc9c8\uac8c\uc694. \uc804\ud654 \ud55c \ud1b5\uc744 \ud574\uc57c \ud558\ub294\ub370, \uac15\ub2f9\uc5d0 \uc788\ub294 \ub2e4\ub978 \uc0ac\ub78c\ub4e4\uc744 \ubc29\ud574\ud558\uace0 \uc2f6\uc9c4 \uc54a\uac70\ub4e0\uc694.",
+					  "M: \uc2e4\uc740, \uc6b0\ub9ac\uac00 \ub300\ub7b5 5\ubd84 \ud6c4\uc5d0 \uc2dc\uc791\ud560 \uac83\uc774\ub77c\uc11c, \uadf8\ub807\uac8c \ub9ce\uc740 \uc2dc\uac04\uc740 \uc5c6\uc744 \uac70\uc608\uc694. \ubbf8\ub8f0 \uc218 \uc5c6\ub294 \uc77c\uc778\uac00\uc694?",
+					  "W: \uc74c, \uc800\ub294 \ubc29\uae08 \uc6b4\uc804\uc0ac \uc911\uac1c\uc5c5\uccb4 \uc9c1\uc6d0\uc73c\ub85c\ubd80\ud130 \uc6b4\uc804\uc0ac\uac00 \uc624\ub298 \uc800\ub141\uc5d0 \uc6b0\ub9ac\ub97c \ub370\ub9ac\ub7ec \uc870\uae08 \ub2a6\uac8c \uc62c \uac70\ub77c\ub294 \ubb38\uc790 \uba54\uc2dc\uc9c0\ub97c \ubc1b\uc558\uc5b4\uc694.",
+					  "M: \ud760... \uc6b0\ub9ac\ub294 \uc624\ub298 \ubc24\uc5d0 \ud638\ud154\ub85c \ub3cc\uc544\uac00\uc11c \uc774\uc0ac\ub2d8\uacfc \uc624\ub298\uc758 \ud589\uc0ac\ub97c \uc7ac\uac80\ud1a0\ud558\uae30\ub85c \ub418\uc5b4 \uc788\ub294\ub370, \uadf8\uac78 \uc0dd\ub7b5\ud560 \uc218\ub294 \uc5c6\uc5b4\uc694. \uadf8\ub7ec\ub2c8, \uc544\ubb34\ud2bc \ubcf5\ub3c4\ub85c \uac00\uc11c \uc804\ud654\ub97c \ud558\ub294 \uac83\uc774 \uc88b\uaca0\ub124\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 03_68-70_amg.mp3"
+					],
+					"eng": [
+					  "W: Andrew, it\u2019s Rita. Are you done prepping for (tomorrow\u2019s presentation on our annual sales results)?",
+					  "M: Almost. (I\u2019m still collecting and analyzing some data), but I\u2019m going to finish everything soon.",
+					  "W: Great. Have you discovered anything noteworthy in the data so far?",
+					  "M: Actually, I have. We didn\u2019t achieve our sales quota of 10,000 units for some of our products.",
+					  "W: Is that so? I\u2019m surprised to hear that.",
+					  "M: Yes. (The sales director wants to discuss the product that got closest to the quota) but just fell short tomorrow. I\u2019ll show a graph detailing the performance of our various electronic goods."
+					],
+					"kor": [
+					  "W: Andrew, Rita\uc608\uc694. \ub0b4\uc77c \uc788\uc744 \uc6b0\ub9ac\uc758 \uc5f0\uac04 \ud310\ub9e4 \uacb0\uacfc\uc5d0 \ub300\ud55c \ubc1c\ud45c \uc900\ube44\ub294 \ub2e4 \ud588\ub098\uc694?",
+					  "M: \uac70\uc758 \ub2e4 \ud588\uc2b5\ub2c8\ub2e4. \uc800\ub294 \uc544\uc9c1 \uba87\uba87 \uc790\ub8cc\ub97c \uc218\uc9d1\ud558\uace0 \ubd84\uc11d\ud558\ub294 \uc911\uc778\ub370, \uace7 \ubaa8\ub4e0 \uac83\uc744 \ub9c8\ubb34\ub9ac \uc9c0\uc744 \uac70\uc608\uc694.",
+					  "W: \uc88b\uc544\uc694. \uc9c0\uae08\uae4c\uc9c0 \uc790\ub8cc\uc5d0\uc11c \uc8fc\ubaa9\ud560 \ub9cc\ud55c \uac83\uc744 \ubc1c\uacac\ud588\ub098\uc694?",
+					  "M: \uc2e4\uc740, \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4. \uc6b0\ub9ac\ub294 \uba87\uba87 \uc0c1\ud488\ub4e4\uc5d0 \ub300\ud574\uc11c\ub294 10,000\uac1c\uc758 \ud310\ub9e4 \ud560\ub2f9\ub7c9\uc744 \ub2ec\uc131\ud558\uc9c0 \ubabb\ud588\uc5b4\uc694.",
+					  "W: \uadf8\ub798\uc694? \uadf8 \ub9d0\uc744 \ub4e4\uc73c\ub2c8 \ub180\ub78d\ub124\uc694.",
+					  "M: \ub124. \uc601\uc5c5\ubd80 \ubd80\uc7a5\ub2d8\uc740 \ud560\ub2f9\ub7c9\uc5d0 \ub9e4\uc6b0 \uadfc\uc811\ud558\uae34 \ud588\uc9c0\ub9cc \uc57d\uac04 \ubd80\uc871\ud588\ub358 \uc81c\ud488\uc5d0 \ub300\ud574 \ub0b4\uc77c \ub17c\uc758\ud558\uace0 \uc2f6\uc5b4 \ud558\uc138\uc694. \uc804 \uc6b0\ub9ac\uc758 \uc5ec\ub7ec \uc804\uc790 \uc81c\ud488\ub4e4\uc758 \uc2e4\uc801\uc744 \uc0c1\uc138\ud788 \uc124\uba85\ud558\ub294 \uadf8\ub798\ud504\ub97c \ubcf4\uc5ec\ub4dc\ub9b4 \uac70\uc608\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "4",
+				"label": "Part 4",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 03_71-73_amg.mp3"
+					],
+					"eng": [
+					  "Thank you for attending this event in honor of my time with Forge Air.",
+					  "It\u2019s hard to believe that I\u2019ve been working at the company for 20 years.",
+					  "But, um, even though a lot of time has passed, I still (feel as passionately about being a pilot as my first day on the job).",
+					  "That\u2019s because (this position gives me the privilege) of seeing so much of the world.",
+					  "What I appreciate the most, though, is (working with a devoted and skilled team of colleagues).",
+					  "I consider myself very lucky to have such a rewarding career, and I look forward to my future with the company."
+					],
+					"kor": [
+					  "\uc81c\uac00 Forge \ud56d\uacf5\uc0ac\uc5d0\uc11c \ubcf4\ub0b8 \uc2dc\uac04\uc744 \uae30\ub150\ud558\ub294 \uc774 \ud589\uc0ac\uc5d0 \ucc38\uc11d\ud574\uc8fc\uc154\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4.",
+					  "\uc81c\uac00 \uc774 \ud68c\uc0ac\uc5d0\uc11c 20\ub144 \ub3d9\uc548 \uadfc\ubb34\ud574\uc654\ub2e4\ub294 \uac83\uc744 \ubbff\uae30\uac00 \ud798\ub4ed\ub2c8\ub2e4.",
+					  "\ud558\uc9c0\ub9cc, \uc74c, \ube44\ub85d \ub9ce\uc740 \uc2dc\uac04\uc774 \ud758\ub800\uc9c0\ub9cc, \uc800\ub294 \uc5ec\uc804\ud788 \uadfc\ubb34 \uccab\ub0a0\ub9cc\ud07c\uc774\ub098 \uc870\uc885\uc0ac\uc778 \uac83\uc5d0 \uc5f4\uc758\ub97c \uac00\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "\uadf8\uac83\uc740 \uc774 \uc790\ub9ac\uac00 \uc81c\uac8c \uc138\uacc4\uc758 \ub9e4\uc6b0 \ub9ce\uc740 \uac83\uc744 \ubcfc \uc218 \uc788\ub294 \uc601\uad11\uc744 \uac00\uc838\ub2e4\uc8fc\uae30 \ub54c\ubb38\uc785\ub2c8\ub2e4.",
+					  "\uadf8\ub7ec\ub098, \uc81c\uac00 \uac00\uc7a5 \uac10\uc0ac\ud558\ub294 \uac83\uc740 \ud5cc\uc2e0\uc801\uc774\uace0 \uc219\ub828\ub41c \ud300 \ub3d9\ub8cc\ub4e4\uacfc \ud568\uaed8 \uc77c\ud558\ub294 \uac83\uc785\ub2c8\ub2e4.",
+					  "\uc800\ub294 \uc774\ub7ec\ud55c \ubcf4\ub78c \uc788\ub294 \uc9c1\uc5c5\uc744 \uac00\uc9c0\uac8c\ub418\uc5b4 \uc81c \uc790\uc2e0\uc774 \ub9e4\uc6b0 \uc6b4\uc774 \uc88b\ub2e4\uace0 \uc0dd\uac01\ud558\uba70, \ud68c\uc0ac\uc640 \ud568\uaed8\ud558\ub294 \uc81c \ubbf8\ub798\uac00 \uae30\ub300\ub429\ub2c8\ub2e4."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 03_95-97_amg.mp3",
+					  "TEST 03_95-97_eug.mp3"
+					],
+					"eng": [
+					  "This message is for Nicholas Spader. I\u2019m calling on behalf of the Boston Literature Review to let you know that your book has been selected as one of the winners for our annual book awards.",
+					  "First, let me congratulate you. Our magazine reviews . . . ah . . . over 300 novels every year, so (it is a major accomplishment to receive the honor).",
+					  "I also want to let you know that (you\u2019re invited to a ceremony that will be held) in June to honor you as well as the two authors who placed above you and the one just below you.",
+					  "At the event, (you\u2019ll be given a medal and cash prize) of $5,000. Again, congratulations!"
+					],
+					"kor": [
+					  "Nicholas Spader\uaed8 \ub0a8\uae30\ub294 \uba54\uc2dc\uc9c0\uc785\ub2c8\ub2e4. \uadc0\ud558\uc758 \ucc45\uc774 \uc800\ud76c\uc758 \uc5f0\ub840 \ub3c4\uc11c \uc2dc\uc0c1\uc2dd\uc5d0\uc11c \uc218\uc0c1\uc791 \uc911 \ud558\ub098\ub85c \uc120\uc815\ub418\uc5c8\uc74c\uc744 \uc54c\ub824\ub4dc\ub9ac\uae30 \uc704\ud574 \ubcf4\uc2a4\ud134 \ubb38\ud559 \ud3c9\ub860\uc9c0 \ub97c \ub300\ud45c\ud558\uc5ec \uc804\ud654 \ub4dc\ub9bd\ub2c8\ub2e4.",
+					  "\uba3c\uc800, \ucd95\ud558 \ub4dc\ub9bd\ub2c8\ub2e4. \uc800\ud76c \uc7a1\uc9c0\uc0ac\ub294... \uc544... \ub9e4\ub144 300\ud3b8\uc774 \ub118\ub294 \uc18c\uc124\uc744 \uac80\ud1a0\ud558\uae30\uc5d0, \uc218\uc0c1\uc744 \ud558\ub294 \uac83\uc740 \ud070 \uc131\ucde8\uc785\ub2c8\ub2e4.",
+					  "\uc800\ub294 \ub610\ud55c \uadc0\ud558\uc640 \ub354\ubd88\uc5b4 \uadc0\ud558\ubcf4\ub2e4 \ub192\uc740 \uc21c\uc704\ub97c \ucc28\uc9c0\ud55c \ub450 \uba85\uc758 \uc791\uac00\uc640 \uadc0\ud558 \ubc14\ub85c \uc544\ub798\uc758 \uc21c\uc704\ub97c \ucc28\uc9c0\ud55c \ud55c \uba85\uc758 \uc791\uac00\ubd84\ub4e4\uaed8 \uacbd\uc758\ub97c \ud45c\ud558\uae30 \uc704\ud574 6\uc6d4\uc5d0 \uac1c\ucd5c\ub420 \uc2dc\uc0c1\uc2dd\uc5d0 \uadc0\ud558\uaed8\uc11c \ucd08\ub300\ub418\uc5c8\uc74c\uc744 \uc54c\ub824\ub4dc\ub9ac\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.",
+					  "\ud589\uc0ac\uc5d0\uc11c, \uadc0\ud558\ub294 \uba54\ub2ec\uacfc \ud604\uae08 5,000\ub2ec\ub7ec\uc758 \uc0c1\uae08\uc744 \ubc1b\uc73c\uc2e4 \uac83\uc785\ub2c8\ub2e4. \ub2e4\uc2dc \ud55c\ubc88, \ucd95\ud558 \ub4dc\ub9bd\ub2c8\ub2e4!"
+					]
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"no": "4",
+			"label": "TEST 04",
+			"depth3": [
+			  {
+				"no": "1",
+				"label": "Part 1",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 04_3-A_amg.mp3"
+					],
+					"eng": "(He\u2019s standing at the rear of a vehicle.)",
+					"kor": "\uadf8\ub294 \uc790\ub3d9\ucc28 \ub4a4\uc5d0 \uc11c \uc788\ub2e4."
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 04_4-A_amg.mp3",
+					  "TEST 04_4-A_eug.mp3"
+					],
+					"eng": "(The women are seated next to each other.)",
+					"kor": "\uc5ec\uc790\ub4e4\uc774 \ub098\ub780\ud788 \uc549\uc544 \uc788\ub2e4."
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 04_6-B_amg.mp3"
+					],
+					"eng": "(Some chairs are being lined up across the beach.)",
+					"kor": "\uba87\uba87 \uc758\uc790\ub4e4\uc774 \ud574\ubcc0 \uc804\uccb4\uc5d0 \uc815\ub82c\ub418\uace0 \uc788\ub2e4."
+				  }
+				]
+			  },
+			  {
+				"no": "2",
+				"label": "Part 2",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 04_9-B_amg.mp3",
+					  "TEST 04_9-B_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Which room should we host the meeting in?)",
+					  "A : (Do you have a preference?)"
+					],
+					"kor": [
+					  "Q : \uc5b4\ub290 \ubc29\uc5d0\uc11c \ud68c\uc758\ub97c \uc8fc\ucd5c\ud574\uc57c \ud560\uae4c\uc694?",
+					  "A : \uc120\ud638\ud558\ub294 \uac83\uc774 \uc788\ub098\uc694?"
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 04_12-B_amg.mp3",
+					  "TEST 04_12-B_eug.mp3"
+					],
+					"eng": [
+					  "Q : (When will the partnership be announced?)",
+					  "A : (Not until later this month.)"
+					],
+					"kor": [
+					  "Q : \uc81c\ud734\ub294 \uc5b8\uc81c \ubc1c\ud45c\ub420 \uac74\uac00\uc694?",
+					  "A : \uc774\ubc88 \ub2ec \ub9d0\uc774\ub098 \ub418\uc5b4\uc11c\uc694."
+					]
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 04_15-B_amg.mp3"
+					],
+					"eng": [
+					  "Q : (Don\u2019t you find live concerts exciting?)",
+					  "A : (Certainly. I love watching them.)"
+					],
+					"kor": [
+					  "Q : \ub77c\uc774\ube0c \ucf58\uc11c\ud2b8\ub4e4\uc774 \uc7ac\ubbf8\uc788\ub2e4\uace0 \uc0dd\uac01\ud558\uc9c0 \uc54a\ub098\uc694?",
+					  "A : \uadf8\ub7fc\uc694. \uc800\ub294 \uadf8\uac83\ub4e4\uc744 \uad00\ub78c\ud558\ub294 \uac83\uc744 \uc88b\uc544\ud574\uc694."
+					]
+				  },
+				  {
+					"no": "4",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 04_17-B_amg.mp3",
+					  "TEST 04_17-B_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Are you going to hand in the proposal tomorrow, or is that too soon?)",
+					  "A : (I\u2019m still working on it.)"
+					],
+					"kor": [
+					  "Q : \ub2f9\uc2e0\uc740 \uc81c\uc548\uc11c\ub97c \ub0b4\uc77c \uc81c\ucd9c\ud560 \uac74\uac00\uc694, \uc544\ub2c8\uba74 \uadf8\uac74 \ub108\ubb34 \uc774\ub978\uac00\uc694?",
+					  "A : \uc800\ub294 \uc544\uc9c1 \uc791\uc5c5 \uc911\uc774\uc5d0\uc694."
+					]
+				  },
+				  {
+					"no": "5",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 04_20-A_amg.mp3"
+					],
+					"eng": [
+					  "Q : (The supermarket doesn\u2019t close early on the weekends, does it?)",
+					  "A : (No, it stays open until midnight.)"
+					],
+					"kor": [
+					  "Q : \uc288\ud37c\ub9c8\ucf13\uc740 \uc8fc\ub9d0\uc5d0 \uc77c\ucc0d \ub2eb\uc9c0 \uc54a\uc8e0, \uadf8\ub807\uc8e0?",
+					  "A : \uc544\ub2c8\uc694, \uadf8\uacf3\uc740 \uc790\uc815\uae4c\uc9c0 \uc5f4\ub824 \uc788\uc5b4\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "3",
+				"label": "Part 3",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 04_35-37_amg.mp3"
+					],
+					"eng": [
+					  "M: Glenda, (have you finished compiling the results of our customer surveys)?",
+					  "W: I\u2019ve finished doing most of them, but I still need to add the results from our Asian office. I can give you what I\u2019ve done, if you\u2019d like.",
+					  "M: OK. But I need to (go through all the information before meeting) the CEO tomorrow morning. Do you think you\u2019ll have the rest completed by this afternoon?",
+					  "W: My assistant is out today, so I\u2019m doing all the work by myself. I don\u2019t think it will be ready by then. But I\u2019ll probably have everything done by 7 o\u2019clock and (I can send the results to your e-mail)."
+					],
+					"kor": [
+					  "M: Glenda, \uace0\uac1d \uc124\ubb38 \uc870\uc0ac \uacb0\uacfc\ub4e4\uc744 \uc218\uc9d1\ud558\ub294 \uac83\uc744 \uc644\ub8cc\ud588\ub098\uc694?",
+					  "W: \uac70\uc758 \ub2e4 \ub05d\ub0c8\ub294\ub370, \uc544\uc9c1 \uc544\uc2dc\uc544 \uc9c0\uc0ac\ub85c\ubd80\ud130\uc758 \uacb0\uacfc\ub97c \ucd94\uac00\ud574\uc57c \ud574\uc694. \uc6d0\ud558\uc2dc\uba74, \uc81c\uac00 \ud55c \uac83\uc744 \ub4dc\ub9b4 \uc218 \uc788\uc5b4\uc694.",
+					  "M: \uc88b\uc544\uc694. \ud558\uc9c0\ub9cc \uc800\ub294 \ub0b4\uc77c \uc544\uce68 \ucd5c\uace0 \uacbd\uc601\uc790\uc640 \ub9cc\ub098\uae30 \uc804\uc5d0 \ubaa8\ub4e0 \uc815\ubcf4\ub97c \uc0b4\ud3b4\ubd10\uc57c \ud574\uc694. \uc624\ub298 \uc624\ud6c4\uae4c\uc9c0 \ub098\uba38\uc9c0\ub97c \ub05d\ub0bc \uc218 \uc788\uc744 \uac83 \uac19\ub098\uc694?",
+					  "W: \uc81c \ubcf4\uc870\uac00 \uc624\ub298 \uacb0\uadfc\uc774\ub77c\uc11c, \uc81c\uac00 \ubaa8\ub4e0 \uc77c\uc744 \ud63c\uc790 \ud558\uace0 \uc788\ub294 \uc911\uc774\uc5d0\uc694. \uadf8\ub54c\uae4c\uc9c0\ub294 \uc900\ube44\uac00 \uc548 \ub420 \uac83 \uac19\uc544\uc694. \ud558\uc9c0\ub9cc \uc544\ub9c8 7\uc2dc\uae4c\uc9c0\ub294 \ubaa8\ub450 \uc644\ub8cc\ud574\uc11c \ub2f9\uc2e0\uc758 \uc774\uba54\uc77c\ub85c \uacb0\uacfc\ub97c \ubcf4\ub0b4\ub4dc\ub9b4 \uc218 \uc788\uc744 \uac70\uc608\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 04_41-43_amg.mp3",
+					  "TEST 04_41-43_eug.mp3"
+					],
+					"eng": [
+					  "M: Our new bakery location in Brooklyn is not profitable enough. (Do you have any ideas on how to promote the shop), Ms. Shah? You come highly recommended by a former client.",
+					  "W: Well, I think it\u2019d really benefit your business to make use of a social media page.",
+					  "M: Hmm. But I\u2019m not really sure how getting people to talk about the bakery online would (help attract a wider customer base).",
+					  "W: Well, (you could offer discounts as rewards to people) who follow your page once it launches.",
+					  "M: I see. I think that would be helpful for retaining existing customers as well.",
+					  "W: Yes. It\u2019s an excellent way to ensure customer loyalty."
+					],
+					"kor": [
+					  "M: \ube0c\ub8e8\ud074\ub9b0\uc5d0 \uc788\ub294 \uc6b0\ub9ac\uc758 \uc0c8\ub85c\uc6b4 \uc81c\uacfc\uc810\uc774 \uc774\uc724\uc744 \ucda9\ubd84\ud788 \ub0b4\uc9c0 \ubabb\ud558\uace0 \uc788\uc5b4\uc694. \uac00\uac8c\ub97c \ud64d\ubcf4\ud560 \ubc29\uc548\uc5d0 \ub300\ud55c \uc758\uacac\uc774 \uc788\ub098\uc694, Ms, Shah? \ub2f9\uc2e0\uc758 \uc9c0\ub09c\ubc88 \uace0\uac1d\uc774 \ub2f9\uc2e0\uc744 \uc801\uadf9\uc801\uc73c\ub85c \ucd94\ucc9c\ud588\uc5b4\uc694.",
+					  "W: \uae00\uc384\uc694, \uc800\ub294 \uc18c\uc15c\ubbf8\ub514\uc5b4 \ud398\uc774\uc9c0\ub97c \uc774\uc6a9\ud558\ub294 \uac83\uc774 \ub2f9\uc2e0\uc758 \uac00\uac8c\uc5d0 \ub9e4\uc6b0 \ub3c4\uc6c0\uc774 \ub420 \uac70\ub77c\uace0 \uc0dd\uac01\ud574\uc694.",
+					  "M: \ud760. \ud558\uc9c0\ub9cc \uc800\ub294 \ub2e8\uc9c0 \uc628\ub77c\uc778\uc0c1\uc5d0\uc11c \uc0ac\ub78c\ub4e4\uc774 \uc81c\uacfc\uc810\uc5d0 \ub300\ud574 \uc774\uc57c\uae30\ud558\ub3c4\ub85d \ub9cc\ub4dc\ub294 \uac83\uc774 \uc5b4\ub5bb\uac8c \ub354 \ub113\uc740 \uace0\uac1d\uce35\uc744 \ub04c\uc5b4 \ubaa8\uc73c\ub294 \ub370 \ub3c4\uc6c0\uc774 \ub420\uc9c0 \uc798 \ubaa8\ub974\uaca0\uc5b4\uc694.",
+					  "W: \uc74c, \uc77c\ub2e8 \uadf8\uac83\uc744 \uac1c\uc124\ud55c \ud6c4\uc5d0, \ud398\uc774\uc9c0\ub97c \ud314\ub85c\uc6b0\ud558\ub294 \uc0ac\ub78c\ub4e4\uc5d0\uac8c \ubcf4\uc0c1\uc73c\ub85c \ud560\uc778\uc744 \uc81c\uacf5\ud560 \uc218 \uc788\uaca0\uc8e0.",
+					  "M: \uadf8\ub807\uad70\uc694. \uc81c \uc0dd\uac01\uc5d0\ub294 \uadf8\uac8c \uae30\uc874 \uace0\uac1d\ub4e4\uc744 \uc720\uc9c0\ud558\ub294 \uac83\uc5d0\ub3c4 \ub3c4\uc6c0\uc774 \ub420 \uac83 \uac19\ub124\uc694.",
+					  "W: \ub9de\uc544\uc694. \uadf8\uac74 \uace0\uac1d\uc758 \ucda9\uc131\uc744 \ud655\ubcf4\ud558\ub294 \ud6cc\ub96d\ud55c \ubc29\ubc95\uc774\uc5d0\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "4",
+				"label": "Part 4",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 04_71-73_amg.mp3"
+					],
+					"eng": [
+					  "Attention everyone. We are now in front of the El Bahri Palace.",
+					  "As you all know, this residence is (famous for both its history and fascinating architecture).",
+					  "The enormous palace was built more than 800 years ago and was the vacation home of the royal family.",
+					  "As you can see, the main building is still in wonderful condition.",
+					  "As we exit the coach and begin our tour, I just want to (remind everyone to stay with the group).",
+					  "The palace complex is very large, so it is quite easy to get lost.",
+					  "We will now visit an exhibit hall where you can (view numerous artifacts discovered by archaeologists on this site), and then tour the main building."
+					],
+					"kor": [
+					  "\ubaa8\ub450 \uc8fc\ubaa9\ud574 \uc8fc\uc2ed\uc2dc\uc624. \uc800\ud76c\ub294 \uc9c0\uae08 El Bahri \uad81\uc804 \uc55e\uc5d0 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "\ubaa8\ub450 \uc544\uc2dc\ub2e4\uc2dc\ud53c, \uc774 \uc800\ud0dd\uc740 \uadf8 \uc5ed\uc0ac\uc640 \ub9e4\ud639\uc801\uc778 \uac74\ucd95 \uc591\uc2dd\uc73c\ub85c \uc720\uba85\ud569\ub2c8\ub2e4.",
+					  "\uc774 \uac70\ub300\ud55c \uad81\uc804\uc740 800\uc5ec\ub144 \uc804\uc5d0 \uc9c0\uc5b4\uc84c\uace0 \uc655\uc2e4\uc758 \ubcc4\uc7a5\uc774\uc5c8\uc2b5\ub2c8\ub2e4.",
+					  "\ubcf4\uc2dc\ub294 \ubc14\uc640 \uac19\uc774, \ubcf8\uad00\uc740 \uc5ec\uc804\ud788 \uc0c1\ud0dc\uac00 \ud6cc\ub96d\ud569\ub2c8\ub2e4. ",
+					  "\uc800\ud76c\uac00 \ubc84\uc2a4\uc5d0\uc11c \ub0b4\ub824 \uad00\uad11\uc744 \uc2dc\uc791\ud560 \ub54c, \ubaa8\ub450 \uadf8\ub8f9\uacfc \ud568\uaed8 \ub2e4\ub2c8\uc2e4 \uac83\uc744 \ub2e4\uc2dc \ud55c\ubc88 \ub9d0\uc500 \ub4dc\ub9ac\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.",
+					  "\uad81\uc804 \ub2e8\uc9c0\ub294 \ub9e4\uc6b0 \ub113\uae30 \ub54c\ubb38\uc5d0, \uae38\uc744 \uc783\uc5b4\ubc84\ub9ac\uae30\uac00 \uc0c1\ub2f9\ud788 \uc27d\uc2b5\ub2c8\ub2e4.",
+					  "\uc774\uc81c \uc774 \uc9c0\uc5ed\uc5d0\uc11c \uace0\uace0\ud559\uc790\ub4e4\uc5d0 \uc758\ud574 \ubc1c\uacac\ub41c \uc218\ub9ce\uc740 \uc608\uc220\ud488\ub4e4\uc744 \ubcfc \uc218 \uc788\ub294 \uc804\uc2dc\uad00\uc744 \ubc29\ubb38\ud55c \ud6c4, \ubcf8\uad00\uc744 \ub458\ub7ec\ubcf4\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 04_86-88_amg.mp3",
+					  "TEST 04_86-88_eug.mp3"
+					],
+					"eng": [
+					  "Worried about keeping your pool clean? Look no further! Aquafix provides everything you need.",
+					  "Aquafix has the largest (selection of equipment and supplies in the region to sanitize) your swimming pool.",
+					  "This June, we\u2019re selling water pumps, heaters, filters, and cleaners at discounted prices. Can\u2019t come to our store?",
+					  "We are pleased to announce that we now (offer all of our items online) at www.aquafix.com.",
+					  "Spare yourself the trouble and have items delivered right to your doorstep!",
+					  "(Take advantage of our priority delivery services available to customers) living in the Phoenix area and have your orders delivered by the next day."
+					],
+					"kor": [
+					  "\uc218\uc601\uc7a5\uc744 \uae68\ub057\ud558\uac8c \uc720\uc9c0\ud558\ub294 \uac8c \uace0\ubbfc\uc774\uc2ed\ub2c8\uae4c? \ub354 \uc774\uc0c1 \ucc3e\uc544\ub2e4\ub2c8\uc9c0 \ub9c8\uc138\uc694! Aquafix\uac00 \uc5ec\ub7ec\ubd84\uc774 \ud544\uc694\ud55c \ubaa8\ub4e0 \uac78 \uc81c\uacf5\ud569\ub2c8\ub2e4.",
+					  "Aquafix\ub294 \uc5ec\ub7ec\ubd84\uc774 \uc218\uc601\uc7a5\uc744 \uc18c\ub3c5\ud558\ub294 \ub370 \ud544\uc694\ud55c \uc7a5\ube44 \ubc0f \uc6a9\ud488\uc744 \uc774 \uc9c0\uc5ed\uc5d0\uc11c \uac00\uc7a5 \ub9ce\uc774 \ubcf4\uc720\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "\uc774\ubc88 6\uc6d4\uc5d0\ub294, \uc591\uc218\uae30, \ub09c\ubc29\uae30, \ud544\ud130, \uadf8\ub9ac\uace0 \uccad\uc18c\uae30\ub97c \ud560\uc778\ub41c \uac00\uaca9\uc5d0 \ud310\ub9e4\ud569\ub2c8\ub2e4. \uc800\ud76c \ub9e4\uc7a5\uc5d0 \uc624\uc2e4 \uc218 \uc5c6\ub2e4\uace0\uc694?",
+					  "\uc800\ud76c\uac00 \uc774\uc81c \uc628\ub77c\uc778 \ub9e4\uc7a5\uc778 www.aquafix.com\uc5d0\uc11c \uc804 \ud488\ubaa9\uc744 \uc81c\uacf5\ud558\uace0 \uc788\ub2e4\ub294 \uac83\uc744 \uc54c\ub824\ub4dc\ub9ac\uac8c \ub418\uc5b4 \uae30\uc069\ub2c8\ub2e4.",
+					  "\uc5ec\ub7ec\ubd84\uc758 \uc218\uace0\ub97c \uc544\ub07c\uc2dc\uace0 \ubb38 \uc55e\uae4c\uc9c0 \uc0c1\ud488\uc774 \ubc30\ub2ec\ub418\ub3c4\ub85d \ud558\uc138\uc694!",
+					  "\ud53c\ub2c9\uc2a4 \uc9c0\uc5ed\uc5d0 \uc0ac\ub294 \uace0\uac1d \uc5ec\ub7ec\ubd84\ub4e4\uc774 \uc774\uc6a9\ud560 \uc218 \uc788\ub294 \uc6b0\uc120 \ubc30\ub2ec \uc11c\ube44\uc2a4\ub97c \uc774\uc6a9\ud558\uc2dc\uace0 \uc5ec\ub7ec\ubd84\uc758 \uc8fc\ubb38\ud488\ub4e4\uc744 \ub2e4\uc74c \ub0a0 \ubc1b\uc544\ubcf4\uc138\uc694."
+					]
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"no": "5",
+			"label": "TEST 05",
+			"depth3": [
+			  {
+				"no": "1",
+				"label": "Part 1",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 05_2-A_amg.mp3"
+					],
+					"eng": "(Some people are participating in a race.)",
+					"kor": "\uba87\uba87 \uc0ac\ub78c\ub4e4\uc774 \uacbd\uc8fc\uc5d0 \ucc38\uac00\ud558\uace0 \uc788\ub2e4."
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 05_3-A_amg.mp3",
+					  "TEST 05_3-A_eug.mp3"
+					],
+					"eng": "(She\u2019s holding onto the handle of a cart.)",
+					"kor": "\uadf8\ub140\ub294 \uce74\ud2b8 \uc190\uc7a1\uc774\ub97c \uc7a1\uace0 \uc788\ub2e4."
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 05_5-A_amg.mp3"
+					],
+					"eng": "(Their legs are resting on a piece of furniture.)",
+					"kor": "\uadf8\ub4e4\uc758 \ub2e4\ub9ac\uac00 \ud55c \uac00\uad6c \uc704\uc5d0 \ub193\uc5ec \uc788\ub2e4."
+				  }
+				]
+			  },
+			  {
+				"no": "2",
+				"label": "Part 2",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 05_8-C_amg.mp3"
+					],
+					"eng": [
+					  "Q : (Who was asked to audit the construction company?)",
+					  "A : (Mike was given the assignment.)"
+					],
+					"kor": [
+					  "Q : \ub204\uac00 \uac74\uc124 \ud68c\uc0ac\uc758 \ud68c\uacc4\ub97c \uac10\uc0ac\ud558\ub294 \uac83\uc744 \uc694\uccad\ubc1b\uc558\ub098\uc694?",
+					  "A : Mike\uc5d0\uac8c \uadf8 \uc5c5\ubb34\uac00 \uc8fc\uc5b4\uc84c\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 05_11-C_amg.mp3",
+					  "TEST 05_11-C_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Do you have time today, or should I come back tomorrow?)",
+					  "A : (Tomorrow, if you can.)"
+					],
+					"kor": [
+					  "Q : \uc624\ub298 \uc2dc\uac04\uc774 \uc788\uc73c\uc2e0\uac00\uc694, \uc544\ub2c8\uba74 \uc81c\uac00 \ub0b4\uc77c \ub2e4\uc2dc \uc62c\uae4c\uc694?",
+					  "A : \uac00\ub2a5\ud558\uc2dc\ub2e4\uba74 \ub0b4\uc77c\uc774\uc694."
+					]
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 05_15-B_amg.mp3",
+					  "TEST 05_15-B_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Do you know why we installed the extra telephones?)",
+					  "A : (Our lines were always busy.)"
+					],
+					"kor": [
+					  "Q : \ub2f9\uc2e0\uc740 \uc6b0\ub9ac\uac00 \uc65c \uc804\ud654\uae30\ub4e4\uc744 \ucd94\uac00\ub85c \uc124\uce58\ud588\ub294\uc9c0 \uc54c\uace0 \uc788\ub098\uc694?",
+					  "A : \uc6b0\ub9ac\uc758 \uc804\ud654\ub4e4\uc740 \ud56d\uc0c1 \ud1b5\ud654 \uc911\uc774\uc5c8\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "4",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 05_21-B_amg.mp3",
+					  "TEST 05_21-B_eug.mp3"
+					],
+					"eng": [
+					  "Q : (When will the staff be informed about the takeover?)",
+					  "A : (During the monthly meeting.)"
+					],
+					"kor": [
+					  "Q : \uc9c1\uc6d0\ub4e4\uc740 \uc5b8\uc81c \uc778\uc218\uc5d0 \ub300\ud574 \uc54c\uac8c \ub420 \uac74\uac00\uc694?",
+					  "A : \uc6d4\ub840 \ud68c\uc758 \uc911\uc5d0\uc694."
+					]
+				  },
+				  {
+					"no": "5",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 05_23-A_amg.mp3",
+					  "TEST 05_23-A_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Is the owner planning anything special for the holidays?)",
+					  "A : (We\u2019ll be having a sale.)"
+					],
+					"kor": [
+					  "Q : \uc0ac\uc7a5\ub2d8\uc774 \uc5f0\ud734 \ub3d9\uc548 \uc5b4\ub5a4 \ud2b9\ubcc4\ud55c \uac83\uc744 \uacc4\ud68d\ud558\uace0 \uc788\ub098\uc694?",
+					  "A : \uc6b0\ub9ac\ub294 \uc138\uc77c\uc744 \ud560 \uac70\uc608\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "3",
+				"label": "Part 3",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 05_32-34_amg.mp3",
+					  "TEST 05_32-34_eug.mp3"
+					],
+					"eng": [
+					  "M: Hello. (I\u2019m interested in buying a new vehicle) for my family. Could you show me some of your models?",
+					  "W: Right this way, sir. What kind of vehicle are you looking for?",
+					  "M: Well, I have a large family, so we need at least seven seats. Apart from that, (safety and comfort are my major concerns).",
+					  "W: It sounds like you need a van. Our Eleganti model (seats 10 people comfortably). It has anti-lock brakes, a sunroof, and a built-in stereo and DVD player."
+					],
+					"kor": [
+					  "M: \uc548\ub155\ud558\uc138\uc694, \uc800\ub294 \uc81c \uac00\uc871\uc774 \ud0c8 \uc0c8 \uc790\ub3d9\ucc28\ub97c \uad6c\uc785\ud558\ub294 \ub370 \uad00\uc2ec\uc774 \uc788\uc5b4\uc694. \uba87 \uac00\uc9c0 \ubaa8\ub378\ub4e4\uc744 \ubcf4\uc5ec\uc8fc\uc2e4 \uc218 \uc788\uc73c\uc2e0\uac00\uc694?",
+					  "W: \uc774\ucabd\uc73c\ub85c \uc624\uc138\uc694, \uace0\uac1d\ub2d8. \uc5b4\ub5a4 \uc885\ub958\uc758 \ucc28\ub97c \ucc3e\uace0 \uacc4\uc2e0\uac00\uc694?",
+					  "M: \uae00\uc384\uc694, \uc800\ub294 \uc2dd\uad6c\uac00 \ub9ce\uc544\uc11c, \uc88c\uc11d\uc774 \uc801\uc5b4\ub3c4 7\uac1c\ub294 \ud544\uc694\ud574\uc694. \uadf8 \uc678\uc5d0\ub3c4, \uc548\uc804\uacfc \ud3b8\uc548\ud568\uc774 \uc81c \uc8fc\uc694 \uad00\uc2ec\uc0ac\uc608\uc694.",
+					  "W: \uace0\uac1d\ub2d8\uc740 \ubc34\uc774 \ud544\uc694\ud558\uc2e0 \uac83 \uac19\ub124\uc694. \uc800\ud76c Eleganti \ubaa8\ub378\uc740 10\uba85\uc744 \ud3b8\uc548\ud558\uac8c \uc549\ud790 \uc218 \uc788\uc5b4\uc694. \uc774 \uc790\ub3d9\ucc28\ub294 \uc7a0\uae40 \ubc29\uc9c0 \ube0c\ub808\uc774\ud06c, \uc120\ub8e8\ud504, \uadf8\ub9ac\uace0 \ub0b4\uc7a5\ub41c \uc74c\ud5a5 \uc7a5\uce58\uc640 DVD \ud50c\ub808\uc774\uc5b4\ub97c \uac00\uc9c0\uace0 \uc788\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 05_65-67_amg.mp3"
+					],
+					"eng": [
+					  "M: I just spoke with our president. He wants us to (figure out how to raise company profit margins).",
+					  "W: He told me the same thing this morning when I talked to him. But I\u2019m not sure about how to go about doing that.",
+					  "M: Well, (reducing departmental budgets would save us money).",
+					  "W: Hmm . . . Can some of our divisions handle funding cuts?",
+					  "M: I don\u2019t see why not. (Aside from the marketing department, I think each one can be limited) to $150,000 in quarterly expenses.",
+					  "W: Well, we can give it a try and see if it affects overall operations."
+					],
+					"kor": [
+					  "M: \uc800\ub294 \ubc29\uae08 \ud68c\uc7a5\ub2d8\uacfc \uc774\uc57c\uae30\ud558\uace0 \uc654\uc5b4\uc694. \uadf8\ub294 \uc6b0\ub9ac\uac00 \ud68c\uc0ac\uc758 \uc774\uc724\uc744 \ub192\uc77c \ubc29\uc548\uc744 \uc0dd\uac01\ud574\ub0b4\uae38 \uc6d0\ud558\uc138\uc694.",
+					  "W: \uc624\ub298 \uc544\uce68 \uadf8\uc640 \uc598\uae30\ud588\uc744 \ub54c \uc81c\uac8c\ub3c4 \uac19\uc740 \uac83\uc744 \ub9d0\uc500\ud558\uc168\uc5b4\uc694. \ud558\uc9c0\ub9cc \uc800\ub294 \uadf8\uac83\uc744 \uc5b4\ub5bb\uac8c \uc2dc\uc791\ud574\uc57c \ud560\uc9c0 \uc798 \ubaa8\ub974\uaca0\uc5b4\uc694.",
+					  "M: \uc74c, \ubd80\uc11c\ubcc4 \uc608\uc0b0\uc744 \uc904\uc774\uba74 \uc6b0\ub9ac\uac00 \ub3c8\uc744 \uc808\uc57d\ud560 \uc218 \uc788\uc744 \uac70\uc608\uc694.",
+					  "W: \ud760... \uc6b0\ub9ac \uc77c\ubd80 \ubd80\uc11c\ub4e4\uc774 \uc790\uae08 \uc0ad\uac10\uc744 \uac10\ub2f9\ud560 \uc218 \uc788\uc744\uae4c\uc694?",
+					  "M: \ubabb\ud560 \uc774\uc720 \uc5c6\uc8e0. \ud64d\ubcf4\ubd80\ub97c \uc81c\uc678\ud558\uace0, \uac01 \ubd80\uc11c\uac00 \ubd84\uae30\ubcc4 \uc9c0\ucd9c\uc744 150,000\ub2ec\ub7ec\ub85c \uc81c\ud55c\ud560 \uc218 \uc788\ub2e4\uace0 \uc0dd\uac01\ud574\uc694.",
+					  "W: \uc74c, \ud55c\ubc88 \uc2dc\ub3c4\ud574\ubcf4\uace0 \uc804\ubc18\uc801\uc778 \uc6b4\uc601\uc5d0 \uc601\ud5a5\uc744 \ubbf8\uce58\ub294\uc9c0 \ubd10\uc57c\uaca0\uc5b4\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "4",
+				"label": "Part 4",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 05_71-73_amg.mp3"
+					],
+					"eng": [
+					  "(This announcement is for the passengers of Flight 109 bound for) Sydney.",
+					  "Departure will be postponed for an hour due to foggy conditions.",
+					  "(The estimated time of departure) for Flight 109 is at 11:30 a.m.",
+					  "All arriving and departing flights are expected to be back on schedule between 11:00 a.m. and 12:00 p.m.",
+					  "On behalf of Emerald Airlines management and crew, (we would like to apologize for the delay)."
+					],
+					"kor": [
+					  "\uc2dc\ub4dc\ub2c8\ud589 109\ud3b8 \uc2b9\uac1d \uc5ec\ub7ec\ubd84\uaed8 \uc548\ub0b4 \ub9d0\uc500 \ub4dc\ub9bd\ub2c8\ub2e4. ",
+					  "\uc548\uac1c \ub080 \uc0c1\ud669\uc73c\ub85c \uc778\ud574 \ucd9c\ubc1c\uc774 \ud55c \uc2dc\uac04 \uc9c0\uc5f0\ub420 \uac83\uc785\ub2c8\ub2e4.",
+					  "109\ud3b8 \ube44\ud589\uae30\uc758 \ucd9c\ubc1c \uc608\uc0c1 \uc2dc\uac04\uc740 \uc624\uc804 11\uc2dc 30\ubd84\uc785\ub2c8\ub2e4.",
+					  "\ubaa8\ub4e0 \uc774\ucc29\ub959 \ud56d\uacf5\ud3b8\uc740 \uc624\uc804 11\uc2dc\uc640 \uc624\ud6c4 12\uc2dc \uc0ac\uc774\uc5d0 \ubcf8\ub798\uc758 \uc77c\uc815\uc73c\ub85c \ub3cc\uc544\uac08 \uc608\uc815\uc785\ub2c8\ub2e4.",
+					  "Emerald \ud56d\uacf5\uc0ac\uc758 \uacbd\uc601\uc9c4\uacfc \uc9c1\uc6d0\ub4e4\uc744 \ub300\ud45c\ud558\uc5ec, \uc9c0\uc5f0 \uc0ac\ud56d\uc5d0 \ub300\ud574 \uc0ac\uacfc\ub4dc\ub9bd\ub2c8\ub2e4."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 05_83-85_amg.mp3",
+					  "TEST 05_83-85_eug.mp3"
+					],
+					"eng": [
+					  "Brenda, it\u2019s Calvin Walters. (I\u2019m calling to update you about the progress of the project).",
+					  "After considering your recommendations, I created a logo and came up with a caption to make the advertisement more interesting.",
+					  "The (advertisement uses colors that consumers should find appealing).",
+					  "I printed a copy of the draft and gave it to your secretary this morning.",
+					  "Please (check it and give me comments so I can make the necessary revisions).",
+					  "I hope to finish the project by Monday, January 9 and show it to our client on the next day.",
+					  "Let me know if you have any questions. Thanks."
+					],
+					"kor": [
+					  "Brenda, Calvin Walters\uc785\ub2c8\ub2e4. \ud504\ub85c\uc81d\ud2b8\uc758 \ucd5c\uadfc \uc9c4\ud589 \uc0c1\ud669\uc744 \uc54c\ub824\ub4dc\ub9ac\ub824\uace0 \uc804\ud654 \ub4dc\ub9bd\ub2c8\ub2e4.",
+					  "\ub2f9\uc2e0\uc758 \uc81c\uc548 \uc0ac\ud56d\ub4e4\uc744 \uace0\ub824\ud55c \uacb0\uacfc, \uc800\ub294 \ub85c\uace0\ub97c \ub9cc\ub4e4\uc5c8\uace0 \uad11\uace0\ub97c \ud765\ubbf8\ub86d\uac8c \ud574\uc904 \uc790\ub9c9\uc744 \uc0dd\uac01\ud574\ub0c8\uc2b5\ub2c8\ub2e4.",
+					  "\uadf8 \uad11\uace0\ub294 \uc18c\ube44\uc790\ub4e4\uc774 \ub9e4\ub825\uc801\uc774\ub77c\uace0 \uc0dd\uac01\ud560 \ub9cc\ud55c \uc0c9\uc0c1\uc744 \uc0ac\uc6a9\ud569\ub2c8\ub2e4.",
+					  "\uc800\ub294 \uc624\ub298 \uc544\uce68\uc5d0 \ucd08\uc548 \ud55c \ubd80\ub97c \ucd9c\ub825\ud558\uc5ec \ub2f9\uc2e0\uc758 \ube44\uc11c\uc5d0\uac8c \uc804\ub2ec\ud588\uc2b5\ub2c8\ub2e4.",
+					  "\ud655\uc778\ud574\ubcf4\uc2dc\uace0 \uc81c\uac00 \ud544\uc694\ud55c \uc218\uc815\uc744 \ud560 \uc218 \uc788\ub3c4\ub85d \uc758\uacac\uc744 \uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.",
+					  "\uc800\ub294 \uc774 \ud504\ub85c\uc81d\ud2b8\ub97c 1\uc6d4 9\uc77c \uc6d4\uc694\uc77c\uae4c\uc9c0 \ub9c8\uce58\uace0, \uadf8 \ub2e4\uc74c \ub0a0 \uace0\uac1d\uc5d0\uac8c \ubcf4\uc5ec\uc904 \uc218 \uc788\uae30\ub97c \ubc14\ub78d\ub2c8\ub2e4.",
+					  "\uc9c8\ubb38\uc774 \uc788\uc73c\uc2dc\uba74 \uc54c\ub824\uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4. \uac10\uc0ac\ud569\ub2c8\ub2e4."
+					]
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"no": "6",
+			"label": "TEST 06",
+			"depth3": [
+			  {
+				"no": "1",
+				"label": "Part 1",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 06_1-C_amg.mp3",
+					  "TEST 06_1-C_eug.mp3"
+					],
+					"eng": "(They\u2019re lined up alongside a bus.)",
+					"kor": "\uadf8\ub4e4\uc740 \ubc84\uc2a4 \uc606\uc5d0 \uc904\uc744 \uc11c \uc788\ub2e4."
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 06_2-D_amg.mp3"
+					],
+					"eng": "(Rocks have been piled on the side of a road.)",
+					"kor": "\ubc14\uc704\ub4e4\uc774 \uae38\uac00\uc5d0 \uc313\uc5ec \uc788\ub2e4."
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 06_4-A_amg.mp3"
+					],
+					"eng": "(The customer is examining a selection of shoes.)",
+					"kor": "\uace0\uac1d\uc774 \ub9ce\uc740 \uc2e0\ubc1c\ub4e4\uc744 \uc0b4\ud3b4\ubcf4\uace0 \uc788\ub2e4."
+				  }
+				]
+			  },
+			  {
+				"no": "2",
+				"label": "Part 2",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 06_11-B_amg.mp3",
+					  "TEST 06_11-B_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Which television screen do you think shows a clearer image?)",
+					  "A : (I really can\u2019t tell the difference.)"
+					],
+					"kor": [
+					  "Q : \uc5b4\ub290 \ud154\ub808\ube44\uc804\uc758 \ud654\uba74\uc774 \ub354 \uae68\ub057\ud55c \uc601\uc0c1\uc744 \ubcf4\uc5ec\uc900\ub2e4\uace0 \uc0dd\uac01 \ud558\uc2dc\ub098\uc694?",
+					  "A : \uc804 \ub3c4\uc800\ud788 \ucc28\uc774\ub97c \ubd84\uac04\ud560 \uc218 \uc5c6\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 06_12-C_amg.mp3"
+					],
+					"eng": [
+					  "Q : (Why don\u2019t you e-mail your r\u00e9sum\u00e9?)",
+					  "A : (I\u2019m not interested in the position.)"
+					],
+					"kor": [
+					  "Q : \ub2f9\uc2e0\uc758 \uc774\ub825\uc11c\ub97c \uc774\uba54\uc77c\ub85c \ubcf4\ub0b4\ub294 \uac8c \uc5b4\ub54c\uc694?",
+					  "A : \uc800\ub294 \uadf8 \uc9c1\ucc45\uc5d0 \uad00\uc2ec\uc774 \uc5c6\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 06_21-C_amg.mp3",
+					  "TEST 06_21-C_eug.mp3"
+					],
+					"eng": [
+					  "Q : (What hotel should we stay at during our holiday in June?)",
+					  "A : (The same one as before.)"
+					],
+					"kor": [
+					  "Q : 6\uc6d4 \ud734\uac00 \ub3d9\uc548 \uc5b4\ub5a4 \ud638\ud154\uc5d0 \ubb35\uc5b4\uc57c \ud560\uae4c\uc694?",
+					  "A : \uadf8 \uc804\uacfc \uac19\uc740 \uacf3\uc774\uc694."
+					]
+				  },
+				  {
+					"no": "4",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 06_25-A_amg.mp3",
+					  "TEST 06_25-A_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Why haven\u2019t you posted the job opening on our Web site?)",
+					  "A : (The Internet isn\u2019t working.)"
+					],
+					"kor": [
+					  "Q : \ub2f9\uc2e0\uc740 \uc65c \uc6b0\ub9ac\uc758 \uc6f9\uc0ac\uc774\ud2b8\uc5d0 \uc9c1\uc6d0 \ubaa8\uc9d1 \uacf5\uace0\ub97c \ub0b4\uc9c0 \uc54a\uc558\ub098\uc694?",
+					  "A : \uc778\ud130\ub137\uc774 \uc548 \ub3fc\uc694."
+					]
+				  },
+				  {
+					"no": "5",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 06_26-B_amg.mp3",
+					  "TEST 06_26-B_eug.mp3"
+					],
+					"eng": [
+					  "Q : (You\u2019ll need a valid identification card and a recent bank statement to register.)",
+					  "A : (They\u2019re both right here.)"
+					],
+					"kor": [
+					  "Q : \ub4f1\ub85d\uc744 \ud558\uae30 \uc704\ud574\uc11c\ub294 \uc720\ud6a8\ud55c \uc2e0\ubd84\uc99d\uacfc \ucd5c\uadfc\uc758 \uc740\ud589 \uac70\ub798 \uba85\uc138\uc11c\uac00 \ud544\uc694\ud574\uc694",
+					  "A : \ub450 \uac1c \ub2e4 \uc5ec\uae30 \uc788\uc5b4\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "3",
+				"label": "Part 3",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 06_32-34_amg.mp3",
+					  "TEST 06_32-34_eug.mp3"
+					],
+					"eng": [
+					  "M: This is the two-bedroom apartment that\u2019s available now. It is (quite spacious and comfortable, and comes fully furnished).",
+					  "W: This is really nice and it\u2019s close to the train station. What is the monthly rent?",
+					  "M: It costs $2,000 per month.",
+					  "W: I see. Well, it\u2019s in a really great (neighborhood, but it\u2019s a bit out of my price range). Can I discuss it with my husband over the weekend? (I\u2019ll let you know my decision by Monday)."
+					],
+					"kor": [
+					  "M: \uc774\uacf3\uc774 \uc9c0\uae08 \uc785\uc8fc\uac00 \uac00\ub2a5\ud55c \uce68\uc2e4 2\uac1c\uc9dc\ub9ac \uc544\ud30c\ud2b8\uc785\ub2c8\ub2e4. \uacf5\uac04\uc774 \uaf64 \ub113\uace0 \uc548\ub77d\ud558\uba70, \uac00\uad6c\ub3c4 \ubaa8\ub450 \uac16\ucd94\uc5b4\uc838 \uc788\uc5b4\uc694.",
+					  "W: \uc774\uacf3\uc740 \uc815\ub9d0 \uc88b\uace0 \uae30\ucc28\uc5ed\uacfc\ub3c4 \uac00\uae5d\ub124\uc694. \uc6d4\uc138\ub294 \uc5bc\ub9c8\uc778\uac00\uc694?",
+					  "M: \ud55c \ub2ec\uc5d0 2\ucc9c \ub2ec\ub7ec\uc608\uc694.",
+					  "W: \uadf8\ub807\uad70\uc694. \uc815\ub9d0 \uc88b\uc740 \ub3d9\ub124\uc5d0 \uc788\uae30\ub294 \ud558\uc9c0\ub9cc, \uc81c\uac00 \uc6d0\ud558\ub294 \uac00\uaca9\ub300\uc5d0\uc11c \uc870\uae08 \ubc97\uc5b4\ub098 \uc788\ub124\uc694. \uc8fc\ub9d0 \ub3d9\uc548 \ub0a8\ud3b8\uacfc \uc0c1\uc758\ud574\ubd10\ub3c4 \ub420\uae4c\uc694? \uc81c \uacb0\uc815\uc740 \uc6d4\uc694\uc77c\uae4c\uc9c0 \uc54c\ub824\ub4dc\ub9b4\uac8c\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 06_47-49_amg.mp3"
+					],
+					"eng": [
+					  "M: Are you busy, Christina? I was wondering if you could (look at the findings of this marketing questionnaire) for me.",
+					  "W: Of course. Was that the one about the (clothing line that we\u2019re launching this summer)?",
+					  "M: Yes, we got a lot of good feedback on the designs and the price points. It tested well in the city, but the suburban customers thought the colors should be brighter.",
+					  "W: Well, (production is already underway at the factory), but perhaps I could call and advise them to produce some more items in different colors. We want to satisfy all of our customers\u2019 wants and needs."
+					],
+					"kor": [
+					  "M: \ubc14\uc05c\uac00\uc694, Christina? \uc774 \ub9c8\ucf00\ud305 \uc124\ubb38 \uc870\uc0ac \uacb0\uacfc\ub97c \uac80\ud1a0\ud574\uc8fc\uc2e4 \uc218 \uc788\uc744\uae4c \ud574\uc11c\uc694.",
+					  "W: \uadf8\ub7fc\uc694. \uadf8\uac83\uc774 \uc774\ubc88 \uc5ec\ub984\uc5d0 \uc6b0\ub9ac\uac00 \ucd9c\uc2dc\ud560 \uc758\ub958 \uc81c\ud488\uc5d0 \uad00\ud55c \uac83\uc774\uc5c8\ub098\uc694?",
+					  "M: \ub124, \ub514\uc790\uc778\uacfc \uac00\uaca9 \uba74\uc5d0\uc11c \uc88b\uc740 \ud53c\ub4dc\ubc31\uc744 \ub9ce\uc774 \ubc1b\uc558\uc5b4\uc694. \ub3c4\uc2dc\uc5d0\uc11c\ub294 \ubc18\uc751\uc774 \uc88b\uc558\ub294\ub370, \uad50\uc678\uc758 \uace0\uac1d\ub4e4\uc740 \uc0c9\uc0c1\uc774 \ub354 \ubc1d\uc544\uc57c \ud55c\ub2e4\uace0 \uc0dd\uac01\ud558\ub354\uad70\uc694.",
+					  "W: \uae00\uc384\uc694, \uc774\ubbf8 \uacf5\uc7a5\uc5d0\uc11c \uc0dd\uc0b0\uc774 \uc9c4\ud589 \uc911\uc774\uae34 \ud558\uc9c0\ub9cc, \uc81c\uac00 \uc804\ud654\ud574\uc11c \ub2e4\uc591\ud55c \uc0c9\uc0c1\uc758 \uc81c\ud488\uc744 \uc870\uae08 \ub354 \uc0dd\uc0b0\ud558\ub77c\uace0 \uc870\uc5b8\ud574\ubd10\uc57c\uaca0\ub124\uc694. \uc6b0\ub9ac\ub294 \ubaa8\ub4e0 \uace0\uac1d\ub4e4\uc758 \uc695\uad6c\uc640 \ud544\uc694\ub97c \ucda9\uc871\uc2dc\ud0a4\uae38 \uc6d0\ud558\ub2c8\uae4c\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "4",
+				"label": "Part 4",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 06_71-73_amg.mp3",
+					  "TEST 06_71-73_eug.mp3"
+					],
+					"eng": [
+					  "Thanks for coming to this brief training session.",
+					  "Today, I\u2019ll be (discussing the most effective way of dealing with clients).",
+					  "First of all, try to determine their needs by listening carefully to their specifications.",
+					  "Also, (keep your explanations simple and avoid using technical terms) when discussing a product or service.",
+					  "Lastly, be sure to make your clients feel comfortable and at ease.",
+					  "You can do this by (using a welcoming tone of voice and smiling).",
+					  "By following these tips, you should be able to create strong relationships with customers."
+					],
+					"kor": [
+					  "\uc774\ubc88 \uc9e7\uc740 \uad50\uc721\uc5d0 \ucc38\uc11d\ud574\uc8fc\uc154\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4.",
+					  "\uc624\ub298, \uc800\ub294 \uac00\uc7a5 \ud6a8\uacfc\uc801\uc778 \uace0\uac1d \uc751\ub300 \ubc29\ubc95\uc5d0 \ub300\ud574 \uc774\uc57c\uae30\ud560 \uac83\uc785\ub2c8\ub2e4.",
+					  "\uccab\uc9f8 \ub85c, \uace0\uac1d\ub4e4\uc758 \uc694\uad6c \uc0ac\ud56d\ub4e4\uc744 \uc720\uc2ec\ud788 \ub4e4\uc74c\uc73c\ub85c\uc368 \uadf8\ub4e4\uc774 \ud544\uc694\ub85c \ud558\ub294 \uac83\uc744 \uc54c\uc544\ub0b4\uc2ed\uc2dc\uc624.",
+					  "\ub610\ud55c, \uc81c\ud488\uc774\ub098 \uc11c\ube44\uc2a4\uc5d0 \uad00\ud574 \uc774\uc57c\uae30\ud560 \ub54c, \uc124\uba85\uc740 \uac04\ub2e8\ud558\uac8c \ud558\uace0 \uc804\ubb38\uc801\uc778 \uc6a9\uc5b4\uc758 \uc0ac\uc6a9\uc740 \ud53c\ud558\uc2ed\uc2dc\uc624.",
+					  "\ub9c8\uc9c0\ub9c9\uc73c\ub85c, \ubc18\ub4dc\uc2dc \uace0\uac1d\ub4e4\uc774 \ud3b8\uc548\ud568\uc744 \ub290\ub07c\ub3c4\ub85d \ud558\uc2ed\uc2dc\uc624.",
+					  "\ub530\ub73b\ud55c \uc5b4\uc870\uc640 \ubbf8\uc18c\ub97c \ud65c\uc6a9\ud568\uc73c\ub85c\uc368 \uc774\uac83\uc744 \ud574\ub0bc \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "\uc774 \uc870\uc5b8\uc744 \ub530\ub984\uc73c\ub85c\uc368, \uc5ec\ub7ec\ubd84\uc740 \uace0\uac1d\ub4e4\uacfc \uac15\ud55c \uc720\ub300\uac10\uc744 \ub9cc\ub4e4 \uc218 \uc788\uc744 \uac83\uc785\ub2c8\ub2e4."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 06_89-91_amg.mp3"
+					],
+					"eng": [
+					  "This is 108 KGDB with your local news. Bertz Technological Institute (recently announced that it will begin construction on a second campus next month).",
+					  "The development has made a big splash in the academic world.",
+					  "People are talking about it because the (institute is renowned for providing quality education and training), as well as scholarships to low-income students in the fields of electronics, information technology, and automotive engineering.",
+					  "The new campus, which will include a farm business school, is being (built to respond to the needs of the agriculture sector).",
+					  "According to the school director, the campus should open sometime next year."
+					],
+					"kor": [
+					  "\uc9c0\uc5ed \ub274\uc2a4\uc640 \ud568\uaed8 \ud558\ub294 108 KGDB\uc785\ub2c8\ub2e4. Bertz \uacfc\ud559\uae30\uc220 \ub300\ud559\uc740 \ub2e4\uc74c \ub2ec\uc5d0 \ub450 \ubc88\uc9f8 \ucea0\ud37c\uc2a4 \uacf5\uc0ac\uc5d0 \ucc29\uc218\ud560 \uac83\uc774\ub77c\uace0 \ucd5c\uadfc \ubc1c\ud45c\ud588\uc2b5\ub2c8\ub2e4.",
+					  "\uadf8 \ud655\uc7a5\uc740 \ud559\uacc4\uc5d0\uc11c \ud070 \uc8fc\ubaa9\uc744 \ub04c\uc5c8\uc2b5\ub2c8\ub2e4.",
+					  "\uadf8 \ub300\ud559\uc774 \uc591\uc9c8\uc758 \uad50\uc721\uacfc \ud6c8\ub828\ubfd0\ub9cc \uc544\ub2c8\ub77c, \uc804\uc790 \uacf5\ud559, \uc815\ubcf4 \uae30\uc220, \uc790\ub3d9\ucc28 \uacf5\ud559 \ubd84\uc57c\uc5d0 \uc788\ub294 \uc800\uc18c\ub4dd\uce35 \ud559\uc0dd\ub4e4\uc5d0\uac8c \uc7a5\ud559\uae08\uc744 \uc81c\uacf5\ud558\ub294 \uac83\uc73c\ub85c \uc720\uba85\ud558\uae30 \ub54c\ubb38\uc5d0, \uc0ac\ub78c\ub4e4\uc740 \uadf8\uac83\uc5d0 \uad00\ud574 \uc774\uc57c\uae30\ub97c \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "\ub18d\uc7a5 \uacbd\uc601 \ud559\uad50\ub97c \ud3ec\ud568\ud560 \uc0c8\ub85c\uc6b4 \ucea0\ud37c\uc2a4\ub294 \ub18d\uc5c5 \ubd84\uc57c\uc758 \uc218\uc694\uc5d0 \ubd80\uc751\ud558\uae30 \uc704\ud574 \uc9c0\uc5b4\uc9c8 \uac83\uc785\ub2c8\ub2e4.",
+					  "\ud559\uad50\uc7a5\uc5d0 \ub530\ub974\uba74, \uadf8 \ucea0\ud37c\uc2a4\ub294 \ub0b4\ub144 \uc911\uc5d0 \ubb38\uc744 \uc5f4 \uac83\uc785\ub2c8\ub2e4."
+					]
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"no": "7",
+			"label": "TEST 07",
+			"depth3": [
+			  {
+				"no": "1",
+				"label": "Part 1",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 07_1-B_amg.mp3"
+					],
+					"eng": "(He is watering a potted plant.)",
+					"kor": "\uadf8\ub294 \ud654\ubd84\uc5d0 \uc2ec\uc740 \uc2dd\ubb3c\uc5d0 \ubb3c\uc744 \uc8fc\uace0 \uc788\ub2e4."
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 07_3-A_amg.mp3",
+					  "TEST 07_3-A_eug.mp3"
+					],
+					"eng": "(Trees are casting shadows on the ground.)",
+					"kor": "\ub098\ubb34\ub4e4\uc774 \ub545 \uc704\uc5d0 \uadf8\ub9bc\uc790\ub97c \ub4dc\ub9ac\uc6b0\uace0 \uc788\ub2e4."
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 07_6-D_amg.mp3"
+					],
+					"eng": "(Some paintings are being taken down from the wall.)",
+					"kor": "\uba87\uba87 \uadf8\ub9bc\ub4e4\uc774 \ubcbd\uc5d0\uc11c \ub0b4\ub824\uc9c0\uace0 \uc788\ub2e4."
+				  }
+				]
+			  },
+			  {
+				"no": "2",
+				"label": "Part 2",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 07_9-A_amg.mp3",
+					  "TEST 07_9-A_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Where should passengers board the ferry?)",
+					  "A : (The boat will stop at that pier.)"
+					],
+					"kor": [
+					  "Q : \uc2b9\uac1d\ub4e4\uc740 \uc5b4\ub514\uc5d0\uc11c \uc5ec\uac1d\uc120\uc5d0 \uc2b9\uc120\ud574\uc57c \ud569\ub2c8\uae4c?",
+					  "A : \ubc30\ub294 \uc800 \ubd80\ub450\uc5d0\uc11c \uba48\ucd9c \uac70\uc608\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 07_10-C_amg.mp3"
+					],
+					"eng": [
+					  "Q : (We should decide on a venue for the corporate dinner.)",
+					  "A : (The first place we saw was nice.)"
+					],
+					"kor": [
+					  "Q : \uc6b0\ub9ac\ub294 \uae30\uc5c5 \ub9cc\ucc2c \ud589\uc0ac \uc7a5\uc18c\ub97c \uacb0\uc815\ud574\uc57c \ud569\ub2c8\ub2e4.",
+					  "A : \uc6b0\ub9ac\uac00 \ubd24\ub358 \uccab \ubc88\uc9f8 \uc7a5\uc18c\uac00 \uba4b\uc84c\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 07_13-A_amg.mp3",
+					  "TEST 07_13-A_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Can I use this coupon, or is it no longer valid?)",
+					  "A : (It appears to have expired.)"
+					],
+					"kor": [
+					  "Q : \uc81c\uac00 \uc774 \ucfe0\ud3f0\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc788\ub098\uc694, \uc544\ub2c8\uba74 \uc774\uac83\uc774 \ub354 \uc774\uc0c1 \uc720\ud6a8\ud558\uc9c0 \uc54a\ub098\uc694?",
+					  "A : \ub9cc\ub8cc\ub41c \uac83 \uac19\ub124\uc694."
+					]
+				  },
+				  {
+					"no": "4",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 07_25-C_amg.mp3",
+					  "TEST 07_25-C_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Why is the editor unsatisfied with Charles\u2019s most recent article?)",
+					  "A : (We haven\u2019t discussed the matter.)"
+					],
+					"kor": [
+					  "Q : \ud3b8\uc9d1\uc7a5\uc740 \uc65c Charles\uc758 \ucd5c\uc2e0 \uae30\uc0ac\uc5d0 \ub300\ud574 \ubd88\ub9cc\uc871\uc2a4\ub7ec\uc6cc\ud558\ub098\uc694?",
+					  "A : \uc6b0\ub9ac\ub294 \uadf8 \ubb38\uc81c\uc5d0 \ub300\ud574\uc11c \ub17c\uc758\ud558\uc9c0 \uc54a\uc558\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "5",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 07_27-A_amg.mp3",
+					  "TEST 07_27-A_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Quality control needs to improve at our plant.)",
+					  "A : (Measures have already been implemented.)"
+					],
+					"kor": [
+					  "Q : \uc6b0\ub9ac \uc81c\uc870 \uacf5\uc7a5\uc5d0\uc11c \ud488\uc9c8 \uad00\ub9ac\uac00 \ud5a5\uc0c1\ub418\uc5b4\uc57c \ud574\uc694.",
+					  "A : \uc870\uce58\uac00 \uc774\ubbf8 \ucde8\ud574\uc84c\uc5b4\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "3",
+				"label": "Part 3",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 07_59-61_amg.mp3",
+					  "TEST 07_59-61_eug.mp3"
+					],
+					"eng": [
+					  "W: I want to quickly (go over everyone\u2019s duties in relation to the schedule for tomorrow\u2019s banquet).",
+					  "M1: I\u2019ll be showing the guests to their seats from 6 p.m.",
+					  "M2: And I\u2019m (in charge of making sure serving staff get the dinner course out) at 6:20 p.m.",
+					  "W: Hmm. Let\u2019s push that back. If people are arriving only 20 minutes earlier, then they won\u2019t have enough time to get situated. There\u2019s just no way. ",
+					  "M2: Then, how does 6:45 sound?",
+					  "W: That seems more reasonable.",
+					  "M1: Yeah. (The schedule at our event last year was a bit tight), which made our servers\u2019 work harder.",
+					  "M2: Hopefully, this timeframe will be more suitable."
+					],
+					"kor": [
+					  "W: \uc800\ub294 \ub0b4\uc77c \uc788\uc744 \uc5f0\ud68c\uc758 \uc77c\uc815\uc5d0 \uad00\ud558\uc5ec \ube60\ub974\uac8c \uc5ec\ub7ec\ubd84\ub4e4\uc758 \uc784\ubb34\ub97c \uc810\uac80\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.",
+					  "M1: \uc800\ub294 \uc624\ud6c4 6\uc2dc\ubd80\ud130 \uc190\ub2d8\ub4e4\uc744 \uadf8\ub4e4\uc758 \uc88c\uc11d\uc73c\ub85c \uc548\ub0b4\ud574\ub4dc\ub9b4 \uac81\ub2c8\ub2e4.",
+					  "M2: \uadf8\ub9ac\uace0 \uc800\ub294 \uc11c\ube59 \ub2f4\ub2f9 \uc9c1\uc6d0\ub4e4\uc774 \uc624\ud6c4 6\uc2dc 20\ubd84\uc5d0 \ud655\uc2e4\ud788 \uc800\ub141 \ucf54\uc2a4 \uc694\ub9ac\ub97c \uc11c\ube59\ud558\ub3c4\ub85d \ud558\ub294 \uac83\uc744 \ub2f4\ub2f9\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "W: \ud760. \uadf8\uac83\uc744 \ubbf8\ub8f9\uc2dc\ub2e4. \uc0ac\ub78c\ub4e4\uc774 \uaca8\uc6b0 20\ubd84 \ubbf8\ub9ac \ub3c4\ucc29\ud55c\ub2e4\uba74, \uadf8\ub4e4\uc740 \uc790\ub9ac\ub97c \uc7a1\uc744 \uc2dc\uac04\uc774 \ucda9\ubd84\ud788 \uc5c6\uc744 \uac70\uc608\uc694. \uc808\ub300 \ubabb\ud560 \uac81\ub2c8\ub2e4.",
+					  "M2: \uadf8\ub807\ub2e4\uba74, 6\uc2dc 45\ubd84\uc740 \uc5b4\ub5a4\uac00\uc694?",
+					  "W: \uadf8\uac8c \ub354 \uc801\ub2f9\ud55c \uac83 \uac19\ub124\uc694.",
+					  "M1: \ub124. \uc791\ub144 \ud589\uc0ac \uc77c\uc815\uc740 \uc0b4\uc9dd \ube60\ub4ef\ud588\uc5b4\uc694, \uadf8\uac8c \uc11c\ube59\ud558\ub294 \uc9c1\uc6d0\ub4e4\uc758 \uc77c\uc744 \ub354 \ud798\ub4e4\uac8c \ub9cc\ub4e4\uc5c8\uace0\uc694.",
+					  "M2: \ubc14\ub77c\uac74\ub300, \uc774 \uc2dc\uac04\uc774 \ub354 \uc801\ub2f9\ud558\uba74 \uc88b\uaca0\ub124\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 07_68-70_amg.mp3",
+					  "TEST 07_68-70_eug.mp3"
+					],
+					"eng": [
+					  "M: Excuse me. My wife and I are traveling together, but unfortunately we weren\u2019t assigned seats next to each other. Would you be willing to switch seats with her?",
+					  "W: That depends on where she\u2019s sitting. I get motion sickness if I sit in the back of the plane.",
+					  "M: She\u2019s in the (window seat on the other side of the center row), number C-6. So, you wouldn\u2019t be moving back at all.",
+					  "W: Oh, I see. That\u2019s fine with me. (I\u2019d actually appreciate having a seat with a view).",
+					  "M: Thanks so much! We really appreciate your consideration.",
+					  "W: No problem. Just let me (grab my suitcase from the overhead compartment)."
+					],
+					"kor": [
+					  "M: \uc2e4\ub840\ud569\ub2c8\ub2e4. \uc544\ub0b4\uc640 \uc81c\uac00 \ud568\uaed8 \uc5ec\ud589 \uc911\uc778\ub370\uc694, \uc720\uac10\uc2a4\ub7fd\uac8c\ub3c4 \ub098\ub780\ud788 \uac19\uc774 \uc549\uc744 \uc218 \uc788\ub294 \uc790\ub9ac\ub97c \ubc30\uc815\ubc1b\uc9c0 \ubabb\ud588\uc2b5\ub2c8\ub2e4. \uadf8\ub140\uc640 \uc790\ub9ac\ub97c \ubc14\uafd4\uc8fc\uc2e4 \uc758\ud5a5\uc774 \uc788\uc73c\uc2e0\uac00\uc694?",
+					  "W: \uadf8\uac74 \uadf8\ub140\uac00 \uc5b4\ub514\uc5d0 \uc549\uc544 \uc788\ub294\uc9c0\uc5d0 \ub2ec\ub824 \uc788\uc5b4\uc694. \uc800\ub294 \ube44\ud589\uae30 \ub4a4\ucabd\uc5d0 \uc549\uc73c\uba74 \uba40\ubbf8\ub97c \ud558\uac70\ub4e0\uc694.",
+					  "M: \uc544\ub0b4\ub294 \uac00\uc6b4\ub370 \uc5f4\uc744 \uae30\uc900\uc73c\ub85c \ubc18\ub300\ud3b8 \ucc3d\uac00 \ucabd \uc790\ub9ac\uc778 C-6\uc5d0 \uc549\uc544 \uc788\uc5b4\uc694. \uadf8\ub7ec\ub2c8, \ub2f9\uc2e0\uc740 \uc870\uae08\ub3c4 \ub4a4\ucabd\uc73c\ub85c \uc774\ub3d9\ud558\uc9c0 \uc54a\uc544\ub3c4 \ub420 \uac81\ub2c8\ub2e4.",
+					  "W: \uc544, \uc54c\uaca0\uc5b4\uc694. \uadf8\ub7fc \uad1c\ucc2e\uc2b5\ub2c8\ub2e4. \uc0ac\uc2e4 \uc804\ub9dd\uc774 \ubcf4\uc774\ub294 \uc790\ub9ac\uc5d0 \uc549\uac8c \ub418\uc5b4\uc11c \uac10\uc0ac\ud558\ub124\uc694.",
+					  "M: \uc815\ub9d0 \uac10\uc0ac\ud569\ub2c8\ub2e4! \ub2f9\uc2e0\uc758 \ubc30\ub824\uc5d0 \uc815\ub9d0 \uac10\uc0ac \ub4dc\ub824\uc694.",
+					  "W: \ucc9c\ub9cc\uc5d0\uc694. \uba38\ub9ac \uc704 \uc9d0\uce78\uc5d0\uc11c \uc81c \uc5ec\ud589 \uac00\ubc29\ub9cc \uc880 \uac00\uc838\uac00\uaca0\uc2b5\ub2c8\ub2e4."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "4",
+				"label": "Part 4",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 07_89-91_amg.mp3",
+					  "TEST 07_89-91_eug.mp3"
+					],
+					"eng": [
+					  "The annual Scranton Culture and Art Fair was held last weekend, and (the popular event drew visitors from all over the state).",
+					  "Guests were able to buy artwork and other merchandise from nearly 400 vendors.",
+					  "For many people, however, (the highlight of this year\u2019s fair was the surprise appearance of the renowned painter), Maria Hernandez.",
+					  "Ms. Hernandez was born and raised in Scranton but immigrated to Paris, France a decade ago to (pursue a career as an artist).",
+					  "Upon arriving at the fair, she attracted the attention of a large group of people, so she decided to sign autographs at a table that organizers quickly set up for her."
+					],
+					"kor": [
+					  "\uc5f0\ub840 \uc2a4\ud06c\ub79c\ud134 \ubb38\ud654 \uc608\uc220 \ubc15\ub78c\ud68c\uac00 \uc9c0\ub09c \uc8fc\ub9d0\uc5d0 \uc5f4\ub838\ub294\ub370, \uc774 \uc720\uba85\ud55c \ud589\uc0ac\ub294 \uc8fc \uc804\uc5ed\uc5d0\uc11c \ubc29\ubb38\uac1d\ub4e4\uc744 \ub04c\uc5b4\ubaa8\uc558\uc2b5\ub2c8\ub2e4.",
+					  "\uc190\ub2d8\ub4e4\uc740 \uac70\uc758 400\uba85\uc758 \uc0c1\uc778\ub4e4\ub85c\ubd80\ud130 \uc608\uc220\ud488\uacfc \ub2e4\ub978 \uc0c1\ud488\ub4e4\uc744 \uad6c\ub9e4\ud560 \uc218 \uc788\uc5c8\uc2b5\ub2c8\ub2e4.",
+					  "\uadf8\ub7ec\ub098, \ub9ce\uc740 \uc0ac\ub78c\ub4e4\uc5d0\uac8c, \uc62c\ud574 \ubc15\ub78c\ud68c\uc758 \ud558\uc774\ub77c\uc774\ud2b8\ub294 \uc720\uba85 \ud654\uac00, Maria Hernandez\uc758 \uae5c\uc9dd \ucd9c\uc5f0\uc774\uc5c8\uc2b5\ub2c8\ub2e4.",
+					  "Ms. Hernandez\ub294 \uc2a4\ud06c\ub79c\ud134\uc5d0\uc11c \ud0dc\uc5b4\ub098\uace0 \uc790\ub790\uc9c0\ub9cc, \uc608\uc220\uac00\ub85c\uc11c\uc758 \uacbd\ub825\uc744 \ucd94\uad6c\ud558\uae30 \uc704\ud574 \uc2ed \ub144 \uc804 \ud504\ub791\uc2a4 \ud30c\ub9ac\ub85c \uc774\uc8fc\ud588\uc2b5\ub2c8\ub2e4.",
+					  "\ubc15\ub78c\ud68c\uc5d0 \ub3c4\ucc29\ud588\uc744 \ub54c \uadf8\ub140\ub294 \ub9ce\uc740 \uc0ac\ub78c\ub4e4\uc758 \uad00\uc2ec\uc744 \ub04c\uc5c8\uace0, \uc774\uc5d0 \uc8fc\ucd5c\uc790\ub4e4\uc774 \uadf8\ub140\ub97c \uc704\ud574 \uc11c\ub458\ub7ec \ub9c8\ub828\ud55c \ud14c\uc774\ube14\uc5d0\uc11c \uc0ac\uc778\uc744 \ud558\uae30\ub85c \uacb0\uc815\ud588\uc2b5\ub2c8\ub2e4."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 07_98-100_amg.mp3"
+					],
+					"eng": [
+					  "Welcome to the annual seminar on global development initiatives.",
+					  "I\u2019d like to start by saying that this year\u2019s seminar is unlike any of the past years\u2019 because we had to (move to a\nlarger venue due to the record number of attendees).",
+					  "Now, before I introduce the first speaker, (I should point out a change to the schedule).",
+					  "Lynette Pointer is currently listed as the second speaker.",
+					  "Unfortunately, she has been . . . Been delayed at the airport, so (her presentation will be the last one today). ",
+					  "The original speaker for that time will take her spot this morning."
+					],
+					"kor": [
+					  "\uc138\uacc4 \ubc1c\uc804 \uacc4\ud68d\uc5d0 \ub300\ud55c \uc5f0\ub840 \uc138\ubbf8\ub098\uc5d0 \uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4.",
+					  "\uc62c\ud574\uc758 \uc138\ubbf8\ub098\ub294 \uae30\ub85d\uc801\uc778 \ucc38\uc11d\uc790 \uc218\ub85c \uc778\ud574 \ub354 \ud070 \uc7a5\uc18c\ub85c \uc62e\uaca8\uc57c \ud588\uae30 \ub54c\ubb38\uc5d0 \uc9c0\ub09c \uba87 \ud574 \ub3d9\uc548\uc758 \uc5b4\ub5a4 \uc138\ubbf8\ub098\ub4e4\uacfc\ub3c4 \ub2e4\ub974\ub2e4\ub294 \uac83\uc744 \ub9d0\uc500 \ub4dc\ub9ac\uba74\uc11c \uc2dc\uc791\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.",
+					  "\uc790, \uccab \ubc88\uc9f8 \ubc1c\ud45c\uc790\ub97c \uc18c\uac1c\ud558\uae30\uc5d0 \uc55e\uc11c, \uc77c\uc815 \ubcc0\uacbd\uc5d0 \ub300\ud574 \uc9da\uace0 \ub118\uc5b4\uac00\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.",
+					  "Lynette Pointer\ub294 \ud604\uc7ac \ub450 \ubc88\uc9f8 \ubc1c\ud45c\uc790\ub85c \ubaa9\ub85d\uc5d0 \uae30\uc785\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "\uc720\uac10\uc2a4\ub7fd\uac8c\ub3c4, \uadf8\ub140\uac00... \uacf5\ud56d\uc5d0\uc11c \uc9c0\uccb4\ub418\uc5b4\uc11c, \uadf8\ub140\uc758 \ubc1c\ud45c\ub294 \uc624\ub298\uc758 \ub9c8\uc9c0\ub9c9 \ubc1c\ud45c\uac00 \ub420 \uac83\uc785\ub2c8\ub2e4.",
+					  "\uadf8 \uc2dc\uac04\uc758 \uc6d0\ub798 \ubc1c\ud45c\uc790\ub294 \uc624\ub298 \uc624\uc804\uc5d0 \uadf8\ub140\uc758 \uc790\ub9ac\ub97c \uba54\uc6b8 \uc608\uc815\uc785\ub2c8\ub2e4."
+					]
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"no": "8",
+			"label": "TEST 08",
+			"depth3": [
+			  {
+				"no": "1",
+				"label": "Part 1",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 08_1-D_amg.mp3"
+					],
+					"eng": "(They are surrounded by flowers.)",
+					"kor": "\uadf8\ub4e4\uc740 \uaf43\uc73c\ub85c \ub458\ub7ec\uc2f8\uc5ec \uc788\ub2e4."
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 08_3-C_amg.mp3",
+					  "TEST 08_3-C_eug.mp3"
+					],
+					"eng": "(Some railings are being attached to the structure.)",
+					"kor": "\ub09c\uac04\ub4e4\uc774 \uac74\ubb3c\uc5d0 \ub2ec\uc544\uc9c0\uace0 \uc788\ub2e4."
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 08_6-C_amg.mp3"
+					],
+					"eng": "(The pillows have been arranged on a sofa.)",
+					"kor": "\ubca0\uac1c\ub4e4\uc774 \uc18c\ud30c \uc704\uc5d0 \uc815\ub82c\ub418\uc5b4 \uc788\ub2e4."
+				  }
+				]
+			  },
+			  {
+				"no": "2",
+				"label": "Part 2",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 08_9-B_amg.mp3",
+					  "TEST 08_9-B_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Has the director briefed the new staff?)",
+					  "A : (He\u2019s doing it now.)"
+					],
+					"kor": [
+					  "Q : \ubd80\uc7a5\ub2d8\uaed8\uc11c \uc0c8 \uc9c1\uc6d0\ub4e4\uc5d0\uac8c \uac04\ub2e8\ud788 \uc124\uba85\ud574\uc8fc\uc168\ub098\uc694?",
+					  "A : \uadf8\ub294 \uc9c0\uae08 \uadf8\uac83\uc744 \ud558\uace0 \uc788\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 08_10-C_amg.mp3",
+					  "TEST 08_10-C_eug.mp3"
+					],
+					"eng": [
+					  "Q : (When did the customers start to get in line for the sale?)",
+					  "A : (From five in the morning.)"
+					],
+					"kor": [
+					  "Q : \uace0\uac1d\ub4e4\uc740 \ud560\uc778\uc744 \ubc1b\uae30 \uc704\ud574 \uc5b8\uc81c\ubd80\ud130 \uc904\uc744 \uc11c\uae30 \uc2dc\uc791\ud588\ub098\uc694?",
+					  "A : \uc0c8\ubcbd \ub2e4\uc12f \uc2dc\ubd80\ud130\uc694."
+					]
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 08_16-A_amg.mp3",
+					  "TEST 08_16-A_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Why is the front door already locked?)",
+					  "A : (Oh, I thought we closed for the day.)"
+					],
+					"kor": [
+					  "Q : \uc55e\ubb38\uc774 \uc65c \uc774\ubbf8 \uc7a0\uaca8 \uc788\ub098\uc694?",
+					  "A : \uc544, \uc624\ub298 \uc6b0\ub9ac \uc601\uc5c5\uc774 \ub05d\ub09c \uc904 \uc54c\uc558\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "4",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 08_17-C_amg.mp3"
+					],
+					"eng": [
+					  "Q : (I\u2019m going to buy more office supplies tomorrow.)",
+					  "A : (Do you know what everyone needs?)"
+					],
+					"kor": [
+					  "Q : \ub0b4\uc77c \uc0ac\ubb34 \uc6a9\ud488\uc744 \ub354 \uad6c\ub9e4\ud560 \uac70\uc608\uc694.",
+					  "A : \ub2f9\uc2e0\uc740 \ubaa8\ub450\uac00 \ud544\uc694\ub85c \ud558\ub294 \uac83\uc774 \ubb34\uc5c7\uc778\uc9c0 \uc54c\uace0 \uc788\ub098\uc694?"
+					]
+				  },
+				  {
+					"no": "5",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 08_21-A_amg.mp3"
+					],
+					"eng": [
+					  "Q : (Did you know that toll fees are going up this summer?)",
+					  "A : (Yes, I heard it on the news.)"
+					],
+					"kor": [
+					  "Q : \uc62c \uc5ec\ub984\uc5d0 \ud1b5\ud589\ub8cc\uac00 \uc624\ub978\ub2e4\ub294 \uac83\uc744 \uc54c\uace0 \uc788\uc5c8\ub098\uc694?",
+					  "A : \ub124, \ub274\uc2a4\uc5d0\uc11c \ub4e4\uc5c8\uc5b4\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "3",
+				"label": "Part 3",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 08_38-40_amg.mp3",
+					  "TEST 08_38-40_eug.mp3"
+					],
+					"eng": [
+					  "M: Excuse me. I\u2019m new here at the office. I was wondering if you (could help me figure out where I can park my car). It seems like every space in the parking lot is reserved.",
+					  "W: Yes, it\u2019s actually quite difficult to find a space in the lot. The managers have their spaces reserved, and we (make sure to keep a few spots open for visitors). Regular employees usually have to leave their vehicles at the parking garage near the train station.",
+					  "M: That\u2019s too far to walk, though. How can I get to the office from there?",
+					  "W: Oh, I take the bus. Several buses stop at the station and come directly here. (I have a bus schedule I can give you), if you\u2019d like."
+					],
+					"kor": [
+					  "M: \uc2e4\ub840\ud569\ub2c8\ub2e4. \uc800\ub294 \uc774 \ud68c\uc0ac\uc5d0 \ucc98\uc74c \uc654\ub294\ub370\uc694. \uc81c \ucc28\ub97c \uc8fc\ucc28\ud560 \uc218 \uc788\ub294 \uacf5\uac04\uc744 \ucc3e\ub294 \uac83\uc744 \ub3c4\uc640\uc8fc\uc2e4 \uc218 \uc788\ub294\uc9c0 \uad81\uae08\ud569\ub2c8\ub2e4. \uc8fc\ucc28\uc7a5\uc758 \ubaa8\ub4e0 \uacf5\uac04\uc774 \uc9c0\uc815\ub41c \uac83 \uac19\uc544\uc694.",
+					  "W: \ub124, \uc5ec\uae30\uc5d0 \uc8fc\ucc28\ud560 \uacf5\uac04\uc744 \ucc3e\ub294 \uac74 \uc0ac\uc2e4 \uaf64 \uc5b4\ub824\uc6cc\uc694. \uad00\ub9ac\uc790\ub4e4\uc740 \uc790\ub9ac\ub97c \uc9c0\uc815\ud574 \ub193\uc558\uace0, \ubc29\ubb38\uac1d\ub4e4\uc744 \uc704\ud574 \uba87 \uc790\ub9ac\ub294 \uaf2d \ube44\uc6cc\ub450\uac70\ub4e0\uc694. \uc815\uaddc \uc9c1\uc6d0\ub4e4\uc740 \ubcf4\ud1b5 \uae30\ucc28\uc5ed \uadfc\ucc98\uc758 \uc8fc\ucc28\uc7a5\uc5d0 \uc8fc\ucc28\ub97c \ud574\uc694.",
+					  "M: \ud558\uc9c0\ub9cc \uadf8\uacf3\uc740 \ub3c4\ubcf4\ub85c \ub108\ubb34 \uba40\uc5b4\uc694. \uac70\uae30\uc11c \ud68c\uc0ac\uae4c\uc9c0 \uc5b4\ub5bb\uac8c \uc62c \uc218 \uc788\ub098\uc694?",
+					  "W: \uc544, \uc800\ub294 \ubc84\uc2a4\ub97c \ud0c0\uc694. \uc5ec\ub7ec \ub300\uc758 \ubc84\uc2a4\uac00 \uc5ed\uc5d0 \uc11c\uace0 \uc5ec\uae30\ub85c \ubc14\ub85c \uc624\uac70\ub4e0\uc694. \uc6d0\ud558\uc2dc\uba74, \ub2f9\uc2e0\uc5d0\uac8c \ub4dc\ub9b4 \uc218 \uc788\ub294 \ubc84\uc2a4 \uc6b4\ud589 \uc2dc\uac04\ud45c\uac00 \uc81c\uac8c \uc788\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 08_44-46_amg.mp3"
+					],
+					"eng": [
+					  "M: Good morning, Marcy. Have you met the new finance manager, Mr. Dover?",
+					  "W: Not yet. But I have a one-on-one meeting with him at 4 p.m. today. Anything I should know about him?",
+					  "M: Not particularly. I just wanted to know if he said (anything about cost cutting in our department to you).",
+					  "W: I don\u2019t think that\u2019ll happen. (Didn\u2019t you see the message he posted on the online board) about next year\u2019s budget? It\u2019ll be the same as this year\u2019s. ",
+					  "M: I didn\u2019t. That\u2019s good to hear, though. I was worried this new manager would make fewer funds available for our next project . . . and we were already working with the minimum amount of money we could.",
+					  "W: Our team always (stays within its spending limit), so there\u2019s no need to worry."
+					],
+					"kor": [
+					  "M: \uc88b\uc740 \uc544\uce68\uc774\uc5d0\uc694, Marcy. \uc0c8\ub85c \uc628 \uc7ac\ubb34\ubd80 \ubd80\uc7a5\uc778 Mr. Dover\ub97c \ub9cc\ub098\ubcf4\uc168\ub098\uc694?",
+					  "W: \uc544\uc9c1\uc774\uc694. \ud558\uc9c0\ub9cc \uc624\ub298 \uc624\ud6c4 4\uc2dc\uc5d0 \uadf8\uc640 \uc77c\ub300\uc77c \uba74\ub2f4\uc774 \uc788\uc5b4\uc694. \uadf8\uc5d0 \ub300\ud574 \uc54c\uc544\uc57c \ud560 \uac83\uc774\ub77c\ub3c4 \uc788\ub098\uc694?",
+					  "M: \ud2b9\ubcc4\ud788 \uc5c6\uc5b4\uc694. \uc800\ub294 \ub2e8\uc9c0 \uadf8\uac00 \uc6b0\ub9ac \ubd80\uc11c\uc758 \ube44\uc6a9 \uc0ad\uac10\uc5d0 \ub300\ud574 \ub2f9\uc2e0\uc5d0\uac8c \ub9d0\ud55c \uac83\uc774 \uc788\ub294\uc9c0 \uc54c\uace0 \uc2f6\uc5c8\uc5b4\uc694.",
+					  "W: \uadf8\ub7f0 \uc77c\uc740 \uc5c6\uc744 \uac83 \uac19\uc544\uc694. \uadf8\uac00 \ub0b4\ub144\ub3c4 \uc608\uc0b0\uc5d0 \ub300\ud574 \uc628\ub77c\uc778 \uac8c\uc2dc\ud310\uc5d0 \uc62c\ub9b0 \uba54\uc2dc\uc9c0\ub97c \ud655\uc778\ud558\uc9c0 \uc54a\uc558\ub098\uc694? \uc62c\ud574 \uc608\uc0b0\uacfc \ub3d9\uc77c\ud560 \uac70\uc608\uc694.",
+					  "M: \ubabb \ubd24\uc5b4\uc694. \ud558\uc9c0\ub9cc, \ub2e4\ud589\uc774\ub124\uc694. \uc0c8\ub85c \uc628 \ubd80\uc7a5\uc774 \uc6b0\ub9ac\uc758 \ub2e4\uc74c \ud504\ub85c\uc81d\ud2b8\uc758 \uac00\uc6a9 \uc790\uae08\uc744 \ub354 \ub0ae\uac8c \uc7a1\uc744\uae4c \ubd10 \uac71\uc815\ud588\uac70\ub4e0\uc694... \uadf8\ub9ac\uace0 \uc6b0\ub9ac\ub294 \uc774\ubbf8 \uc6b0\ub9ac\uac00 \ud560 \uc218 \uc788\ub294 \ucd5c\uc18c\ud55c\uc758 \ube44\uc6a9\uc73c\ub85c \uc791\uc5c5\ud558\uace0 \uc788\uc5c8\uc796\uc544\uc694.",
+					  "W: \uc6b0\ub9ac \ud300\uc740 \uc5b8\uc81c\ub098 \uc9c0\ucd9c \ud55c\ub3c4 \ub0b4\uc5d0 \uc788\uc73c\ub2c8\uae4c, \uac71\uc815\ud560 \ud544\uc694\uc5c6\uc5b4\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "4",
+				"label": "Part 4",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 08_77-79_amg.mp3"
+					],
+					"eng": [
+					  "(Thank you for calling) Casey\u2019s, situated on the ground floor of Goldbelt Shopping Mall.",
+					  "(If you have any inquiries, please leave a message) after pressing one or call us within our regular store hours.",
+					  "Please note that Casey\u2019s will not be open on Friday, May 18, because of a celebration of the company\u2019s ninth anniversary.",
+					  "(We apologize for any inconvenience this may cause), but we will reopen on May 19 for our regular hours of operation.",
+					  "If you would like more information about our shop and products, you may visit www.caseys.com. Thank you."
+					],
+					"kor": [
+					  "Goldbelt \uc1fc\ud551\ubab0 1\uce35\uc5d0 \uc704\uce58\ud55c, Casey\u2019s\uc5d0 \uc804\ud654 \uc8fc\uc154\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4.",
+					  "\ubb38\uc758 \uc0ac\ud56d\uc774 \uc788\uc73c\uc2dc\uba74, 1\ubc88\uc744 \ub204\ub974\uc2e0 \ud6c4 \uba54\uc2dc\uc9c0\ub97c \ub0a8\uaca8\uc8fc\uc2dc\uac70\ub098 \uc815\uaddc \uc601\uc5c5 \uc2dc\uac04\uc5d0 \uc804\ud654 \uc8fc\uc2ed\uc2dc\uc624.",
+					  "Casey\u2019s\ub294 \ud68c\uc0ac\uc758 9\uc8fc\ub144 \uae30\ub150 \ud589\uc0ac\ub85c \uc778\ud574 5\uc6d4 18\uc77c \uae08\uc694\uc77c\uc5d0\ub294 \uc601\uc5c5\uc744 \ud558\uc9c0 \uc54a\ub294\ub2e4\ub294 \uc810\uc5d0 \uc720\uc758\ud574\uc8fc\uc2ed\uc2dc\uc624.",
+					  "\uc774\uac83\uc73c\ub85c \uc778\ud574 \uc57c\uae30\ub418\ub294 \ubd88\ud3b8 \uc0ac\ud56d\uc5d0 \ub300\ud574 \uc0ac\uacfc\ub4dc\ub9ac\ub294 \ubc14\uc774\uba70, \uc800\ud76c\ub294 5\uc6d4 19\uc77c\uc5d0 \uc815\uaddc \uc601\uc5c5 \uc2dc\uac04\ub300\ub85c \ub2e4\uc2dc \ubb38\uc744 \uc5f4 \uac83\uc785\ub2c8\ub2e4.",
+					  "\uc0c1\uc810\uacfc \uc0c1\ud488\uc5d0 \ub300\ud574 \ub354 \ub9ce\uc740 \uc815\ubcf4\ub97c \uc6d0\ud558\uc2e0\ub2e4\uba74, www.caseys.com\uc744 \ubc29\ubb38\ud574\uc8fc\uc2ed\uc2dc\uc624. \uac10\uc0ac\ud569\ub2c8\ub2e4."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 08_86-88_amg.mp3",
+					  "TEST 08_86-88_eug.mp3"
+					],
+					"eng": [
+					  "This is Mary Webb with the traffic report. It has been (raining heavily since late last night and some streets are starting to flood).",
+					  "Expect heavy traffic congestion on roadways leading to the Dayton business district.",
+					  "Southbound vehicles may take Highway 9, where traffic flow is light to moderate.",
+					  "Also, the City Transit Authority announced that repairs on Highway 39 will start this Friday and continue until Tuesday next week.",
+					  "Commuters are urged to use alternate routes.",
+					  "(For more details about the highway construction), you may also check www.netd.com.",
+					  "(Stay tuned for our next report coming up) in 30 minutes."
+					],
+					"kor": [
+					  "\uc800\ub294 \uad50\ud1b5 \ubc29\uc1a1\uc758 Mary Webb\uc785\ub2c8\ub2e4. \uc5b4\uc82f\ubc24 \ub2a6\uac8c\ubd80\ud130 \ube44\uac00 \uc2ec\ud558\uac8c \ub0b4\ub838\uace0, \uc77c\ubd80 \uac70\ub9ac\uc5d0 \ubb3c\uc774 \ubc94\ub78c\ud558\uae30 \uc2dc\uc791\ud588\uc2b5\ub2c8\ub2e4.",
+					  "Dayton \uc0c1\uc5c5 \uc9c0\uad6c\ub85c \uc774\uc5b4\uc9c0\ub294 \uc8fc\uc694 \ub3c4\ub85c\ub4e4\uc758 \uc2ec\ud55c \uad50\ud1b5 \uccb4\uc99d\uc774 \uc608\uc0c1\ub429\ub2c8\ub2e4.",
+					  "\ub0a8\ucabd\uc73c\ub85c \uac00\ub294 \ucc28\ub7c9\ub4e4\uc740 \uad50\ud1b5 \ud750\ub984\uc774 \uc801\uac70\ub098 \ubcf4\ud1b5\uc778 9\ubc88 \uace0\uc18d\ub3c4\ub85c\ub97c \uc774\uc6a9\ud558\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.",
+					  "\ub610\ud55c, \uc2dc \uad50\ud1b5\ubd80\ub294 39\ubc88 \uace0\uc18d\ub3c4\ub85c\uc758 \ubcf5\uad6c \uc791\uc5c5\uc774 \uc774\ubc88 \uc8fc \uae08\uc694\uc77c\uc5d0 \uc2dc\uc791\ub418\uc5b4 \ub2e4\uc74c \uc8fc \ud654\uc694\uc77c\uae4c\uc9c0 \uacc4\uc18d\ub420 \uac83\uc774\ub77c\uace0 \ubc1c\ud45c\ud558\uc600\uc2b5\ub2c8\ub2e4.",
+					  "\ud1b5\uadfc\uc790\ub4e4\uc740 \uc6b0\ud68c\ub85c\ub97c \uc774\uc6a9\ud558\ub294 \uac83\uc774 \uad8c\uace0\ub429\ub2c8\ub2e4.",
+					  "\uace0\uc18d\ub3c4\ub85c \uacf5\uc0ac\uc5d0 \uad00\ud55c \ub354 \ub9ce\uc740 \uc815\ubcf4\ub294, www.netd.com\uc5d0\uc11c\ub3c4 \ud655\uc778\ud558\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "\ub2e4\uc74c \ubc29\uc1a1\uc740 30\ubd84 \ud6c4\uc5d0 \uc2dc\uc791\ub418\ub2c8 \ucc44\ub110 \uace0\uc815\ud574\uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4."
+					]
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"no": "9",
+			"label": "TEST 09",
+			"depth3": [
+			  {
+				"no": "1",
+				"label": "Part 1",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 09_1-C_amg.mp3",
+					  "TEST 09_1-C_eug.mp3"
+					],
+					"eng": "(He\u2019s typing on a keyboard.)",
+					"kor": "\uadf8\ub294 \ud0a4\ubcf4\ub4dc\ub85c \ud0c0\uc790\ub97c \uce58\uace0 \uc788\ub2e4."
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 09_4-A_amg.mp3"
+					],
+					"eng": "(Some chairs are stacked near the building.)",
+					"kor": "\uba87\uba87 \uc758\uc790\ub4e4\uc774 \uac74\ubb3c \uadfc\ucc98\uc5d0 \uc313\uc5ec \uc788\ub2e4."
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 09_6-A_amg.mp3"
+					],
+					"eng": "(The vase has been emptied of flowers.)",
+					"kor": "\uaf43\ubcd1\uc5d0 \uaf43\ub4e4\uc774 \uc5c6\ub2e4."
+				  }
+				]
+			  },
+			  {
+				"no": "2",
+				"label": "Part 2",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 09_10-C_amg.mp3",
+					  "TEST 09_10-C_eug.mp3"
+					],
+					"eng": [
+					  "Q : (The building is going to have some renovations done.)",
+					  "A : (I\u2019ll notify the staff.)"
+					],
+					"kor": [
+					  "Q : \uac74\ubb3c\uc5d0 \uc57d\uac04\uc758 \uc218\ub9ac\ub97c \ud560 \uac70\uc608\uc694.",
+					  "A : \uc81c\uac00 \uc9c1\uc6d0\ub4e4\uc5d0\uac8c \uc54c\ub9b4\uac8c\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 09_14-A_amg.mp3"
+					],
+					"eng": [
+					  "Q : (Where should we take the clients for lunch?)",
+					  "A : (India House always has good food.)"
+					],
+					"kor": [
+					  "Q : \uc810\uc2ec\uc5d0 \uace0\uac1d\ub4e4\uc744 \uc5b4\ub514\ub85c \ubaa8\uc154\uc57c \ud560\uae4c\uc694?",
+					  "A : India House\uc5d0\ub294 \uc5b8\uc81c\ub098 \ub9db\uc788\ub294 \uc74c\uc2dd\uc774 \uc788\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 09_21-A_amg.mp3",
+					  "TEST 09_21-A_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Should we continue working overtime or come in this weekend?)",
+					  "A : (I\u2019d rather complete everything today.)"
+					],
+					"kor": [
+					  "Q : \ucd08\uacfc \uadfc\ubb34\ub97c \uacc4\uc18d \ud560\uae4c\uc694, \uc544\ub2c8\uba74 \uc774\ubc88 \uc8fc\ub9d0\uc5d0 \ub098\uc62c\uae4c\uc694?",
+					  "A : \uc800\ub294 \ucc28\ub77c\ub9ac \uc624\ub298 \ubaa8\ub4e0 \uac83\uc744 \ub05d\ub0b4\uace0 \uc2f6\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "4",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 09_28-C_amg.mp3",
+					  "TEST 09_28-C_eug.mp3"
+					],
+					"eng": [
+					  "Q : (You can hold the interviews in conference room B.)",
+					  "A : (Thanks for reserving it.)"
+					],
+					"kor": [
+					  "Q : B \ud68c\uc758\uc2e4\uc5d0\uc11c \uba74\uc811\uc744 \ud558\uc2dc\uba74 \ub3fc\uc694.",
+					  "A : \uc608\uc57d\ud574\uc8fc\uc5b4\uc11c \uace0\ub9c8\uc6cc\uc694."
+					]
+				  },
+				  {
+					"no": "5",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 09_29-C_amg.mp3",
+					  "TEST 09_29-C_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Can you tell me how to contact our product supplier?)",
+					  "A : (Please ask the receptionist.)"
+					],
+					"kor": [
+					  "Q : \uc800\ud76c \uc81c\ud488 \uacf5\uae09\uc5c5\uc790\uc640 \uc5b4\ub5bb\uac8c \uc5f0\ub77d\ud574\uc57c \ud558\ub294\uc9c0 \uc54c\ub824\uc904 \uc218 \uc788\ub098\uc694?",
+					  "A : \uc811\uc218\uc6d0\uc5d0\uac8c \ubb3c\uc5b4\ubcf4\uc138\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "3",
+				"label": "Part 3",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 09_32-34_amg.mp3",
+					  "TEST 09_32-34_eug.mp3"
+					],
+					"eng": [
+					  "W: Good afternoon, welcome to Carla\u2019s Flowers. Is there anything I can do for you?",
+					  "M: Hi. I was told (a bouquet would be ready for me at this time). I called this morning and requested a dozen white roses in green wrapping paper. My name is William Olsen.",
+					  "W: I just finished your bouquet, Mr. Olsen. Let me get it from the back of the store. (Would you like a card to go with) the bouquet?",
+					  "M: Oh, I should probably get one. My cousin just had a baby girl yesterday, and (I\u2019m on my way to the hospital to see) her. Do you have any congratulation cards?"
+					],
+					"kor": [
+					  "W: \uc548\ub155\ud558\uc138\uc694, Carla\uc758 \uaf43\uac00\uac8c\uc5d0 \uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4. \ubb34\uc5c7\uc744 \ub3c4\uc640\ub4dc\ub9b4\uae4c\uc694?",
+					  "M: \uc548\ub155\ud558\uc138\uc694. \uc774 \uc2dc\uac04\ucbe4\uc774\uba74 \uc81c \uaf43\ub2e4\ubc1c\uc774 \uc900\ube44\ub418\uc5b4 \uc788\uc744 \uac70\ub77c\uace0 \ub4e4\uc5c8\uc5b4\uc694. \uc800\ub294 \uc624\ub298 \uc544\uce68\uc5d0 \uc804\ud654\ud574\uc11c \ucd08\ub85d\uc0c9 \ud3ec\uc7a5\uc9c0\uc5d0 \ud558\uc580 \uc7a5\ubbf8 12\uc1a1\uc774\ub97c \uc8fc\ubb38\ud588\uc5b4\uc694. \uc81c \uc774\ub984\uc740 William Olsen\uc774\uc5d0\uc694.",
+					  "W: \uc190\ub2d8\uc758 \uaf43\ub2e4\ubc1c\uc744 \uc9c0\uae08 \ub9c9 \uc644\uc131\ud588\uc5b4\uc694, Mr. Olsen. \uac00\uac8c \ub4a4\ud3b8\uc5d0\uc11c \uac00\uc838\uc62c\uac8c\uc694. \uaf43\ub2e4\ubc1c\uacfc \ud568\uaed8 \ub4dc\ub9b4 \uce74\ub4dc\ub3c4 \ud558\uc2dc\uaca0\uc5b4\uc694?",
+					  "M: \ub124, \uc544\ub9c8\ub3c4 \ud558\ub098 \uc0ac\ub294 \uac8c \uc88b\uaca0\ub124\uc694. \uc81c \uc0ac\ucd0c\uc774 \uc5b4\uc81c \ub538\uc744 \ub0b3\uc544\uc11c, \uc800\ub294 \uc9c0\uae08 \ubcd1\uc6d0\uc5d0 \uadf8\ub140\ub97c \ubcf4\ub7ec \uac00\ub294 \uae38\uc774\uc5d0\uc694. \ud639\uc2dc \ucd95\ud558 \uce74\ub4dc\uac00 \uc788\ub098\uc694?"
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 09_56-58_amg.mp3",
+					  "TEST 09_56-58_eug.mp3"
+					],
+					"eng": [
+					  "M: The safety inspection for our packaging facility went well. (Will you have time to review the report summary) today?",
+					  "W: I\u2019ve already seen it. (Seems like we received favorable feedback overall). Well, there was one thing . . . What did you think about the inspector\u2019s comments regarding the main conveyor belt?",
+					  "M: There haven\u2019t been any problems with it in years, but I guess we should check it again.",
+					  "W: I couldn\u2019t agree more. Maybe we\u2019d better have a professional mechanic see if it needs to be replaced.",
+					  "M: Sure. I\u2019ll give Oscar Fisher a call and (ask him to come by sometime this week)."
+					],
+					"kor": [
+					  "M: \ud3ec\uc7a5 \uc124\ube44\uc758 \uc548\uc804 \uc810\uac80\uc740 \uc798 \uc9c4\ud589\ub418\uc5c8\uc2b5\ub2c8\ub2e4. \uc624\ub298 \uc911\uc5d0 \ubcf4\uace0\uc11c \uc694\uc57d\ubcf8\uc744 \uac80\ud1a0\ud560 \uc2dc\uac04\uc774 \uc788\uc73c\uc2e0\uac00\uc694?",
+					  "W: \uc774\ubbf8 \ubd24\uc2b5\ub2c8\ub2e4. \uc804\ubc18\uc801\uc73c\ub85c\ub294 \uc88b\uc740 \ud3c9\uc744 \ubc1b\uc740 \uac83 \uac19\uc544\uc694. \uc74c, \ud55c \uac00\uc9c0 \uc0ac\uc548\uc774 \uc788\uc5c8\uc8e0... \uba54\uc778 \ucee8\ubca0\uc774\uc5b4 \ubca8\ud2b8\uc5d0 \ub300\ud55c \uc870\uc0ac\uad00\uc758 \ud3c9\uc5d0 \ub300\ud574 \uc5b4\ub5bb\uac8c \uc0dd\uac01\ud588\uc5b4\uc694?",
+					  "M: \uba87 \ub144 \ub3d9\uc548 \uadf8\uac83\uc5d0 \uc544\ubb34 \ubb38\uc81c\ub3c4 \uc5c6\uae34 \ud588\uc9c0\ub9cc, \ub2e4\uc2dc \ud55c \ubc88 \ud655\uc778\ud574\ubd10\uc57c \ud560 \uac83 \uac19\uc544\uc694.",
+					  "W: \uc804\uc801\uc73c\ub85c \ub3d9\uc758\ud574\uc694. \uc804\ubb38 \uc815\ube44\uc0ac\uac00 \uadf8\uac83\uc774 \uad50\uccb4\ub420 \ud544\uc694\uac00 \uc788\ub294\uc9c0 \ud655\uc778\ud558\ub3c4\ub85d \ud558\ub294 \uac83\uc774 \uc88b\uaca0\uc5b4\uc694.",
+					  "M: \uc54c\uaca0\uc2b5\ub2c8\ub2e4. \uc81c\uac00 Oscar Fisher\uc5d0\uac8c \uc804\ud654\ud574\uc11c \uc774\ubc88 \uc8fc \uc911\uc5d0 \ub4e4\ub7ec\ub2ec\ub77c\uace0 \uc694\uccad\ud560\uac8c\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "4",
+				"label": "Part 4",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 09_74-76_amg.mp3"
+					],
+					"eng": [
+					  "Hello, Ms. Wallace. This is Veronica from Droplet Corporation.",
+					  "I was (processing your online order this morning) and noticed that you forgot to complete the purchase form.",
+					  "(You didn\u2019t include information) on the number of gallons and the specific types of soft drinks you need for your restaurant.",
+					  "(You\u2019ll need to e-mail the completed form) to service@droplet.com.",
+					  "I hope to receive it by Thursday morning so that we can deliver your order by Friday as you originally requested.",
+					  "So, please act quickly. If you have any questions, please call me at 555-0214.",
+					  "I\u2019m here at the office from Monday to Friday between 9 a.m. and 6 p.m. Thanks."
+					],
+					"kor": [
+					  "\uc548\ub155\ud558\uc2ed\ub2c8\uae4c, Ms. Wallace. \uc800\ub294 Droplet\uc0ac\uc758 Veronica\uc785\ub2c8\ub2e4.",
+					  "\uc624\ub298 \uc544\uce68\uc5d0 \uadc0\ud558\uc758 \uc628\ub77c\uc778 \uc8fc\ubb38\uc744 \ucc98\ub9ac\ud558\ub358 \uc911 \uadc0\ud558\uaed8\uc11c \uad6c\ub9e4 \uc591\uc2dd \uc791\uc131 \uc644\ub8cc\ub97c \uc78a\uc73c\uc2e0 \uac83\uc744 \ubc1c\uacac\ud558\uc600\uc2b5\ub2c8\ub2e4.",
+					  "\uadc0\ud558\uaed8\uc11c\ub294 \uc2dd\ub2f9\uc5d0 \ud544\uc694\ud55c \uccad\ub7c9 \uc74c\ub8cc\uc758 \uac24\ub7f0\uc591\uacfc \uad6c\uccb4\uc801\uc778 \uc885\ub958\uc5d0 \ub300\ud55c \uc815\ubcf4\ub97c \ud3ec\ud568\uc2dc\ud0a4\uc9c0 \uc54a\uc73c\uc168\uc2b5\ub2c8\ub2e4.",
+					  "\uc644\uc131\ub41c \uc591\uc2dd\uc744 service@droplet.com\uc73c\ub85c \uc774\uba54\uc77c\uc744 \ubcf4\ub0b4\uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.",
+					  "\uadc0\ud558\uaed8\uc11c \uc6d0\ub798 \uc694\uccad\ud558\uc2e0 \ub300\ub85c \uc8fc\ubb38\uc744 \uae08\uc694\uc77c\uae4c\uc9c0 \ubc30\uc1a1\ud560 \uc218 \uc788\ub3c4\ub85d \uadf8 \uc591\uc2dd\uc744 \ubaa9\uc694\uc77c \uc544\uce68\uae4c\uc9c0\ub294 \ubc1b\uc558\uc73c\uba74 \ud569\ub2c8\ub2e4.",
+					  "\uadf8\ub7ec\ub2c8, \ube68\ub9ac \ucc98\ub9ac\ud574\uc8fc\uc2ed\uc2dc\uc624. \ud639\uc2dc \ubb38\uc758 \uc0ac\ud56d\uc774 \uc788\uc73c\uc2dc\uba74, 555-0214\ub85c \uc800\uc5d0\uac8c \uc804\ud654\ub97c \uc8fc\uc2ed\uc2dc\uc624.",
+					  "\uc800\ub294 \uc6d4\uc694\uc77c\uc5d0\uc11c \uae08\uc694\uc77c \uc624\uc804 9\uc2dc\ubd80\ud130 \uc624\ud6c4 6\uc2dc\uae4c\uc9c0 \uc774\uacf3 \uc0ac\ubb34\uc2e4\uc5d0 \uc788\uc2b5\ub2c8\ub2e4. \uac10\uc0ac\ud569\ub2c8\ub2e4."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 09_77-79_amg.mp3",
+					  "TEST 09_77-79_eug.mp3"
+					],
+					"eng": [
+					  "Hello, everyone. This is Alex Hawkins, inviting you to come out to Union Stadium for a special benefit show thisFriday night at nine.",
+					  "You\u2019re guaranteed to be entertained, as (you will have a chance to see a variety of performances) from world-class dancers and actors.",
+					  "Moreover, I will be conducting a mini-concert. (All of the funds raised during the event will benefit) the Cole Charity Foundation.",
+					  "(Please come out and support our cause) on Friday, because even a little bit of help can go a long way."
+					],
+					"kor": [
+					  "\uc548\ub155\ud558\uc2ed\ub2c8\uae4c, \uc5ec\ub7ec\ubd84. \uc800\ub294 Alex Hawkins\uc774\uace0, \uc774\ubc88 \uc8fc \uae08\uc694\uc77c \ubc24 9\uc2dc\uc5d0 \uc788\uc744 \ud2b9\ubcc4 \uc790\uc120 \uc1fc\ub97c \uc704\ud574 \uc5ec\ub7ec\ubd84\uc744 Union \uacbd\uae30\uc7a5\uc73c\ub85c \ucd08\ub300\ud569\ub2c8\ub2e4.",
+					  "\uc138\uacc4 \ucd5c\uc0c1\uae09\uc758 \ubb34\uc6a9\uac00\ub4e4\uacfc \ubc30\uc6b0\ub4e4\uc758 \uac01\uc591\uac01\uc0c9\uc758 \uacf5\uc5f0\ub4e4\uc744 \ubcf4\uc2e4 \uae30\ud68c\ub97c \uac00\uc9c0\uac8c \ub420 \uac83\uc774\uae30\uc5d0, \uc5ec\ub7ec\ubd84\uc740 \ubd84\uba85 \uc990\uac70\uc6b4 \uc2dc\uac04\uc744 \ubcf4\ub0b4\uc2e4 \uac83\uc785\ub2c8\ub2e4.",
+					  "\ub354\uc6b1\uc774, \uc81c\uac00 \ubbf8\ub2c8 \ucf58\uc11c\ud2b8\ub97c \uc9c0\ud718\ud560 \uac83\uc785\ub2c8\ub2e4. \ud589\uc0ac \uc911\uc5d0 \ubaa8\uc778 \uae30\uae08\uc740 Cole \uc790\uc120 \ub2e8\uccb4\uc5d0 \uc720\uc775\ud558\uac8c \uc0ac\uc6a9\ub420 \uac83\uc785\ub2c8\ub2e4.",
+					  "\uc544\uc8fc \uc791\uc740 \ub3c4\uc6c0\uc77c\uc9c0\ub77c\ub3c4 \ud070 \ud798\uc774 \ub420 \uc218 \uc788\uc73c\ub2c8, \uae08\uc694\uc77c\uc5d0 \uc624\uc154\uc11c \uc6b0\ub9ac\uc758 \ub300\uc758\ub97c \uc9c0\uc9c0\ud574\uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4."
+					]
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"no": "10",
+			"label": "TEST 10",
+			"depth3": [
+			  {
+				"no": "1",
+				"label": "Part 1",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 10_2-A_amg.mp3",
+					  "TEST 10_2-A_eug.mp3"
+					],
+					"eng": "(He\u2019s relaxing on a sofa.)",
+					"kor": "\uadf8\ub294 \uc18c\ud30c\uc5d0\uc11c \ud734\uc2dd\uc744 \ucde8\ud558\uace0 \uc788\ub2e4."
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 10_3-C_amg.mp3"
+					],
+					"eng": "(Publications have been organized on shelves.)",
+					"kor": "\ucd9c\ud310\ubb3c\ub4e4\uc774 \ucc45\uaf42\uc774\ub4e4\uc5d0 \uc815\ub9ac\ub418\uc5b4 \uc788\ub2e4."
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 10_5-C_amg.mp3"
+					],
+					"eng": "(The man is working on the platform.)",
+					"kor": "\ub0a8\uc790\ub294 \uc791\uc5c5\ub300 \uc704\uc5d0\uc11c \uc791\uc5c5\uc744 \ud558\uace0 \uc788\ub2e4."
+				  }
+				]
+			  },
+			  {
+				"no": "2",
+				"label": "Part 2",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 10_7-B_amg.mp3",
+					  "TEST 10_7-B_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Would Ms. Garner like to attend an art exhibit?)",
+					  "A : (No, she\u2019s too busy these days.)"
+					],
+					"kor": [
+					  "Q : Ms. Garner\ub294 \ubbf8\uc220 \uc804\uc2dc\ud68c\uc5d0 \ucc38\uc11d\ud558\uae30\ub97c \uc6d0\ud560\uae4c\uc694?",
+					  "A : \uc544\ub2c8\uc694, \uadf8\ub140\ub294 \uc694\uc998 \ub108\ubb34 \ubc14\ube60\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 10_13-C_amg.mp3",
+					  "TEST 10_13-C_eug.mp3"
+					],
+					"eng": [
+					  "Q : (I really enjoy attending company workshops, don\u2019t you?)",
+					  "A : (I don\u2019t usually have free time to go.)"
+					],
+					"kor": [
+					  "Q : \ud68c\uc0ac \uc6cc\ud06c\uc20d\uc5d0 \ucc38\uc11d\ud558\ub294 \uac83\uc740 \uc815\ub9d0 \uc7ac\ubbf8\uc788\uc5b4\uc694, \uc548 \uadf8\ub7f0\uac00\uc694?",
+					  "A : \uc800\ub294 \ubcf4\ud1b5 \uac08 \uc2dc\uac04\uc774 \uc5c6\uc5b4\uc694."
+					]
+				  },
+				  {
+					"no": "3",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \ubbf8\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 10_18-A_amg.mp3",
+					  "TEST 10_18-A_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Do you feel like waiting for the elevator or taking the stairs?)",
+					  "A : (The stairs sound better.)"
+					],
+					"kor": [
+					  "Q : \uc5d8\ub9ac\ubca0\uc774\ud130\ub97c \uae30\ub2e4\ub9ac\uc2dc\uaca0\uc5b4\uc694, \uc544\ub2c8\uba74 \uacc4\ub2e8\uc73c\ub85c \uac00\uc2dc\uaca0\uc5b4\uc694?",
+					  "A : \uacc4\ub2e8\uc774 \ub354 \uc88b\uc740 \uac83 \uac19\uc544\uc694."
+					]
+				  },
+				  {
+					"no": "4",
+					"pronunciation": "\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 10_20-B_amg.mp3"
+					],
+					"eng": [
+					  "Q : (Wouldn\u2019t that wallpaper look nice in the office?)",
+					  "A : (Yes, it matches the carpet.)"
+					],
+					"kor": [
+					  "Q : \uc800 \ubcbd\uc9c0\uac00 \uc0ac\ubb34\uc2e4\uc5d0 \uc5b4\uc6b8\ub9ac\uc9c0 \uc54a\uc744\uae4c\uc694?",
+					  "A : \ub124, \uadf8\uac83\uc740 \uce74\ud3ab\uacfc \uc5b4\uc6b8\ub824\uc694."
+					]
+				  },
+				  {
+					"no": "5",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd\/\uc601\uad6d\uc2dd \u2192 \ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 10_25-C_amg.mp3",
+					  "TEST 10_25-C_eug.mp3"
+					],
+					"eng": [
+					  "Q : (Who will present the report to the board of directors?)",
+					  "A : (I haven\u2019t selected anyone yet.)"
+					],
+					"kor": [
+					  "Q : \uc774\uc0ac\ud68c\uc5d0 \ub204\uac00 \ubcf4\uace0\uc11c\ub97c \uc81c\ucd9c\ud560 \uac74\uac00\uc694?",
+					  "A : \uc800\ub294 \uc544\uc9c1 \uc544\ubb34\ub3c4 \uc120\ud0dd\ud558\uc9c0 \uc54a\uc558\uc5b4\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "3",
+				"label": "Part 3",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 10_32-34_amg.mp3",
+					  "TEST 10_32-34_eug.mp3"
+					],
+					"eng": [
+					  "M: Excuse me. My name is Gordon Baker from room 1604. (Could you check to see if anything has been delivered) for me?",
+					  "W: Ah, yes, (an envelope was dropped off) for you this afternoon. Here you are.",
+					  "M: I\u2019ve been expecting that, thank you. It contains some papers I need to send to my office. Do you happen to have a fax machine I could use?",
+					  "W: Certainly. There\u2019s (one in the business center on the second floor). You\u2019ll need to cross the lobby and take the stairs to get there."
+					],
+					"kor": [
+					  "M: \uc2e4\ub840\ud569\ub2c8\ub2e4. \uc800\ub294 1604\ud638\uc2e4\uc758 Gordon Baker\uc785\ub2c8\ub2e4. \uc81c \uc55e\uc73c\ub85c \ubc30\ub2ec\uc628 \uac8c \uc788\ub294\uc9c0 \ud655\uc778\ud574\uc8fc\uc2dc\uaca0\uc5b4\uc694?",
+					  "W: \uc544, \ub124, \uc624\ub298 \uc624\ud6c4\uc5d0 \uc190\ub2d8 \uc55e\uc73c\ub85c \ubd09\ud22c \ud558\ub098\uac00 \uc654\uc5b4\uc694. \uc5ec\uae30 \uc788\uc2b5\ub2c8\ub2e4.",
+					  "M: \uc81c\uac00 \uae30\ub2e4\ub9ac\uace0 \uc788\ub358 \uac83\uc774\ub124\uc694, \uace0\ub9c8\uc6cc\uc694. \uc81c \uc0ac\ubb34\uc2e4\ub85c \ubcf4\ub0b4\uc57c \ud560 \uc11c\ub958\uac00 \ud3ec\ud568\ub418\uc5b4 \uc788\uac70\ub4e0\uc694. \ud639\uc2dc \uc81c\uac00 \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ud329\uc2a4\uae30\uac00 \uc788\ub098\uc694?",
+					  "W: \ubb3c\ub860\uc774\uc8e0. 2\uce35\uc758 \ube44\uc988\ub2c8\uc2a4 \uc13c\ud130 \ub0b4\uc5d0 \ud55c \ub300\uac00 \uc788\uc5b4\uc694. \uadf8\uacf3\uc5d0 \uac00\ub824\uba74 \ub85c\ube44\ub97c \uac00\ub85c\uc9c8\ub7ec\uc11c \uacc4\ub2e8\uc744 \uc774\uc6a9\ud558\uc2dc\uba74 \ub3fc\uc694."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ud638\uc8fc\uc2dd \u2192 \ubbf8\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd\/\ud638\uc8fc\uc2dd \u2192 \uc601\uad6d\uc2dd \u2192 \uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 10_62-64_amg.mp3",
+					  "TEST 10_62-64_eug.mp3"
+					],
+					"eng": [
+					  "M: Thank you both for (helping me set up everything for our boss\u2019s retirement party).",
+					  "W1: No problem, Peter. Glad we could give you a hand.",
+					  "W2: Yeah. Uhm . . . (there\u2019s one issue left to address) though.",
+					  "W1 : Right. It\u2019s that the stage microphone\u2019s no longer working.",
+					  "M: Oh, really? Shouldn\u2019t we call Ed Thompson? He\u2019s (in charge of maintenance and repair tasks).",
+					  "W2: I think he\u2019s on vacation and will return tomorrow.",
+					  "M: Oh, that\u2019s right. I\u2019ll get in touch with him as soon as he gets back."
+					],
+					"kor": [
+					  "M: \uc800\ud76c \uc0c1\uc0ac\uc758 \uc740\ud1f4 \uae30\ub150\uc2dd\uc744 \uc704\ud574 \ubaa8\ub4e0 \uac83\uc744 \uc900\ube44\ud558\ub294 \uac78 \ub3c4\uc640\uc8fc\uc154\uc11c \ub450 \ubd84\uaed8 \uac10\uc0ac \ub4dc\ub824\uc694.",
+					  "W1: \ucc9c\ub9cc\uc5d0\uc694, Peter. \ub3c4\uc640\ub4dc\ub9b4 \uc218 \uc788\uc5b4\uc11c \uae30\ubed0\uc694.",
+					  "W2: \uadf8\ub798\uc694. \uc74c... \uadf8\ub7f0\ub370 \ucc98\ub9ac\ud574\uc57c \ud560 \ubb38\uc81c\uac00 \ud558\ub098 \uc788\uc5b4\uc694.",
+					  "W1: \ub9de\uc544\uc694. \ubb34\ub300\uc758 \ub9c8\uc774\ud06c\uac00 \ub354 \uc774\uc0c1 \uc791\ub3d9\ud558\uc9c0 \uc54a\uc544\uc694.",
+					  "M: \uc544, \uc815\ub9d0\uc774\uc694? Ed Thompson\uc5d0\uac8c \uc804\ud654\ud558\uba74 \uc548 \ub418\ub098\uc694? \uadf8\uac00 \ubcf4\uc218 \uc815\ube44 \uc5c5\ubb34\ub97c \ub2f4\ub2f9\ud558\uace0 \uc788\uc796\uc544\uc694.",
+					  "W2: \uadf8\ub294 \ud734\uac00 \uc911\uc774\uc5b4\uc11c \ub0b4\uc77c \ub3cc\uc544\uc62c \uac83 \uac19\uc544\uc694.",
+					  "M: \uc544, \ub9de\uc544\uc694. \uadf8\uac00 \ub3cc\uc544\uc624\uc790\ub9c8\uc790 \uc81c\uac00 \uadf8\uc5d0\uac8c \uc5f0\ub77d\ud574\ubcfc\uac8c\uc694."
+					]
+				  }
+				]
+			  },
+			  {
+				"no": "4",
+				"label": "Part 4",
+				"question": [
+				  {
+					"no": "1",
+					"pronunciation": "\ubbf8\uad6d\uc2dd\/\uc601\uad6d\uc2dd",
+					"pron": [
+					  "TEST 10_74-76_amg.mp3",
+					  "TEST 10_74-76_eug.mp3"
+					],
+					"eng": [
+					  "Good evening, everyone. On behalf of the company\u2019s board of directors, I\u2019d like to thank you all for attending the 33rd anniversary of Elegance and Style.",
+					  "Without the ongoing support of our cherished customers, we would not have achieved the level of success we have in the industry.",
+					  "Of course, I\u2019d like to (express my sincere appreciation to our excellent designer), Alana Switch, who produced superb clothing for both our formal and ready-to-wear lines.",
+					  "And to all the employees who make up this company, I thank you for your (reliable service, endless hours, and unwavering devotion).",
+					  "For this occasion, (a special dinner has been prepared with a live performance) from a jazz band. ",
+					  "Thank you and enjoy the rest of the evening."
+					],
+					"kor": [
+					  "\uc548\ub155\ud558\uc138\uc694, \uc5ec\ub7ec\ubd84. \ud68c\uc0ac \uc774\uc0ac\ud68c\ub97c \ub300\ud45c\ud558\uc5ec, \uc81c\uac00 Elegance and Style\uc0ac\uc758 33\uc8fc\ub144 \uae30\ub150\uc2dd\uc5d0 \ucc38\uc11d\ud574\uc8fc\uc2e0 \uc5ec\ub7ec\ubd84\uaed8 \uac10\uc0ac \uc778\uc0ac\ub97c \ub4dc\ub9bd\ub2c8\ub2e4.",
+					  "\uadc0\ud55c \uace0\uac1d\ubd84\ub4e4\uc758 \uc9c0\uc18d\uc801\uc778 \uc9c0\uc9c0\uac00 \uc5c6\uc5c8\ub2e4\uba74, \uc800\ud76c\ub294 \uc5c5\uacc4\uc5d0\uc11c \uc774 \uc815\ub3c4 \uc218\uc900\uc758 \uc131\uacf5\uc744 \uc774\ub8e8\uc9c0 \ubabb\ud588\uc744 \uac83\uc785\ub2c8\ub2e4.",
+					  "\ubb3c\ub860, \uc6b0\ub9ac\uc758 \uc815\uc7a5 \ubc0f \uae30\uc131\ubcf5 \uc81c\ud488\uc5d0 \uc788\uc5b4\uc11c \ucd5c\uace0\uc758 \uc758\ub958\ub97c \ub9cc\ub4e4\uc5b4 \ub0b8 \ud6cc\ub96d\ud55c \ub514\uc790\uc774\ub108, Alana Switch\uaed8\ub3c4 \uc9c4\uc2ec \uc5b4\ub9b0 \uac10\uc0ac\ub97c \ud45c\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.",
+					  "\uadf8\ub9ac\uace0 \uc774 \ud68c\uc0ac\ub97c \uad6c\uc131\ud558\ub294 \ubaa8\ub4e0 \uc9c1\uc6d0\ubd84\ub4e4\uaed8\ub294, \uc5ec\ub7ec\ubd84\uc758 \ubbff\uc744 \uc218 \uc788\ub294 \uc11c\ube44\uc2a4\uc640, \ubb34\uc218\ud55c \uc2dc\uac04, \uadf8\ub9ac\uace0 \ubcc0\ud568 \uc5c6\ub294 \ud5cc\uc2e0\uc5d0 \uac10\uc0ac\ub97c \ub4dc\ub9bd\ub2c8\ub2e4.",
+					  "\uc774 \ud589\uc0ac\ub97c \uc704\ud558\uc5ec, \uc7ac\uc988 \ubc34\ub4dc\uc758 \ubc18\uc8fc\uc640 \ud568\uaed8 \ud2b9\ubcc4 \uc800\ub141 \uc2dd\uc0ac\uac00 \uc900\ube44\ub410\uc2b5\ub2c8\ub2e4.",
+					  "\uac10\uc0ac\ub4dc\ub9ac\uba70 \ub0a8\uc740 \uc800\ub141 \uc2dc\uac04\uc744 \uc990\uac81\uac8c \ubcf4\ub0b4\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4."
+					]
+				  },
+				  {
+					"no": "2",
+					"pronunciation": "\ud638\uc8fc\uc2dd",
+					"pron": [
+					  "TEST 10_86-88_amg.mp3"
+					],
+					"eng": [
+					  "Good morning. Let me go over the (new safety reminders one more time), and then we can get work underway for the day.",
+					  "(To avoid any electrical or mechanical accidents while operating our machines), please make sure that you wear protective clothing, gloves, safety glasses, or face shields whenever necessary.",
+					  "(Remember to place warning signs in areas) where you conduct potentially hazardous experiments.",
+					  "Please do not remove these signs until the experiments are completed.",
+					  "Do your best to comply with these safety measures.",
+					  "I do appreciate you working quickly, but your safety is of more importance."
+					],
+					"kor": [
+					  "\uc548\ub155\ud558\uc138\uc694. \uc0c8\ub85c\uc6b4 \uc548\uc804 \uc218\uce59\uc744 \ub2e4\uc2dc \ud55c\ubc88 \uac80\ud1a0\ud55c \ud6c4, \uc624\ub298\uc758 \uc5c5\ubb34\ub97c \uc9c4\ud589\ud558\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4.",
+					  "\uae30\uacc4\ub97c \uc791\ub3d9\ud558\ub294 \uc911\uc5d0 \uc77c\uc5b4\ub098\ub294 \ubaa8\ub4e0 \uc804\uae30 \uc0ac\uace0 \ub610\ub294 \uae30\uacc4 \uc0ac\uace0\ub97c \ubc29\uc9c0\ud558\uae30 \uc704\ud574, \ud544\uc694\ud560 \ub54c\ub9c8\ub2e4 \uc548\uc804\ubcf5, \uc548\uc804 \uc7a5\uac11, \ubcf4\uc548\uacbd, \ub610\ub294 \uc548\uba74 \uac00\ub9ac\uac1c\ub97c \ubc18\ub4dc\uc2dc \ucc29\uc6a9\ud574\uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.",
+					  "\uc7a0\uc7ac\uc801\uc73c\ub85c \uc704\ud5d8\ud55c \uc2e4\ud5d8\uc744 \ud558\ub294 \uacf3\uc5d0\uc11c\ub294 \uc8fc\ubcc0\uc5d0 \uacbd\uace0 \ud45c\uc9c0\ud310\ub4e4\uc744 \uc124\uce58\ud558\ub294 \uac83\uc744 \uae30\uc5b5\ud574\uc8fc\uc2ed\uc2dc\uc624.",
+					  "\uc2e4\ud5d8\uc774 \ub05d\ub0a0 \ub54c\uae4c\uc9c0 \uc774 \ud45c\uc9c0\ud310\ub4e4\uc744 \uc81c\uac70\ud558\uc9c0 \ub9d0\uc544\uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.",
+					  "\uc774 \uc548\uc804 \uc870\uce58\ub4e4\uc744 \ub530\ub974\uae30 \uc704\ud574 \ucd5c\uc120\uc744 \ub2e4\ud574\uc8fc\uc2ed\uc2dc\uc624. ",
+					  "\uc5ec\ub7ec\ubd84\uc758 \uc2e0\uc18d\ud55c \uc5c5\ubb34\ub97c \ub192\uc774 \ud3c9\uac00\ud558\uc9c0\ub9cc, \uc5ec\ub7ec\ubd84\uc758 \uc548\uc804\uc774 \ub354\uc6b1 \uc911\uc694\ud569\ub2c8\ub2e4."
+					]
+				  }
+				]
+			  }
+			]
+		  }
+		]
+	  }
+	]
+  }
+]
