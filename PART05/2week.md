@@ -18,17 +18,21 @@ function 클래스이름(){
 
 `예제01`  프로토타입 방식을 활용한 간단한 클래스 만들기
 
-`문제`  자신의 이름과 나이를 프로퍼티로 가지고 있고 이 정보를 출력하는 showInfo()라는 메서드를 가진 클래스를 만들어보시오.
+`문제`  
+
+자신의 <u>이름과 나이를 프로퍼티</u>로 가지고 있고 ,
+
+이 정보를 출력하는 <u>showInfo()라는 메서드</u>를 가진 클래스를 만들어보시오.
 
 ```javascript
 //클래스 생성자 (User클래스 생성)
 function User(){
   //프로퍼티정의 
-  this.name = "Leehyewon"; //name : 프로퍼티
-  this.age = 20; //age : 프로퍼티
+  this.name = "Leehyewon"; //이름 프로퍼티
+  this.age = 20; //나이 프로퍼티
 }
 
-//메서드 정의 (showInfo메서드 : console에 User클래스의 name프로퍼티 / age프로퍼티 출력하기)
+//메서드 정의 (showInfo()메서드 : console에 User클래스의 정보출력하기)
 User.prototype.showInfo = function(){
   console.log("name = " + this.name + ", age :" + this.age);
 }
@@ -39,6 +43,10 @@ var user = new User();
 //메서드 호출
 user.showInfo();
 ```
+
+`응용`
+
+이름과 나이를 객체로 받아보기  
 
 
 
@@ -284,6 +292,42 @@ function TabMenu(){
 }
 
 TabMenu.prototype.init = function(select) { //tab여러개 컨트롤 할수있게 매개변수 받아오기
+  this.$tabMenu = $(select);
+  this.$menuItems = this.$tabMenu.find("li");
+};
+TabMenu.prototype.initEvent = function(){
+  var objThis = this;
+  this.$menuItems.on("click",function(){
+    objThis.setSelectItem($(this));
+  });
+};
+TabMenu.prototype.setSelectItem = function($menuItem){
+  if(this.$selectMenuItem){
+    this.$selectMenuItem.removeClass("select");
+  }
+  this.$selectMenuItem = $menuItem;
+  this.$selectMenuItem.addClass("select");
+};
+```
+
+`예제03_심화 ` `예제03`을 최적화해주세요.
+
+```javascript
+$(document).ready(function(){
+  var tab1 = new TabMenu("#tabMenu1");
+  var tab2 = new TabMenu("#tabMenu2");
+});
+
+function TabMenu(select){ //tab여러개 컨트롤 할수있게 매개변수 받아오기
+  this.$tabMenu = null;
+  this.$menuItems=null;
+  this.$selectMenuItem = null;
+  
+  this.init(select);
+  this.initEvent();
+}
+
+TabMenu.prototype.init = function(select) { 
   this.$tabMenu = $(select);
   this.$menuItems = this.$tabMenu.find("li");
 };
