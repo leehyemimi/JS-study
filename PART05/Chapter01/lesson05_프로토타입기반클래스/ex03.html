@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title></title>
+	<style>
+		.tab-menu {
+			list-style: none;
+			height:80px;
+		}
+		.tab-menu li {
+			width:99px;
+			height:40px;
+			line-height:38px;
+			overflow: hidden;
+			display: block;
+			float:left;
+			text-align:center;
+			font-size:15px;
+			background:#eee;
+			border:1px solid #000;
+		}
+		.tab-menu li:hover {
+			background: #000;
+			color:#fff;
+		}
+		.tab-menu li.select {
+			background: firebrick;
+			color:#fff;
+		}
+	</style>
+	
+	<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script>
+		function TabMenu(){
+			this.$tabMenu = null;
+			this.$menuItems=null;
+			this.$selectMenuItem = null;
+		}
+		
+		TabMenu.prototype.init = function(select) { //tab여러개 컨트롤 할수있게 매개변수 받아오기
+			this.$tabMenu = $(select);
+			this.$menuItems = this.$tabMenu.find("li");
+		};
+		TabMenu.prototype.initEvent = function(){
+			var objThis = this;
+			this.$menuItems.on("click",function(){
+				objThis.setSelectItem($(this));
+			});
+		};
+		TabMenu.prototype.setSelectItem = function($menuItem){
+			if(this.$selectMenuItem){
+				this.$selectMenuItem.removeClass("select");
+			}
+			this.$selectMenuItem = $menuItem;
+			this.$selectMenuItem.addClass("select");
+		};
+		
+		$(document).ready(function(){
+			var tab1 = new TabMenu();
+			tab1.init("#tabMenu1");
+			tab1.initEvent();
+			
+			var tab2 = new TabMenu();
+			tab2.init("#tabMenu2");
+			tab2.initEvent();
+		});
+	</script>
+</head>
+
+<body>
+<p>첫 번째 탭메뉴</p>
+<ul class="tab-menu" id="tabMenu1">
+	<li class="menuitem1">google</li>
+	<li class="menuitem2">facebook</li>
+	<li class="menuitem3">pinterest</li>
+	<li class="menuitem4">twitter</li>
+	<li class="menuitem5">airbnb</li>
+	<li class="menuitem6">path</li>
+</ul>
+
+<p>두 번째 탭메뉴</p>
+<ul class="tab-menu" id="tabMenu2">
+	<li class="menuitem1">google</li>
+	<li class="menuitem2">facebook</li>
+	<li class="menuitem3">pinterest</li>
+	<li class="menuitem4">twitter</li>
+	<li class="menuitem5">airbnb</li>
+	<li class="menuitem6">path</li>
+</ul>
+
+</body>
+</html>
