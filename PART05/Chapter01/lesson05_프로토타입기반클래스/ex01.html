@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Title</title>
+</head>
+<body>
+	<script>
+		//클래스 생성자
+		function User(){
+			//프로퍼티정의
+			this.name = "Leehyewon"; //name : 프로퍼티
+			this.age = 20; //age : 프로퍼티
+		}
+	
+		//메서드 정의
+		User.prototype.showInfo = function(){
+			console.log("name = " + this.name + ", age :" + this.age);
+		}
+	
+		//인스턴스 생성
+		var user = new User();
+		//메서드 호출
+		user.showInfo();
+	
+	</script>
+</body>
+</html>
