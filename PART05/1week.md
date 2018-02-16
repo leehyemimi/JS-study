@@ -307,11 +307,12 @@ var userInfo = {
   address : "인천시"
 }
 //함수 호출
-//showInfo(userInfo);
-showInfo({name:"g"})
+showInfo(userInfo);
+showInfo({name : "이혜원1",id : "sun1",nickname : "미미1",age : 20,	address : "인천시1"});
+showInfo({name : "이혜원2",id : "sun2",nickname : "미미2",age : 20,	address : "인천시2"});
 //함수에서 데이터 사용
 function showInfo(userInfo1){
-  console.log("name"+userInfo1.name+",id"+userInfo1.id+",nickname"+userInfo1.nickname+",age"+userInfo1.age+",address"+userInfo1.address);
+  console.log("name:"+userInfo1.name+",id:"+userInfo1.id+",nickname:"+userInfo1.nickname+",age:"+userInfo1.age+",address:"+userInfo1.address);
 }
 ```
 
