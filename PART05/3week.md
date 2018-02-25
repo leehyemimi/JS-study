@@ -268,6 +268,58 @@ $("#btn").animate({
 
 
 
+#### 책 외의 내용
+
+함수를 인자로 넘겨 사용하겠다 입니다.
+
+`예제`
+
+```javascript
+var allUserData = []; 
+
+// 콘솔에 결과를 찍는 함수 
+function logStuff (userData) { 
+  if ( typeof userData === "string") { 
+    console.log(userData); 
+  } else if ( typeof userData === "object") { 
+    for (var item in userData) { 
+      console.log(item + ": " + userData[item]); 
+    } 
+  } 
+} 
+
+// 두 개의 인자를 받아서 마지막에 콜백함수를 호출한다. 
+function getInput (options, callback) { 
+  allUserData.push (options); 
+  callback (options); 
+} 
+// getInput 함수를 호출할 때 , 우리는 logStuf이라는 함수의 이름을 인자로 넘긴다. 
+// 그래서 logStuff 은 콜백함수가 되어 getInput이라는 함수의 내부에서 동작을 할것이다. 
+
+getInput ({name:"Rich", speciality:"JavaScript"}, logStuff); 
+
+// name: Rich 
+// speciality: JavaScript
+```
+
+참고url :  http://yubylab.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
+
+
+
+#### 콜백함수 적용의 기본 원칙
+
+이름이나 익명의 함수를 사용하라
+
+콜백함수로 파라매터 전달
+
+콜백함수가 실행 되기 전에 함수임을 명확하게 하기
+
+this를 사용한 메서드를 콜백으로 사용시 문제 
+
+Call 과 Apply를 통한 this 보호
+
+
+
 ### 07. 클로저 함수
 
 > 함수내부에 만든 지역변수가 사라지지 않고 계속해서 값을 유지하고 있는 상태
