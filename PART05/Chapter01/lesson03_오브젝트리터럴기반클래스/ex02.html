@@ -41,49 +41,39 @@
 		6. 객체 외부에서 프로퍼티와 메서드 사용하기
 		*/
 
-		$(document).ready(function(){
-			// 탭메뉴 요소 초기화
-			TabMenu.init();
-			// 탭메뉴 요소에 이벤트 등록
-			TabMenu.initEvent();
-		});
-		
-		var TabMenu = {
-			// 탭메뉴 관련 변수
-			$tabMenu : null,
-			$menuItems : null,
-			$selectMenuItem : null,
-			// 요소 초기화
-			init : function(){
-				this.$tabMenu = $("#tabMenu1");
-				this.$menuItems = this.$tabMenu.find("li");
-			},
-			// 이벤트 등록
-			initEvent : function(){
-				var objThis = this;
-				this.$menuItems.on("click",function(){
-					objThis.setSelectItem($(this));
-				});
-			},
-			// $menuItem에 해당하는 메뉴 아이템 선택하기
-			 setSelectItem: function($menuItem){
-				// 기존 선택메뉴 아이템을 비활성화 처리 하기
-				if(this.$selectMenuItem){
-					this.$selectMenuItem.removeClass("select");
-				}
-	
-				// 신규 아이템 활성화 처리 하기
-				this.$selectMenuItem = $menuItem;
-				this.$selectMenuItem.addClass("select");
-			}
+		function TabMenu(){
+			this.$tabMenu =null;
+			this.$menuItems = null;
+			this.$selectMenuItem = null;
 		}
+
+		// 요소 초기화
+		TabMenu.prototype.init = function(){
+			this.$tabMenu = $("#tabMenu1");
+			this.$menuItems = this.$tabMenu.find("li");
+		}
+
+		TabMenu.prototype.initEvent = function(){
+			this.$menuItems.on("click",function(){
+				setSelectItem($(this));
+			});
+		}
+
+		// 이벤트 등록
+		/*function initEvent(){
+			$menuItems.on("click",function(){
+				setSelectItem($(this));
+			});
+		}*/
+		
 
 		/* 수정전 코드
 		 예제02: 함수 단위 코딩으로 만들어진 탭메뉴를 프로토타입 방식 클래스로 만들어 주세요.
+		  */
 		// 탭메뉴 관련 변수
-		var $tabMenu =null;
+		/*var $tabMenu =null;
 		var $menuItems=null;
-		var $selectMenuItem=null;
+		var $selectMenuItem=null;*/
 
 		$(document).ready(function(){
 			// 탭메뉴 요소 초기화
@@ -93,10 +83,10 @@
 		});
 
 		// 요소 초기화
-		function init(){
+		/*function init(){
 			$tabMenu = $("#tabMenu1");
 			$menuItems = $tabMenu.find("li");
-		}
+		}*/
 
 		// 이벤트 등록
 		function initEvent(){
@@ -116,7 +106,6 @@
 			$selectMenuItem = $menuItem;
 			$selectMenuItem.addClass("select");
 		}
-		 */
 	</script>
 </head>
 
