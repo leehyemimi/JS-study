@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>PART 05_미션2_계산기를 클래스로 만들기</title>
+</head>
+<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script>
+
+	$(document).ready(function(){
+		var cal = new Calculator();
+	});
+	function Calculator() {
+		//프로퍼티 선언
+		this.$value1 = null;
+		this.operator = null;
+		this.$value2 = null;
+		this.$output = null;
+		
+		this.init();
+		this.initEvent();
+	}
+	
+	//요소초기화
+	Calculator.prototype.init=function () {
+		this.$value1 = $("#val1");
+		this.operator = $("#op");
+		this.$value2 = $("#val2");
+		this.$output = $("#output");
+	}
+	
+	//메서드 만들기
+	//사칙연산메서드
+	Calculator.prototype.Calculate=function(op,nm1,nm2){
+		var result ="";
+		switch (op){
+			case "+":
+				result = nm1 + nm2;
+				break;
+			case "-":
+				result = nm1 - nm2;
+				break;
+			case "*":
+				result = nm1 * nm2;
+				break;
+			case "/":
+				result = nm1 / nm2;
+				break;
+				
+			default :
+				result = "지원하지 않는 연산자 입니다."
+		}
+		this.$output.html(result);
+	}
+	
+	Calculator.prototype.exeCal=function () {
+		var val1 = parseInt(this.$value1.val());
+		var oper = this.operator.val();
+		var val2 = parseInt(this.$value2.val());
+		
+		this.Calculate(oper,val1,val2);
+	}
+	
+	//이벤트 처리하기
+	Calculator.prototype.initEvent = function () {
+		var objThis = this;
+		$("#cal").click(function(){
+			// 메서드 호출
+			objThis.exeCal();
+		});
+	}
+</script>
+<body>
+	<div>
+		숫자1 : <input type="text" id="val1">
+		연산자 : <input type="text" id="op">
+		숫자2 : <input type="text" id="val2">
+		<button id="cal">확인</button>
+	</div>
+	
+	<div id="output">
+		여기에 결과를 출력해주세요.
+	</div>
+</body>
+</html>
