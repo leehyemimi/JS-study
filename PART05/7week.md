@@ -377,3 +377,38 @@ var result = jQuery.extend({},target,object1);
 
 ### 03_extend() 메서드를 활용한 플러그인 옵션 처리
 
+`예제`
+
+```javascript
+(function($){
+  $.defaultOptions = {
+    duration:500,
+    delayTime:1000
+  }
+  $.fn.removeAni=function(options){
+    // 사용자 옵션 정보 유무 판단 후, 값이 없는 경우 기본 값으로 설정
+    options = $.extend(null, $.defaultOptions, options);
+
+    // 옵션 값을 변경
+    this.each(function(index){
+      var $target= $(this);
+      $target.delay(index*options.delayTime).animate({
+        height:0
+      },options.duration, function(){
+        $target.remove();
+      })
+    })
+
+    return this;
+  }
+})(jQuery)
+
+$(document).ready(function(){
+  // 플러그인 호출
+  $(".menu li").removeAni({
+    durtaion:1000
+  });
+});
+```
+
+[bx슬라이드플러그인](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/bx.js)
