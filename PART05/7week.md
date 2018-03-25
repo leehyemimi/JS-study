@@ -26,7 +26,7 @@
 })(jQuery)
 ```
 
-#### 02.예제
+#### 02.예제 [예제바로가기](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/%ED%95%A8%EC%88%98%EA%B8%B0%EB%B0%98_%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8.html)
 
 ```javascript
 (function($){
@@ -111,7 +111,7 @@ $(document).ready(function(){
 })(jQuery);
 ```
 
-#### 02.예제
+#### 02.예제 [예제바로가기](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/%ED%81%B4%EB%9E%98%EC%8A%A4%EA%B8%B0%EB%B0%98_%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8.html)
 
 ```javascript
 (function($){
@@ -174,7 +174,7 @@ $(document).ready(function(){
 
 > 연관된 클래스 기반으로 jQuery 플러그인을 만들때 클래스 인스턴스를 연관 있는 플러그인에서 공유해서 사용하는 구조
 
-`예제` 외부에서 특정탭메뉴 아이템을 선택할수 있게 만들어주세요.
+`예제` 외부에서 특정탭메뉴 아이템을 선택할수 있게 만들어주세요. [예제바로가기](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EA%B7%B8%EB%A3%B9.html)
 
 ```javascript
 (function($){
@@ -270,7 +270,7 @@ $(document).ready(function(){
 
 플러그인을 만들다 보면 플러그인 호출시 넘겨야 하는 매개변수 값이 많은 경우 / 이값들은 주로 옵션값
 
-`예제` 플러그인에 기본 옵션값 적용하기 [예제파일](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/extend01.html)
+`예제` 플러그인에 기본 옵션값 적용하기 [예제바로가기](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/extend01.html)
 
 ```javascript
 function($){
@@ -328,7 +328,7 @@ object1, objectN :  합쳐질 기능을 가진 객체
 
 리턴값은 target에 저장되는 값과 같음
 
-`예제` [예제파일](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/extend02.html)
+`예제` [예제바로가기](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/extend02.html)
 
 ```javascript
  $(document).ready(function(){
@@ -368,7 +368,7 @@ object1, objectN :  합쳐질 기능을 가진 객체
 >
 > 플러그인에서 extend() 메서드를 활용해 옵션값을 처리할때 target에 해당하는 기본 옵션값이 변경되는 안되는 경우가 있음
 
-`예제` [예제파일](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/extend03.html)
+`예제` [예제바로가기](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/extend03.html)
 
 ```javascript
 var result = jQuery.extend(null,target,object1);
@@ -377,7 +377,7 @@ var result = jQuery.extend({},target,object1);
 
 ### 03_extend() 메서드를 활용한 플러그인 옵션 처리
 
-`예제`
+`예제 `[예제바로가기](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/extend04.html)
 
 ```javascript
 (function($){
