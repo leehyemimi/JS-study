@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Cache-Control" content="No-Cache">
+    <meta http-equiv="Pragma" content="No-Cache">
+
+    <title>Untitled Document</title>
+    <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script>
+        /*
+         예제 02: extend() 메서드 기능 테스트
+        */
+        $(document).ready(function(){
+
+            var target = {
+                property1:"a",
+                property2:"b",
+                method1:function(){
+                    console.log("m1()");
+                },
+                method2:function(){
+                    console.log("m2()");
+                }
+            };
+
+            var object1 = {
+                property1:"1_a",
+                property3:"1_c",
+                method1:function(){
+                    console.log("1_m1()");
+                },
+                method3:function(){
+                    console.log("1_m3()");
+                }
+            };
+
+            var result = jQuery.extend(target,object1);
+            console.log("target = ", target);
+            console.log("object1 = ", object1);
+            console.log("result = ", result);
+
+        });
+        /*
+        문제점:
+            - target이 변경됨. 즉, result와 동일하게 됨.
+         */
+    </script>
+
+</head>
+
+<body>
+	
+
+</body>
+</html>
