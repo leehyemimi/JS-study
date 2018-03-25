@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title></title>
+	<style>
+		.tab-menu {
+			list-style: none;
+			height:80px;
+		}
+		.tab-menu li {
+			width:99px;
+			height:40px;
+			line-height:38px;
+			overflow: hidden;
+			display: block;
+			float:left;
+			text-align:center;
+			font-size:15px;
+			background:#eee;
+			border:1px solid #000;
+		}
+		.tab-menu li:hover {
+			background: #000;
+			color:#fff;
+		}
+		.tab-menu li.select {
+			background: firebrick;
+			color:#fff;
+		}
+	</style>
+
+	<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script>
+		(function($){
+			function TabMenu(selector) {
+				this.$tabMenu = null;
+				this.$menuItems = null;
+				this.$selectMenuItem = null;
+
+				this.init(selector);
+				this.initEvent();
+			}
+
+			// 요소 초기화
+			TabMenu.prototype.init=function(selelctor){
+				this.$tabMenu = $(selelctor);
+				this.$menuItems = this.$tabMenu.find("li");
+			}
+
+			// 이벤트 등록
+			TabMenu.prototype.initEvent = function() {
+				var objThis = this;
+				this.$menuItems.on("click", function() {
+					objThis.setSelectItem($(this));
+				});
+			}
+
+			// $menuItem에 해당하는 메뉴 아이템 선택하기
+			TabMenu.prototype.setSelectItem = function($menuItem) {
+				// 기존 선택메뉴 아이템을 비활성화 처리 하기
+				if (this.$selectMenuItem) {
+					this.$selectMenuItem.removeClass("select");
+				}
+
+				// 신규 아이템 활성화 처리 하기
+				this.$selectMenuItem = $menuItem;
+				this.$selectMenuItem.addClass("select");
+			}
+			////////////////////////////
+			$.fn.tabMenu = function(){
+				this.each(function(index){
+					var tabMenu = new TabMenu(this);
+					$(this).data("tabMenu_data",tabMenu); //인스턴스를 data()를 활용해 저장
+				});
+				return this;
+			}
+
+			// n번째 탭메뉴 아이템 선택하기 // 신규로함수생성
+			$.fn.selectTabMenuItemAt = function(selectIndex){
+				this.each(function(index){
+					//저장한 TabMenu 객체 구하기
+					var tabMenu = $(this).data("tabMenu_data");
+					if(tabMenu){
+						//n번째 메뉴 아이템 선택하기
+						tabMenu.setSelectItem(tabMenu.$menuItems.eq(selectIndex));
+					}
+				});
+				return this;
+			}
+		})(jQuery);
+
+		$(document).ready(function(){
+			//플러그인 호출
+			$(".tab-menu").tabMenu().selectTabMenuItemAt(1);
+			
+			$("p").data("name","1");
+			
+			console.log($("p").data("name"));
+		});
+	</script>
+</head>
+
+<body>
+<p>첫 번째 탭메뉴</p>
+<ul class="tab-menu" id="tabMenu1">
+	<li class="menuitem1">google</li>
+	<li class="menuitem2">facebook</li>
+	<li class="menuitem3">pinterest</li>
+	<li class="menuitem4">twitter</li>
+	<li class="menuitem5">airbnb</li>
+	<li class="menuitem6">path</li>
+</ul>
+
+<p>두 번째 탭메뉴</p>
+<ul class="tab-menu" id="tabMenu2">
+	<li class="menuitem1">google</li>
+	<li class="menuitem2">facebook</li>
+	<li class="menuitem3">pinterest</li>
+	<li class="menuitem4">twitter</li>
+	<li class="menuitem5">airbnb</li>
+	<li class="menuitem6">path</li>
+</ul>
+
+</body>
+</html>

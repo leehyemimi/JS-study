@@ -126,7 +126,6 @@ $(document).ready(function(){
 
   // 요소 초기화
   TabMenu.prototype.init=function(selelctor){
-
     this.$tabMenu = $(selelctor);
     this.$menuItems = this.$tabMenu.find("li");
   }
@@ -170,3 +169,147 @@ $(document).ready(function(){
 #### 03.정리
 
 > 프로토타입 클래스 기반 플러그인 제작이 훨씬 더 효율적
+
+## Lesson 06 플러그인 그룹 만들기
+
+> 연관된 클래스 기반으로 jQuery 플러그인을 만들때 클래스 인스턴스를 연관 있는 플러그인에서 공유해서 사용하는 구조
+
+`예제` 외부에서 특정탭메뉴 아이템을 선택할수 있게 만들어주세요.
+
+```javascript
+(function($){
+  function TabMenu(selector) {
+    this.$tabMenu = null;
+    this.$menuItems = null;
+    this.$selectMenuItem = null;
+
+    this.init(selector);
+    this.initEvent();
+  }
+
+  // 요소 초기화
+  TabMenu.prototype.init=function(selelctor){
+    this.$tabMenu = $(selelctor);
+    this.$menuItems = this.$tabMenu.find("li");
+  }
+
+  // 이벤트 등록
+  TabMenu.prototype.initEvent = function() {
+    var objThis = this;
+    this.$menuItems.on("click", function() {
+      objThis.setSelectItem($(this));
+    });
+  }
+
+  // $menuItem에 해당하는 메뉴 아이템 선택하기
+  TabMenu.prototype.setSelectItem = function($menuItem) {
+    // 기존 선택메뉴 아이템을 비활성화 처리 하기
+    if (this.$selectMenuItem) {
+      this.$selectMenuItem.removeClass("select");
+    }
+
+    // 신규 아이템 활성화 처리 하기
+    this.$selectMenuItem = $menuItem;
+    this.$selectMenuItem.addClass("select");
+  }
+	////////////////////////////
+   $.fn.tabMenu = function(){
+    this.each(function(index){
+      var tabMenu = new TabMenu(this);
+      $(this).data("tabMenu_data",tabMenu); //인스턴스를 data()를 활용해 저장
+    });
+    return this;
+  }
+   
+   // n번째 탭메뉴 아이템 선택하기 // 신규로함수생성
+   $.fn.selectTabMenuItemAt = function(selectIndex){
+    this.each(function(index){
+      //저장한 TabMenu 객체 구하기
+      var tabMenu = $(this).data("tabMenu_data");
+      if(tabMenu){
+         //n번째 메뉴 아이템 선택하기
+        tabMenu.$selectMenuItem(tabMenu.$menuItem.eq(selectIndex));
+        }
+    });
+    return this;
+  }
+})(jQuery)
+```
+
+#### 결론
+
+> 플러그인 그룹구조 : 특정 플러그인에서 생성한 클래스의 인스턴스를 다른 플러그인에서 재사용해야 하는 경우 jQuery의 data()메서드를 활용해 생성한 인스턴스를 저장해 재사용하면 됨
+
+
+
+#### * jQuery에서 data()메서드란?
+
+> 일치 된 요소와 관련된 임의의 데이터를 저장하거나 일치하는 요소 집합의 첫 번째 요소에 대해 명명 된 데이터 저장소에 값을 반환합니다.
+
+http://api.jquery.com/data/
+
+`예제`
+
+```javascript
+$(document).ready(function(){
+  $( "body" ).data( "foo", 52 );
+  $( "body" ).data( "bar", { myType: "test", count: 40 } );
+  $( "body" ).data( { baz: [ 1, 2, 3 ] } );
+  $( "body" ).data( "foo" ); // 52
+  $( "body" ).data(); // { foo: 52, bar: { myType: "test", count: 40 }, baz: [ 1, 2, 3 ] }
+
+  console.log($( "body" ).data());
+});
+```
+
+## Lesson 06 extend() 메서드를 활용한 플러그인 옵션처리
+
+> jQuery 플러그인의 경우 기능을 변경할 수 있는 옵션값이 존재합니다.
+
+#### 기본옵션값
+
+플러그인을 만들다 보면 플러그인 호출시 넘겨야 하는 매개변수 값이 많은 경우 / 이값들은 주로 옵션값
+
+`예제` 플러그인에 기본 옵션값 적용하기
+
+```javascript
+function($){
+  $defaultOptions ={
+    duration:500,
+    easing:"easeInQuint",
+    delayTime:1000
+  }
+  $.fn.removeAni=function(duration,easing,delayTime){
+    //사용자 옵션 정보 유무 판단 후, 값이 없는 경우 기본값으로 설정
+    duration = duration || $defaultOptions.duration;
+    easing = easing || $defaultOptions.easing;
+    delayTime = delayTime || $defaultOptions.delayTime;
+    //옵션값을 변경
+    this.each(function(index){
+      var $target= $(this);
+      $target.delay(index*delayTime).animate({
+        height:0
+      },duration,easing, function(){
+        $target.remove();
+      })
+    })
+
+    return this;
+  }
+})(jQuery);
+
+$(document).ready(function(){
+  // 플러그인 호출
+  $(".menu li").removeAni();
+});
+```
+
+http://champ.hackers.com/layouts/champstudy/_js/bxslider.js
+
+`javascript 코드 줄여쓰기`
+
+http://plaboratory.org/archives/3415
+
+`|| (or)  / &&(and)`
+
+http://mygumi.tistory.com/33

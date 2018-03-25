@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title></title>
+	<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			$( "body" ).data( "foo", 52 );
+			$( "body" ).data( "bar", { myType: "test", count: 40 } );
+			$( "body" ).data( { baz: [ 1, 2, 3 ] } );
+			$( "body" ).data( "foo" ); // 52
+			$( "body" ).data(); // { foo: 52, bar: { myType: "test", count: 40 }, baz: [ 1, 2, 3 ] }
+			
+			console.log($( "body" ).data());
+		});
+	</script>
+</head>
+
+<body>
+
+</body>
+</html>
