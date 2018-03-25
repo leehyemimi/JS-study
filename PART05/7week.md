@@ -270,7 +270,7 @@ $(document).ready(function(){
 
 플러그인을 만들다 보면 플러그인 호출시 넘겨야 하는 매개변수 값이 많은 경우 / 이값들은 주로 옵션값
 
-`예제` 플러그인에 기본 옵션값 적용하기
+`예제` 플러그인에 기본 옵션값 적용하기 [예제파일](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/extend01.html)
 
 ```javascript
 function($){
@@ -312,7 +312,7 @@ $(document).ready(function(){
 >
 > 플러그인 제작 시 옵션값 처리에 유용하게 사용됨
 
-`사용법`
+`사용법` 
 
 ```javascript
 var reault = jQuery.extend(target[,object1][,objectN]);
@@ -328,7 +328,7 @@ object1, objectN :  합쳐질 기능을 가진 객체
 
 리턴값은 target에 저장되는 값과 같음
 
-`예제`
+`예제` [예제파일](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/extend02.html)
 
 ```javascript
  $(document).ready(function(){
@@ -362,16 +362,18 @@ object1, objectN :  합쳐질 기능을 가진 객체
  });
 ```
 
-#### extend() 메서드 사용시 주의사항 및 해결책
+##### extend() 메서드 사용시 주의사항 및 해결책
 
 > extend() 메서드 실행후 target 자체도 변경됨
 >
 > 플러그인에서 extend() 메서드를 활용해 옵션값을 처리할때 target에 해당하는 기본 옵션값이 변경되는 안되는 경우가 있음
 
-`예제`
+`예제` [예제파일](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/extend03.html)
 
 ```javascript
 var result = jQuery.extend(null,target,object1);
 var result = jQuery.extend({},target,object1);
 ```
+
+### 03_extend() 메서드를 활용한 플러그인 옵션 처리
 
