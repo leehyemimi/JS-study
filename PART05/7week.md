@@ -304,12 +304,4 @@ $(document).ready(function(){
 });
 ```
 
-http://champ.hackers.com/layouts/champstudy/_js/bxslider.js
-
-`javascript 코드 줄여쓰기`
-
-http://plaboratory.org/archives/3415
-
-`|| (or)  / &&(and)`
-
-http://mygumi.tistory.com/33
+[연산자](https://github.com/leehyemimi/JS-study/blob/master/PART05/Chapter03/%EC%97%B0%EC%82%B0%EC%9E%90.md)
