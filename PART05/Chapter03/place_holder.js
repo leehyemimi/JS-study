@@ -17,7 +17,6 @@
 
 		this.each(function(){
 			var _el = $(this);
-			//_for = _el.attr("id") ? _el.attr("id") : "";
 			if(_el.val() == false){
 				_el.wrapAll("<span style='position:relative; display:block;' class='placeholder'></span>");
 
