@@ -38,9 +38,19 @@
 
 단계01 : 레이아웃 잡기 
 
-단계02 : 탭메뉴 만들기 
+단계02 : 탭메뉴 만들기 https://github.com/leehyemimi/JS-study/blob/master/PART07/tabpanel_v1.js
 
 단계03 : 탭내용 출력하기
+
+1. 효과없이 탭내용 활성화 **(tabpanel_v2.js)**
+
+2. 생성자에 effect 매개변수 추가 **(tabpanel_v3.js)**
+
+   var tabMeun1 = new TabPanel("선택자","선택효과이름");
+
+3. 슬라이드 효과 적용해 탭내용 활성화 **(tabpanel_v4.js)**
+
+4. 페이드 효과 적용해 탭내용 활성화 **(tabpanel_v5.js)**
 
 단계04 : 다형성을 활용해 출력효과 분리하기
 
