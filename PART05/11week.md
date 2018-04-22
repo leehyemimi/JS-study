@@ -54,8 +54,54 @@
 
 단계04 : 다형성을 활용해 출력효과 분리하기
 
-단계05 : 옵션값 만들기
+1. 인터페이스 설계
+
+   ```javascript
+   TabPanel.prototype.normalEffect = function($hideContent,$showContent){
+   	//현재 탭내용 비활성화 코드
+     	//신규 탭내용 활성화 코드
+   }
+
+   TabPanel.prototype.slideEffect = function($hideContent,$showContent,showIndex,$tabContentWidth){
+   	//현재 탭내용 비활성화 코드
+     	//신규 탭내용 활성화 코드
+   }
+
+   TabPanel.prototype.fadeEffect = function($hideContent,$showContent){
+   	//현재 탭내용 비활성화 코드
+     	//신규 탭내용 활성화 코드
+   }
+
+   : 매개변수의 개수도 인터페이스의 규약에 해당
+   오브젝트 형 하나를 매개변수로 함
+
+   일반효과.effect({
+     $hideContent : 현재탭내용,
+     $showContent : 신규탭내용
+   })
+
+   일반효과.effect({
+     $hideContent : 현재탭내용,
+     $showContent : 신규탭내용,
+     showIndex:신규탭 인덱스,
+     $tabContentWidth:탭내용 너비
+   })
+   ```
+
+   ​
+
+2. 일반효과구현하기
+
+3. 페이드효과구현하기
+
+4. 슬라이드효과구현하기 **(tabpanel_v6.js)**
+
+   ​
+
+5. 다형성과 합성을 활용한 출력효과 적용 **(tabpanel_v7.js)**
+
+단계05 : 옵션값 만들기  **(tabpanel_v8.js)**
 
 단계06 : 캡슐화 처리
 
-단계07 : jQuery 플러그인 제작
+단계07 : jQuery 플러그인 제작  **(tabpanel_v9.js)**

@@ -1,4 +1,32 @@
-function TabPanel(selector,effect){
+(function($){
+	$.fn.$tabPanel = function(options){
+		this.each(function(index){
+			var tabPanel = new TabPanel(this,options);
+		})
+
+		return false;
+	}
+
+	$.fn.selectTabPanel = function(tabIndex,animation){
+		this.each(function(index){
+			var tabPanel = $(this).data("tabPanel");
+			if(tabPanel){
+				tabPanel.setSelectTabMenuItemAt(tabIndex,animation);
+			}
+		})
+	}
+})(jQuery);
+
+$(document).ready(function(){
+	$(".tab-panel").$tabPanel({
+		effect:TabPanel.slideEffect,
+		startIndex:2
+	})
+
+	$(".tab-panel").selectTabPanel(4);
+});
+
+function TabPanel(selector,options){ //1.
     this.$tabPanel = null;
     this.$tabMenu = null;
     this.$tabMenuItems = null;
@@ -6,13 +34,19 @@ function TabPanel(selector,effect){
 
     this.$tabContents = null;
     this.$selectTabContent = null;
-    this.effect = "";
+
+    this.effect = null;
     this.$tabContentWidth = -1;
+
+	this.options = null; //2.
 
 	this.init(selector);
 	this.initEvent();
-	this.initEffect(effect);
-	this.setSelectTabMenuItemAt(0,false);
+
+	//this.initEffect(effect);
+	this.initOptions(options); // 3. 변경
+	this.setSelectTabMenuItemAt(this.options.startIndex,false);//4. 옵션값으로 N번째 활성화
+
 }
 //요소 초기화
 TabPanel.prototype.init = function(selector){
@@ -21,6 +55,20 @@ TabPanel.prototype.init = function(selector){
 	this.$tabMenuItems = this.$tabMenu.children("li");
 	this.$tabContents = this.$tabPanel.find(".tab-contents .content");
 	this.$tabContentWidth = this.$tabPanel.find(".tab-contents").width();
+}
+
+//옵션추가 3.
+TabPanel.prototype.initOptions = function(options){
+	this.options = jQuery.extend({},TabPanel.defaultOptions,options);
+	this.effect = this.options.effect;
+}
+
+// 기본 옵션값 4.
+TabPanel.defaultOptions ={
+	startIndex :0,
+	easing:"easeOutQuint",
+	duration:500,
+	effect:TabPanel.slideEffect
 }
 
 //이벤트 초기화
@@ -39,7 +87,7 @@ TabPanel.prototype.initEffect= function(effect){
 	this.effect = effect;
 	//기본값 설정
 	if(this.effect==null){
-		this.effect = "none";
+		this.effect = TabPanel.normalEffect;
 	}
 }
 
@@ -72,26 +120,19 @@ TabPanel.prototype.showContentAt = function(index,animation){
 	var $hideContent = this.$selectTabContent;
 	var $showContent = this.$tabContents.eq(index);
 
-	if(this.effect == "none" || animation==false){
-		//this.normalEffect($hideContent,$showContent);
+	if(animation == false){
 		TabPanel.normalEffect.effect({
 			$hideContent:$hideContent,
 			$showContent:$showContent
 		});
-	}else if(this.effect == "slide"){
-		//this.slideEffect($hideContent,$showContent,showIndex);
-		TabPanel.slideEffect.effect({
+	}else{
+		this.effect.effect({
 			$hideContent:$hideContent,
 			$showContent:$showContent,
 			showIndex:index,
-			tabContentWidth:this.$tabContentWidth
-		})
-
-	}else if(this.effect == "fade"){ //페이드 효과 넣기
-		//this.fadeEffect($hideContent,$showContent);
-		TabPanel.fadeEffect.effect({
-			$hideContent:$hideContent,
-			$showContent:$showContent
+			tabContentWidth:this.$tabContentWidth,
+			duration:this.options.duration,
+			easing:this.options.easing
 		})
 	}
 	//선택  탭 내용 업데이트
@@ -135,7 +176,7 @@ TabPanel.slideEffect = {
 			showStartLeft = params.tabContentWidth;
 		}else{
 			hideEndLeft = params.tabContentWidth;
-			showStartLeft = -params.tabContentWidth;
+			showStartLeft = - params.tabContentWidth;
 		}
 
 		//현재 탭내용 비활성화
@@ -143,7 +184,7 @@ TabPanel.slideEffect = {
 			params.$hideContent.stop().animate({
 				left:hideEndLeft,
 				opacity:0
-			},500,"easeOutQuint");
+			},params.duration,params.easing);
 		}
 
 		//신규 탭내용 활성화
@@ -154,7 +195,7 @@ TabPanel.slideEffect = {
 		params.$showContent.stop().animate({
 			left:0,
 			opacity:1
-		},500,"easeOutQuint");
+		},params.duration,params.easing);
 	}
 }
 
@@ -165,16 +206,14 @@ TabPanel.fadeEffect = {
 		if(params.$hideContent){
 			params.$hideContent.stop().animate({
 				opacity:0
-			},500,"easeOutQuint");
+			},params.duration,params.easing);
 		}
 		//신규 탭내용 활성화
 		params.$showContent.stop().animate({
 			opacity:1
-		},500,"easeOutQuint");
+		},params.duration,params.easing);
 	}
 }
 
-$(document).ready(function(){
-	var tabPanel = new TabPanel(".tab-panel","fade");
-});
+
 
